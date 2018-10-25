@@ -1,11 +1,11 @@
 ## UPLTV ADS 3006 国内版
 
-###测试参数
+### 测试参数
 包名：roy.wan.inland
 广告配置：http://test-ads-sdk.avidly.com/?__pkg=roy.wan.inland&__os=android&country=DEFAULT&encrypt=1
 设备信息：nexus5 Android 6.0.1
 
-###加载到且能播放视频广告：
+### 加载到且能播放视频广告：
  centrixlink  
  oneway  
  vungle_DEFAULT99486  
@@ -14,8 +14,8 @@
  
 
 
-###问题：
-####onAdOpened 和 onAdClosed数目不等
+### 问题：
+#### onAdOpened 和 onAdClosed数目不等
 [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:07.752  9734  9734 I AdsSdk_3006.0: UPRewardVideoWrapper onAdOpened 
 [2018-10-25T11:37:03+0800] [ALL] 10-25 11:37:02.093 13566 13566 I AdsSdk_3006.0: centrixlink onAdOpened 
 [2018-10-25T11:38:14+0800] [ALL] 10-25 11:38:13.498 13566 13566 I AdsSdk_3006.0: chartboost_reward onAdOpened 
@@ -33,17 +33,17 @@
 [2018-10-25T11:44:57+0800] [ALL] 10-25 11:44:56.931 13566 13566 I AdsSdk_3006.0: centrixlink onAdClosed 
 [2018-10-25T11:45:26+0800] [ALL] 10-25 11:45:25.899 13566 13566 I AdsSdk_3006.0: chartboost_reward onAdClosed 
 
-####展示的log只有一个
+#### 展示的log只有一个
  Centrixlink: adEventReport: AD_EVENT_TYPE_CallHasPreloadSuccess
  AdsSdk_3006.0: cplog: 视频广告 isReady return true
  AdsSdk_3006.0: cplog: 视频广告展示,联盟：centrixlink
  Centrixlink: adEventReport: AD_EVENT_TYPE_CallHasPreloadSuccess
  AdsSdk_3006.0: Adapter: REWARDVIDEO centrixlink isValid: true
 
-####暂时没有找到NEW_SDK_INIT打点
+#### 暂时没有找到NEW_SDK_INIT打点
 
 
-####错误信息：
+#### 错误信息：
 
 ##### A.头条
 
