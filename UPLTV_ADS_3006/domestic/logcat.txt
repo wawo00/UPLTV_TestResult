@@ -1,0 +1,623 @@
+
+
+Searching 1 file for "9734" (regex)
+
+<untitled 82>:
+ 3333  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:26.202  9631  9678 W TaskSchedulerLowPriority0-Flag: Duration spec must be at least 2 characters long:
+ 3334  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:26.344   925  1096 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=roy.wan.inland/com.avidly.adsdk.demo.MainActivity} from uid 2000 on display 0
+ 3335: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:26.407   925  1792 I ActivityManager: Start proc 9734:roy.wan.inland/u0a167 for activity roy.wan.inland/com.avidly.adsdk.demo.MainActivity
+ 3336  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:26.412   925   934 I art     : Background partial concurrent mark sweep GC freed 64053(4MB) AllocSpace objects, 27(528KB) LOS objects, 30% free, 36MB/52MB, paused 12.507ms total 189.545ms
+ 3337  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:26.681   925  1795 D VoldConnector: SND -> {35 volume mkdirs /storage/emulated/0/Android/data/roy.wan.inland/files/}
+ ....
+ 3339  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:26.861 29012 12863 D AppProcessManager: topPackageName :roy.wan.inland
+ 3340  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:26.861 29012  9432 D mirror  : AppProcessManager sendPackageName msg: {"Action":"TopAppChanged","PackageName":"roy.wan.inland"}
+ 3341: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:26.909  9734  9750 I chatty  : uid=10167(roy.wan.inland) expire 3 lines
+ 3342  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:27.076  9661  9708 E QueryController: Got null root node from accessibility - Retrying...
+ 3343  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:27.362   925   946 I ActivityManager: Displayed roy.wan.inland/com.avidly.adsdk.demo.MainActivity: +975ms (total +25s103ms)
+ ....
+ 3364  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:28.117   313   961 D audio_hw_primary: enable_audio_route: apply and update mixer path: low-latency-playback
+ 3365  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:28.234   925   946 I ActivityManager: Displayed roy.wan.inland/com.avidly.adsdk.demo.BannerActivity: +177ms
+ 3366: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:28.532  9734  9749 I chatty  : uid=10167(roy.wan.inland) expire 44 lines
+ 3367: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:29.097  9734  9734 I chatty  : uid=10167(roy.wan.inland) expire 122 lines
+ 3368  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:29.792 29012 12863 D AppProcessManager: topPackageName :roy.wan.inland
+ 3369: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:30.088  9734  9790 I chatty  : uid=10167(roy.wan.inland) expire 4 lines
+ 3370: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:30.108  9734  9791 I chatty  : uid=10167(roy.wan.inland) expire 3 lines
+ 3371: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:30.120  9734  9748 I chatty  : uid=10167(roy.wan.inland) expire 35 lines
+ 3372: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:30.121  9734  9794 I chatty  : uid=10167(roy.wan.inland) expire 12 lines
+ 3373: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:30.233  9734  9793 I chatty  : uid=10167(roy.wan.inland) expire 76 lines
+ 3374: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:30.513  9734  9821 I chatty  : uid=10167(roy.wan.inland) expire 4 lines
+ 3375: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:30.703  9734  9759 I chatty  : uid=10167(roy.wan.inland) expire 4 lines
+ 3376: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:31.207   925  1674 D ConnectivityService: listenForNetwork for Listen from uid/pid:10167/9734 for NetworkRequest [ id=440, legacyType=-1, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED] ]
+ 3377  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:31.314   313   961 D audio_hw_primary: disable_audio_route: reset and update mixer path: low-latency-playback
+ 3378  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:31.315   313   961 D audio_hw_primary: disable_snd_device: snd_device(2: speaker)
+ 3379: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:31.494  9734  9795 I chatty  : uid=10167(roy.wan.inland) expire 3 lines
+ 3380  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:32.773 29012 12863 D AppProcessManager: topPackageName :roy.wan.inland
+ 3381  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:32.812  9661  9695 I art     : Background sticky concurrent mark sweep GC freed 17477(921KB) AllocSpace objects, 0(0B) LOS objects, 72% free, 393KB/1455KB, paused 11.552ms total 19.550ms
+ 3382: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:32.843  9734  9743 I chatty  : uid=10167(roy.wan.inland) expire 10 lines
+ 3383  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:32.897 13416 13416 I art     : Waiting for a blocking GC DisableMovingGc
+ 3384  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:32.901 13416 13416 I art     : Starting a blocking GC DisableMovingGc
+ 3385: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:32.946   925  1793 D ConnectivityService: listenForNetwork for Listen from uid/pid:10167/9734 for NetworkRequest [ id=441, legacyType=-1, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED] ]
+ 3386: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:33.093  9734  9872 I chatty  : uid=10167(roy.wan.inland) expire 3 lines
+ 3387  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:33.124   925   945 D BluetoothManagerService: Added callback: android.bluetooth.IBluetoothManagerCallback$Stub$Proxy@7647c02:true
+ 3388: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:33.539  9734  9886 I chatty  : uid=10167(roy.wan.inland) expire 20 lines
+ 3389: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:33.911  9734  9895 I chatty  : uid=10167(roy.wan.inland) expire 2 lines
+ 3390: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:33.919  9734  9896 I chatty  : uid=10167(roy.wan.inland) expire 2 lines
+ 3391: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:34.442  9734  9907 I chatty  : uid=10167(roy.wan.inland) expire 1 line
+ 3392  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:34.506  9919  9919 I chatty  : uid=10167(roy.wan.inland) ps expire 31 lines
+ 3393: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:35.089  9734  9942 I chatty  : uid=10167(roy.wan.inland) expire 2 lines
+ 3394: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:35.166  9734  9944 I chatty  : uid=10167(roy.wan.inland) expire 5 lines
+ 3395: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:35.168  9734  9945 I chatty  : uid=10167(roy.wan.inland) expire 4 lines
+ 3396: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:35.171  9734  9946 I chatty  : uid=10167(roy.wan.inland) expire 3 lines
+ 3397: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:35.176  9734  9947 I chatty  : uid=10167(roy.wan.inland) expire 2 lines
+ 3398: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:35.662  9734  9958 I chatty  : uid=10167(roy.wan.inland) expire 12 lines
+ 3399  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:35.785 29012 12863 D AppProcessManager: topPackageName :roy.wan.inland
+ 3400: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:37.935  9734  9978 I chatty  : uid=10167(roy.wan.inland) expire 18 lines
+ 3401  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:38.813   925  1793 W WindowManager: Force-removing child win Window{ac2306d u0 Panel:roy.wan.inland/com.avidly.adsdk.demo.BannerActivity} from container Window{9d097c0 u0 roy.wan.inland/com.avidly.adsdk.demo.BannerActivity}
+ 3402  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:38.917 29012 12863 D AppProcessManager: topPackageName :roy.wan.inland
+ ....
+ 3413  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:39.381  9661  9661 W InteractionController: runAndwaitForEvent timedout waiting for events
+ 3414  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:41.775 29012 12863 D AppProcessManager: topPackageName :roy.wan.inland
+ 3415: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:42.211  9734  9988 I chatty  : uid=10167(roy.wan.inland) expire 12 lines
+ 3416  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:44.435  9661  9661 I QueryController: Matched selector: UiSelector[INSTANCE=0, RESOURCE_ID=roy.wan.inland:id/btnRwardVideo] <<==>> [android.view.accessibility.AccessibilityNodeInfo@800087f5; boundsInParent: Rect(0, 0 - 1050, 144); boundsInScreen: Rect(15, 948 - 1065, 1092); packageName: roy.wan.inland; className: android.widget.Button; text: 视频广告; error: null; maxTextLength: -1; contentDescription: null; viewIdResName: roy.wan.inland:id/btnRwardVideo; checkable: false; checked: false; focusable: true; focused: false; selected: false; clickable: true; longClickable: false; contextClickable: false; enabled: true; password: false; scrollable: false; actions: [AccessibilityAction: ACTION_FOCUS - null, AccessibilityAction: ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_CLICK - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_NEXT_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_SET_SELECTION - null, AccessibilityAction: ACTION_UNKNOWN - null]]
+ 3417  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:44.485  9661  9661 I QueryController: Matched selector: UiSelector[INSTANCE=0, RESOURCE_ID=roy.wan.inland:id/btnRwardVideo] <<==>> [android.view.accessibility.AccessibilityNodeInfo@800087f5; boundsInParent: Rect(0, 0 - 1050, 144); boundsInScreen: Rect(15, 948 - 1065, 1092); packageName: roy.wan.inland; className: android.widget.Button; text: 视频广告; error: null; maxTextLength: -1; contentDescription: null; viewIdResName: roy.wan.inland:id/btnRwardVideo; checkable: false; checked: false; focusable: true; focused: false; selected: false; clickable: true; longClickable: false; contextClickable: false; enabled: true; password: false; scrollable: false; actions: [AccessibilityAction: ACTION_FOCUS - null, AccessibilityAction: ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_CLICK - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_NEXT_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_SET_SELECTION - null, AccessibilityAction: ACTION_UNKNOWN - null]]
+ ....
+ 3423  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:44.642   313   961 D audio_hw_primary: enable_snd_device: snd_device(2: speaker)
+ 3424  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:44.644   313   961 D audio_hw_primary: enable_audio_route: apply and update mixer path: low-latency-playback
+ 3425: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:44.688  9734  9886 I chatty  : uid=10167(roy.wan.inland) expire 42 lines
+ 3426  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:44.779 29012 12863 D AppProcessManager: topPackageName :roy.wan.inland
+ 3427  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:45.052   925   946 I ActivityManager: Displayed roy.wan.inland/com.avidly.adsdk.demo.VideoActivity: +427ms
+ 3428  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:45.127   925  1038 D WifiService: New client listening to asynchronous messages
+ 3429: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:45.578  9734 10020 I chatty  : uid=10167(roy.wan.inland) expire 23 lines
+ 3430: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:45.781  9734  9749 I chatty  : uid=10167(roy.wan.inland) expire 1 line
+ 3431: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:45.841  9734  9792 I chatty  : uid=10167(roy.wan.inland) expire 1 line
+ 3432: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:46.046  9734 10049 I chatty  : uid=10167(roy.wan.inland) expire 18 lines
+ 3433: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:46.309  9734 10009 I chatty  : uid=10167(roy.wan.inland) expire 2 lines
+ 3434: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:46.707  9734 10059 I chatty  : uid=10167(roy.wan.inland) expire 2 lines
+ 3435: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:46.718  9734 10060 I chatty  : uid=10167(roy.wan.inland) expire 2 lines
+ 3436: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:47.372  9734  9911 I chatty  : uid=10167(roy.wan.inland) expire 3 lines
+ 3437  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:47.841   313   961 D audio_hw_primary: disable_audio_route: reset and update mixer path: low-latency-playback
+ 3438  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:47.841   313   961 D audio_hw_primary: disable_snd_device: snd_device(2: speaker)
+ 3439  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:47.851 29012 12863 D AppProcessManager: topPackageName :roy.wan.inland
+ 3440: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:47.868  9734  9734 I chatty  : uid=10167(roy.wan.inland) expire 51 lines
+ 3441: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:47.951  9734  9748 I chatty  : uid=10167(roy.wan.inland) expire 15 lines
+ 3442: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:48.011  9734  9793 I chatty  : uid=10167(roy.wan.inland) expire 19 lines
+ 3443: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:48.493  9734  9958 I chatty  : uid=10167(roy.wan.inland) expire 4 lines
+ 3444  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:50.285   323   414 I ThermalEngine: TM Id 'battery_LCD_monitor' Sensor 'batt_therm' - alarm raised 5 at 371.0 degC
+ 3445  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:50.285   323   414 E ThermalEngine: override action 0
+ ....
+ 3455  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:50.749   313   961 D audio_hw_primary: enable_audio_route: apply and update mixer path: low-latency-playback
+ 3456  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:50.765 29012 12863 D AppProcessManager: topPackageName :roy.wan.inland
+ 3457: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:51.010  9734  9734 W System.err: 	at android.location.LocationManager.requestLocationUpdates(LocationManager.java:880)
+ 3458: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:51.011  9734  9734 W System.err: 	at android.location.LocationManager.requestSingleUpdate(LocationManager.java:688)
+ 3459: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:51.011  9734  9734 W System.err: 	at com.bytedance.sdk.openadsdk.g.b.b(AdLocationUtils.java:169)
+ 3460: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:51.011  9734  9734 W System.err: 	at com.bytedance.sdk.openadsdk.g.b.a(AdLocationUtils.java:20)
+ 3461: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:51.011  9734  9734 W System.err: 	at com.bytedance.sdk.openadsdk.g.b$1.run(AdLocationUtils.java:92)
+ 3462: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:51.011  9734  9734 W System.err: 	at android.os.Handler.handleCallback(Handler.java:739)
+ 3463: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:51.011  9734  9734 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:95)
+ 3464: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:51.011  9734  9734 W System.err: 	at android.os.Looper.loop(Looper.java:148)
+ 3465: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:51.011  9734  9734 W System.err: 	at android.app.ActivityThread.main(ActivityThread.java:5417)
+ 3466: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:51.011  9734  9734 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+ 3467: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:51.011  9734  9734 W System.err: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:726)
+ 3468: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:51.011  9734  9734 W System.err: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:616)
+ 3469: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:51.028  9734  9793 I <ALY Android>_3200: 开始插入数据：1
+ 3470: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:51.060  9734  9793 I <ALY Android>_3200: 完成插入数据：1
+ 3471: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:51.060  9734  9793 I <ALY Android>_3200: ====数据插入运行完成===
+ 3472: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:51.121  9734  9793 I <ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 1
+ 3473: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:51.342  9734  9734 D FetchDownloader: 263411917072174: 86% completed, 2179992/2534449 , error: -1
+ 3474: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:51.342  9734  9734 D FetchDownloader: 263411917072174: 86% completed, 2179992/2534449 , error: -1
+ 3475: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:51.375  9734 10011 I Centrixlink: checkServerTrusted
+ 3476: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:51.614  9734  9734 D FetchDownloader: 263411718143268: 55% completed, 2245525/4026752 , error: -1
+ 3477: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:51.614  9734  9734 D FetchDownloader: 263411718143268: 55% completed, 2245525/4026752 , error: -1
+ 3478: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:51.627  9734  9793 I <ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+ 3479: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:51.894  9734  9734 D FetchDownloader: 263411944955559: 41% completed, 2212756/5294334 , error: -1
+ 3480: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:51.894  9734  9734 D FetchDownloader: 263411944955559: 41% completed, 2212756/5294334 , error: -1
+ 3481: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:52.742  9734  9734 I AdsSdk_3006.0: LoadManager LoadCallback: toutiao_901121365 onLoaded，加载成功
+ 3482: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:52.743  9734  9734 I AdsSdk_3006.0: LoadCallback: toutiao_901121365 loadCostTimeMills is 1765
+ 3483: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:52.746  9734  9734 I <ALY Android>_3200: logEvent key: _NEW_RDA_LOADOK, value: [{__req_id=328a52bfad044228a22df03321ee35db, __gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22toutiao%22%2C%22app_id%22%3A%225001121%22%2C%22slot_id%22%3A%22901121365%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __load_time=1765, __ad_id=rewarded_video, __sdk_ver=3006.0, __open_id=248d4333904b0abd43f1c4272f62204d, __pkg=roy.wan.inland, __sta_token=aaf47fb409f3472d86e47903873c9dfb}]
+ 3484: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:52.749  9734  9748 I AdsSdk_3006.0: vungle_DEFAULT99486: 重试开始
+ 3485: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:52.750  9734  9886 I AdsSdk_3006.0: rewarded_video: AffInfo is: {"aff_name":"vungle","app_id":"58c23edde5ffdf116e0000b4","placement_id":"DEFAULT99486","open_i_b":0,"aff_ttl":1800,"vungle_ids":"INTERST54803,DEFAULT99486"}
+ 3486: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:52.750  9734  9886 D AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: false
+ 3487: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:52.750  9734  9886 I AdsSdk_3006.0: LoadManager vungle_DEFAULT99486: load开始
+ 3488: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:52.754  9734  9886 I <ALY Android>_3200: logEvent key: _NEW_RDA_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22vungle%22%2C%22app_id%22%3A%2258c23edde5ffdf116e0000b4%22%2C%22placement_id%22%3A%22DEFAULT99486%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%2C%22vungle_ids%22%3A%22INTERST54803%2CDEFAULT99486%22%7D, __ad_id=rewarded_video, __sdk_ver=3006.0, __open_id=248d4333904b0abd43f1c4272f62204d, __pkg=roy.wan.inland, __sta_token=aaf47fb409f3472d86e47903873c9dfb}]
+ 3489: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:52.755  9734  9886 I Storage :  Searching for valid adv for pl DEFAULT99486
+ 3490: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:52.755  9734  9886 I Storage :  Searching for valid adv for pl DEFAULT99486 all ids [5bd13828de97311ca888928b]
+ 3491: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:52.755  9734  9886 I Storage : Found valid adv 5bd13828de97311ca888928b
+ 3492: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:52.756  9734  9886 I AdsSdk_3006.0: LoadManager LoadCallback: vungle_DEFAULT99486 onError，加载失败
+ 3493: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:52.756  9734  9886 I AdsSdk_3006.0: message: VungleRewardVideoAdapter failed, throwable: com.vungle.warren.error.VungleException: There is already an ongoing operation for the action you requested. Please wait until the operation finished before starting another.
+ 3494: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:52.798  9734  9793 I <ALY Android>_3200: 开始插入数据：2
+ 3495: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:52.830  9734  9793 I <ALY Android>_3200: 完成插入数据：2
+ 3496: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:52.830  9734  9793 I <ALY Android>_3200: ====数据插入运行完成===
+ 3497: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:52.892  9734  9793 I <ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 2
+ 3498: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:52.898  9734  9748 I AdsSdk_3006.0: rewarded_video: LoadCallback: toutiao_901121365 onLoaded，加载成功
+ 3499: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:53.006  9734  9748 I AdsSdk_3006.0: rewarded_video: LoadCallback: vungle_DEFAULT99486 onError，加载失败
+ 3500: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:53.006  9734  9748 I AdsSdk_3006.0: message: VungleRewardVideoAdapter failed, throwable: com.vungle.warren.error.VungleException: There is already an ongoing operation for the action you requested. Please wait until the operation finished before starting another.
+ 3501: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:53.006  9734  9748 I AdsSdk_3006.0: vungle_DEFAULT99486: 6000ms后重试
+ 3502: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:53.375  9734  9793 I <ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+ 3503: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:53.382  9734  9734 D FetchDownloader: 263411917072174: 100% completed, 2534449/2534449 , error: -1
+ 3504  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:53.803 29012 12863 D AppProcessManager: topPackageName :roy.wan.inland
+ 3505: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:53.920  9734  9734 D FetchDownloader: 263411917072174: 100% completed, 2534449/2534449 , error: -1
+ 3506  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:53.946   313   961 D audio_hw_primary: disable_audio_route: reset and update mixer path: low-latency-playback
+ 3507  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:53.946   313   961 D audio_hw_primary: disable_snd_device: snd_device(2: speaker)
+ 3508: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:54.039  9734  9734 D FetchDownloader: 263411718143268: 65% completed, 2638717/4026752 , error: -1
+ 3509: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:54.039  9734  9734 D FetchDownloader: 263411718143268: 65% completed, 2638717/4026752 , error: -1
+ 3510: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:54.039  9734  9734 D FetchDownloader: 263411944955559: 50% completed, 2655097/5294334 , error: -1
+ 3511: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:54.039  9734  9734 D FetchDownloader: 263411944955559: 50% completed, 2655097/5294334 , error: -1
+ 3512: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:54.039  9734  9734 I Choreographer: Skipped 38 frames!  The application may be doing too much work on its main thread.
+ 3513: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:55.681  9734  9734 D FetchDownloader: 263411718143268: 87% completed, 3539782/4026752 , error: -1
+ 3514: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:55.681  9734  9734 D FetchDownloader: 263411718143268: 87% completed, 3539782/4026752 , error: -1
+ 3515: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:55.885  9734  9743 I art     : Background partial concurrent mark sweep GC freed 161598(14MB) AllocSpace objects, 18(692KB) LOS objects, 40% free, 23MB/39MB, paused 4.882ms total 130.713ms
+ 3516: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:56.043  9734  9734 D FetchDownloader: 263411944955559: 68% completed, 3621694/5294334 , error: -1
+ 3517: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:56.043  9734  9734 D FetchDownloader: 263411944955559: 68% completed, 3621694/5294334 , error: -1
+ 3518: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:56.647  9734 10009 I Centrixlink: checkServerTrusted
+ 3519: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:56.766  9734  9748 I AdsSdk_3006.0: playableads_il-100013-1503555086979: 重试开始
+ 3520: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:56.767  9734  9958 I AdsSdk_3006.0: inter_aaa: AffInfo is: {"aff_name":"playableads","app_key":"il-100013-1503555086979","open_i_b":0,"aff_ttl":1800}
+ 3521: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:56.767  9734  9958 D AdsSdk_3006.0: Adapter: INTERSTITIAL playableads_il-100013-1503555086979 isValid: false
+ 3522: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:56.767  9734  9958 I AdsSdk_3006.0: LoadManager playableads_il-100013-1503555086979: load开始
+ 3523: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:56.773  9734  9958 I <ALY Android>_3200: logEvent key: _NEW_IL_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22playableads%22%2C%22app_key%22%3A%22il-100013-1503555086979%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __ad_id=inter_aaa, __sdk_ver=3006.0, __open_id=248d4333904b0abd43f1c4272f62204d, __pkg=roy.wan.inland, __sta_token=aaf47fb409f3472d86e47903873c9dfb}]
+ 3524: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:56.781  9734  9734 I AdsSdk_3006.0: LoadManager LoadCallback: playableads_il-100013-1503555086979 onError，加载失败
+ 3525: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:56.781  9734  9734 I AdsSdk_3006.0: message: PlayableInterstitialAdapter failed
+ 3526  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:56.800 29012 12863 D AppProcessManager: topPackageName :roy.wan.inland
+ 3527: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:56.825  9734  9793 I <ALY Android>_3200: 开始插入数据：1
+ 3528: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:56.845  9734  9793 I <ALY Android>_3200: 完成插入数据：1
+ 3529: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:56.845  9734  9793 I <ALY Android>_3200: ====数据插入运行完成===
+ 3530: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:56.907  9734  9793 I <ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 1
+ 3531: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:57.032  9734  9748 I AdsSdk_3006.0: inter_aaa: LoadCallback: playableads_il-100013-1503555086979 onError，加载失败
+ 3532: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:57.032  9734  9748 I AdsSdk_3006.0: message: PlayableInterstitialAdapter failed
+ 3533: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:57.394  9734  9793 I <ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+ 3534: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:57.987  9734  9734 D FetchDownloader: 263411718143268: 99% completed, 3998506/4026752 , error: -1
+ 3535: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:57.987  9734  9734 D FetchDownloader: 263411718143268: 99% completed, 3998506/4026752 , error: -1
+ 3536: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:58.096  9734  9734 D FetchDownloader: 263411718143268: 100% completed, 4026752/4026752 , error: -1
+ 3537: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:58.100  9734  9734 D com.vungle.warren.Vungle: download completed INTERST54803
+ 3538: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:58.100  9734  9734 I Storage : Setting 1 for adv 5bd13828c5b2ea1bf775a9c3 and pl INTERST54803
+ 3539: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:58.103  9734  9734 D FilePersistor:  Saving Advertisement{adType=0, identifier='5bd13828c5b2ea1bf775a9c3', appID='$0${"app_id":"5b18fe29ed812c001b2529ca","eventID":"5bd13828c5b2ea1bf775a9c3"}', expireTime=1541042856, checkpoints=[com.vungle.warren.model.Advertisement$Checkpoint@2895259, com.vungle.warren.model.Advertisement$Checkpoint@5655e1e, com.vungle.warren.model.Advertisement$Checkpoint@80a66ff, com.vungle.warren.model.Advertisement$Checkpoint@9bccc, com.vungle.warren.model.Advertisement$Checkpoint@d73bb15], muteUrls=[https://ingest.vungle.com/tpat?event_id=5bd13828c5b2ea1bf775a9c3&device_id=68cfc7bb674f7b7f&event_type=MUTE], unmuteUrls=[https://ingest.vungle.com/tpat?event_id=5bd13828c5b2ea1bf775a9c3&device_id=68cfc7bb674f7b7f&event_type=UNMUTE], closeUrls=[https://ingest.vungle.com/tpat?event_id=5bd13828c5b2ea1bf775a9c3&device_id=68cfc7bb674f7b7f&event_type=VIDEO_CLOSE], postRollClickUrls=[https://app.appsflyer.com/com.brokenreality.planemerger.android?af_siteid=58c23edde5ffdf116e0000b4&af_cost_model=CPI&af_cost_value=0.7&af_cost_currency=USD&pid=vungle_int&af_click_lookback=7d&android_id=&advertising_id=68cfc7bb674f7b7f&clickid=5bd13828c5b2ea1bf775a9c3&vungleappid=5b18fe29ed812c001b2529ca&c=Merge%20Plane%20Android%20HK%20180912&af_ad=Client_30s_MergePlane_EN_181023_And_Portrait_CIEC-NOTIMER-Btnend_XinzuanFeiJi, https://ingest.vungle.com/tpat?event_id=5bd13828c5b2ea1bf775a9c3&device_id=68cfc7bb674f7b7f&event_type=POSTROLL_CLICK], postRollViewUrls=[https://ingest.vungle.com/tpat?event_id=5bd13828c5b2ea1bf775a9c3&device_id=68cfc7bb674f7b7f&event_type=POSTROLL_VIEW], clickUrls=[], delay=0, campaign='5b9967094ff35c6fa2f5136a|5bcfb69b40a3d60434702fa3|datasci--blr_20180201_pla_bcvr_explore05--success--bidbox|5bd13828c5b2ea1bf775a9c3', showCloseDelay=6, showCloseIncentivized=6, countdown=4, videoUrl='https://cdn-lb.vungle.com/zen/720X1280-XinzuanFeiJi-720x1280-Q2.mp4', videoWidth=720, videoHeight=1280, md5='fake_md5', postrollBundleUrl='https://cdn-lb.vungle.com/bundles/5bcfb67240a3d60434702f9f-CUSTOM-1.zip', ctaOverlayEnabled=false, ctaShowOnClick=false, ctaTimeEnabled=0, ctaTimeShow=0, ctaClickArea=1, ctaDestinationUrl='https://play.google.com/store/apps/details?id=com.brokenreality.planemerger.android', ctaUrl='https://play.google.com/store/apps/details?id=com.brokenreality.planemerger.android', adConfig=com.vungle.warren.AdConfig@4853e2a, retryCount=3, adToken='eyJjYW1wYWlnbiI6IjViOTk2NzA5NGZmMzVjNmZhMmY1MTM2YXw1YmNmYjY5YjQwYTNkNjA0MzQ3MDJmYTN8ZGF0YXNjaS0tYmxyXzIwMTgwMjAxX3BsYV9iY3ZyX2V4cGxvcmUwNS0tc3VjY2Vzcy0tYmlkYm94fDViZDEzODI4YzViMmVhMWJmNzc1YTljMyJ9', videoIdentifier='5bcfb3524d3adf04414a642b', templateUrl='', templateSettings={}, templateId='', templateType='', enableMoat=false, moatExtraVast='', requiresNonMarketInstall=false, adMarketId='com.brokenreality.planemerger.android', bidToken='', state=1}
+ 3540: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:58.108  9734  9734 D FilePersistor:  Saving Placement{identifier='INTERST54803', advertisementIDs=[5bd13828c5b2ea1bf775a9c3], autoCached=false, incentivized=false, wakeupTime=0}
+ 3541: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:58.109  9734  9734 D Vungle  : Downloaded assets for INTERST54803 to /data/user/0/roy.wan.inland/cache/vungle
+ 3542: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:58.113  9734  9734 V Vungle  : +--vungle/
+ 3543: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:58.113  9734  9734 V Vungle  : |  +--5bd13828c5b2ea1bf775a9c3/
+ 3544: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:58.113  9734  9734 V Vungle  : |  |  +--video
+ 3545: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:58.113  9734  9734 V Vungle  : |  |  +--postrollUnzip/
+ 3546: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:58.113  9734  9734 V Vungle  : |  |  |  +--index.html
+ 3547: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:58.113  9734  9734 V Vungle  : |  |  |  +--mraid-mock.js
+ 3548: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:58.113  9734  9734 V Vungle  : |  |  |  +--vungle.min.css
+ 3549: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:58.113  9734  9734 V Vungle  : |  |  |  +--vungle.min.js
+ 3550: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:58.113  9734  9734 V Vungle  : |  +--5bd13828de97311ca888928b/
+ 3551: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:58.113  9734  9734 V Vungle  : |  |  +--postrollUnzip/
+ 3552: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:58.113  9734  9734 V Vungle  : |  |  |  +--assets.js
+ 3553: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:58.113  9734  9734 V Vungle  : |  |  |  +--atlas.js
+ 3554: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:58.113  9734  9734 V Vungle  : |  |  |  +--config.js
+ 3555: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:58.113  9734  9734 V Vungle  : |  |  |  +--index.html
+ 3556: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:58.113  9734  9734 V Vungle  : |  |  |  +--playable.js
+ 3557: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:58.113  9734  9734 V Vungle  : |  |  |  +--style.css
+ 3558: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:58.113  9734  9734 V Vungle  : |  |  |  +--vendor.js
+ 3559: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:58.113  9734  9734 V Vungle  : |  |  |  +--vungle.min.css
+ 3560: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:58.113  9734  9734 V Vungle  : |  |  |  +--vungle.min.js
+ 3561: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:58.113  9734  9734 I AdsSdk_3006.0: LoadManager LoadCallback: vungle_INTERST54803 onLoaded，加载成功
+ 3562: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:58.118  9734  9734 I <ALY Android>_3200: logEvent key: _NEW_IL_LOADOK, value: [{__req_id=7b2621fadc8620c595aa3cf5744d4b21, __gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22vungle%22%2C%22app_id%22%3A%2258c23edde5ffdf116e0000b4%22%2C%22placement_id%22%3A%22INTERST54803%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%2C%22vungle_ids%22%3A%22INTERST54803%2CDEFAULT99486%22%7D, __ad_id=inter_aaa, __sdk_ver=3006.0, __open_id=248d4333904b0abd43f1c4272f62204d, __pkg=roy.wan.inland, __sta_token=aaf47fb409f3472d86e47903873c9dfb}]
+ 3563: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:58.119  9734  9734 D FetchDownloader: 263411718143268: 100% completed, 4026752/4026752 , error: -1
+ 3564: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:58.129  9734  9734 D FetchDownloader: 263411944955559: 77% completed, 4113184/5294334 , error: -1
+ 3565: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:58.129  9734  9734 D FetchDownloader: 263411944955559: 77% completed, 4113184/5294334 , error: -1
+ 3566: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:58.170  9734  9793 I <ALY Android>_3200: 开始插入数据：1
+ 3567: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:58.193  9734  9793 I <ALY Android>_3200: 完成插入数据：1
+ 3568: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:58.193  9734  9793 I <ALY Android>_3200: ====数据插入运行完成===
+ 3569: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:58.255  9734  9793 I <ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 1
+ 3570: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:58.269  9734  9748 I AdsSdk_3006.0: inter_aaa: LoadCallback: vungle_INTERST54803 onLoaded，加载成功
+ 3571: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:58.994  9734  9793 I <ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+ 3572: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:59.008  9734  9748 I AdsSdk_3006.0: vungle_DEFAULT99486: 重试开始
+ 3573: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:59.008  9734  9978 I AdsSdk_3006.0: rewarded_video: AffInfo is: {"aff_name":"vungle","app_id":"58c23edde5ffdf116e0000b4","placement_id":"DEFAULT99486","open_i_b":0,"aff_ttl":1800,"vungle_ids":"INTERST54803,DEFAULT99486"}
+ 3574: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:59.008  9734  9978 D AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: false
+ 3575: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:59.009  9734  9978 I AdsSdk_3006.0: LoadManager vungle_DEFAULT99486: load开始
+ 3576: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:59.012  9734  9978 I <ALY Android>_3200: logEvent key: _NEW_RDA_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22vungle%22%2C%22app_id%22%3A%2258c23edde5ffdf116e0000b4%22%2C%22placement_id%22%3A%22DEFAULT99486%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%2C%22vungle_ids%22%3A%22INTERST54803%2CDEFAULT99486%22%7D, __ad_id=rewarded_video, __sdk_ver=3006.0, __open_id=248d4333904b0abd43f1c4272f62204d, __pkg=roy.wan.inland, __sta_token=aaf47fb409f3472d86e47903873c9dfb}]
+ 3577: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:59.013  9734  9978 I Storage :  Searching for valid adv for pl DEFAULT99486
+ 3578: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:59.013  9734  9978 I Storage :  Searching for valid adv for pl DEFAULT99486 all ids [5bd13828de97311ca888928b]
+ 3579: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:59.013  9734  9978 I Storage : Found valid adv 5bd13828de97311ca888928b
+ 3580: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:59.013  9734  9978 I AdsSdk_3006.0: LoadManager LoadCallback: vungle_DEFAULT99486 onError，加载失败
+ 3581: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:59.013  9734  9978 I AdsSdk_3006.0: message: VungleRewardVideoAdapter failed, throwable: com.vungle.warren.error.VungleException: There is already an ongoing operation for the action you requested. Please wait until the operation finished before starting another.
+ 3582: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:59.064  9734  9793 I <ALY Android>_3200: 开始插入数据：1
+ 3583: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:59.086  9734  9793 I <ALY Android>_3200: 完成插入数据：1
+ 3584: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:59.086  9734  9793 I <ALY Android>_3200: ====数据插入运行完成===
+ 3585: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:59.148  9734  9793 I <ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 1
+ 3586: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:59.264  9734  9748 I AdsSdk_3006.0: rewarded_video: LoadCallback: vungle_DEFAULT99486 onError，加载失败
+ 3587: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:59.264  9734  9748 I AdsSdk_3006.0: message: VungleRewardVideoAdapter failed, throwable: com.vungle.warren.error.VungleException: There is already an ongoing operation for the action you requested. Please wait until the operation finished before starting another.
+ 3588: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:59.264  9734  9748 I AdsSdk_3006.0: vungle_DEFAULT99486: 8000ms后重试
+ 3589: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:59.635  9734  9793 I <ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+ 3590  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:27:59.781 29012 12863 D AppProcessManager: topPackageName :roy.wan.inland
+ 3591: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:00.182  9734  9734 D FetchDownloader: 263411944955559: 84% completed, 4489993/5294334 , error: -1
+ 3592: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:00.182  9734  9734 D FetchDownloader: 263411944955559: 84% completed, 4489993/5294334 , error: -1
+ 3593: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:00.712  9734  9734 I AdsSdk_3006.0: UPRewardVideoWrapper: show_ad is true
+ 3594: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:00.712  9734  9734 I AdsSdk_3006.0: TriggerParam mShowCount is 1
+ 3595: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:00.712  9734  9734 I AdsSdk_3006.0: TriggerParam platform is null
+ 3596: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:00.712  9734  9734 I AdsSdk_3006.0: UPRewardVideoWrapper show_order配置的展示联盟：null
+ 3597: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:00.712  9734  9734 I AdsSdk_3006.0: UPRewardVideoWrapper peek
+ 3598: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:00.712  9734  9734 I AdsSdk_3006.0: rewarded_video: ParallelRequestStrategy peek platform: null
+ 3599: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:00.712  9734  9734 I AdsSdk_3006.0: rewarded_video peek, auctionOpen is false, mServerReqIds.size is 0
+ 3600: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:00.712  9734  9734 I AdsSdk_3006.0: rewarded_video peek, 根据affinfo_list配置排序开始
+ 3601: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:00.712  9734  9734 I Centrixlink: adEventReport: AD_EVENT_TYPE_CallHasPreloadSuccess
+ 3602: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:00.713  9734  9734 D AdsSdk_3006.0: Adapter: REWARDVIDEO centrixlink isValid: true
+ 3603: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:00.713  9734  9734 I AdsSdk_3006.0: rewarded_videopeek, 根据affinfo_list配置排序成功
+ 3604: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:00.713  9734  9734 I AdsSdk_3006.0: UPRewardVideoWrapper peek成功， 联盟: centrixlink
+ 3605: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:00.714  9734  9734 I Centrixlink: adEventReport: AD_EVENT_TYPE_CallHasPreloadSuccess
+ 3606: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:00.714  9734  9748 I AdsSdk_3006.0: rewarded_video: fillup is called
+ 3607: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:00.714  9734  9734 D AdsSdk_3006.0: Adapter: REWARDVIDEO centrixlink isValid: true
+ 3608: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:00.714  9734  9734 I Centrixlink: adEventReport: AD_EVENT_TYPE_CallHasPreloadSuccess
+ 3609: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:00.716  9734  9748 I AdsSdk_3006.0: rewarded_video: only_wifi：false，netType: wifi
+ 3610: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:00.716  9734  9748 W AdsSdk_3006.0: rewarded_video: fillup too frequently, return
+ 3611: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:00.716  9734  9734 I AdsSdk_3006.0: rewarded_video开始判断是否达到显示条件
+ 3612: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:00.717  9734  9734 I AdsSdk_3006.0: TriggerParam mShowCount is 1 mDailyShowTimes is 50
+ 3613: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:00.717  9734  9734 I AdsSdk_3006.0: TriggerHelper canShow return: true
+ 3614: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:00.717  9734  9734 I AdsSdk_3006.0: cplog: 视频广告 isReady return true
+ 3615: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:00.949  9734  9750 V RenderScript: 0xaf071000 Launching thread(s), CPUs 4
+ 3616: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:02.183  9734  9734 I AdsSdk_3006.0: LoadManager LoadCallback: chartboost_reward onLoaded，加载成功
+ 3617: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:02.183  9734  9734 I AdsSdk_3006.0: LoadCallback: chartboost_reward loadCostTimeMills is 15080
+ 3618: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:02.187  9734  9734 I <ALY Android>_3200: logEvent key: _NEW_RDA_LOADOK, value: [{__req_id=a2875200124c25f7ca30f20a7e1bd62d, __gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22chartboost%22%2C%22app_id%22%3A%22571f555504b01670daab617f%22%2C%22location%22%3A%22reward%22%2C%22app_sign%22%3A%229078ed6ab5e240e56a642e20ce80f04c8a5747b5%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __load_time=15080, __ad_id=rewarded_video, __sdk_ver=3006.0, __open_id=248d4333904b0abd43f1c4272f62204d, __pkg=roy.wan.inland, __sta_token=aaf47fb409f3472d86e47903873c9dfb}]
+ 3619: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:02.233  9734  9734 D FetchDownloader: 263411944955559: 90% completed, 4817653/5294334 , error: -1
+ 3620: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:02.233  9734  9734 D FetchDownloader: 263411944955559: 90% completed, 4817653/5294334 , error: -1
+ 3621: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:02.239  9734  9793 I <ALY Android>_3200: 开始插入数据：1
+ 3622: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:02.269  9734  9793 I <ALY Android>_3200: 完成插入数据：1
+ 3623: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:02.269  9734  9793 I <ALY Android>_3200: ====数据插入运行完成===
+ 3624: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:02.331  9734  9793 I <ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 1
+ 3625: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:02.339  9734  9748 I AdsSdk_3006.0: rewarded_video: LoadCallback: chartboost_reward onLoaded，加载成功
+ 3626  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:02.785 29012 12863 D AppProcessManager: topPackageName :roy.wan.inland
+ 3627: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:02.838  9734  9793 I <ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+ 3628: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:04.301  9734  9734 D FetchDownloader: 263411944955559: 97% completed, 5145313/5294334 , error: -1
+ 3629: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:04.302  9734  9734 D FetchDownloader: 263411944955559: 97% completed, 5145313/5294334 , error: -1
+ 3630: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.212  9734  9734 D FetchDownloader: 263411944955559: 100% completed, 5294334/5294334 , error: -1
+ 3631: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.214  9734  9734 D com.vungle.warren.Vungle: download completed DEFAULT99486
+ 3632: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.214  9734  9734 I Storage : Setting 1 for adv 5bd13828de97311ca888928b and pl DEFAULT99486
+ 3633: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.215  9734  9734 D FilePersistor:  Saving Advertisement{adType=0, identifier='5bd13828de97311ca888928b', appID='$0${"app_id":"57c7d98f7388cd1a4e000037","eventID":"5bd13828de97311ca888928b"}', expireTime=1541042857, checkpoints=[com.vungle.warren.model.Advertisement$Checkpoint@d61f391, com.vungle.warren.model.Advertisement$Checkpoint@e1112f6, com.vungle.warren.model.Advertisement$Checkpoint@15036f7, com.vungle.warren.model.Advertisement$Checkpoint@9f0d964, com.vungle.warren.model.Advertisement$Checkpoint@52137cd], muteUrls=[https://ingest.vungle.com/tpat?event_id=5bd13828de97311ca888928b&device_id=68cfc7bb674f7b7f&event_type=MUTE], unmuteUrls=[https://ingest.vungle.com/tpat?event_id=5bd13828de97311ca888928b&device_id=68cfc7bb674f7b7f&event_type=UNMUTE], closeUrls=[https://ingest.vungle.com/tpat?event_id=5bd13828de97311ca888928b&device_id=68cfc7bb674f7b7f&event_type=VIDEO_CLOSE], postRollClickUrls=[https://app.appsflyer.com/com.droidhang.ad?pid=vungle_int&c=%5BMB%5DIdle%20Heroes%20Android%20HK%20180816&af_click_lookback=7d&android_id=&advertising_id=68cfc7bb674f7b7f&clickid=5bd13828de97311ca888928b&af_siteid=58c23edde5ffdf116e0000b4&vungleappid=57c7d98f7388cd1a4e000037&af_cost_model=CPI&af_cost_value=6&af_cost_currency=USD, https://ingest.vungle.com/tpat?event_id=5bd13828de97311ca888928b&device_id=68cfc7bb674f7b7f&event_type=POSTROLL_CLICK], postRollViewUrls=[https://app.appsflyer.com/com.droidhang.ad?pid=vungle_int&c=%5BMB%5DIdle%20Heroes%20Android%20HK%20180816&af_click_lookback=7d&android_id=&advertising_id=68cfc7bb674f7b7f&clickid=5bd13828de97311ca888928b&af_siteid=58c23edde5ffdf116e0000b4&vungleappid=57c7d98f7388cd1a4e000037&af_cost_model=CPI&af_cost_value=6&af_cost_currency=USD, https://ingest.vungle.com/tpat?event_id=5bd13828de97311ca888928b&device_id=68cfc7bb674f7b7f&event_type=POSTROLL_VIEW], clickUrls=[], delay=0, campaign='5b7583bd7542ef78708f3df4|5bbc9d569fb03302c7fdf2cb|datasci--blr_20180201_pla_bcvr_explore05--success--bidbox|5bd13828de97311ca888928b', showCloseDelay=9999, showCloseIncentivized=9999, countdown=4, videoUrl='https://cdn-lb.vungle.com/zen/EQ_HeChengQIFU_CYC_EN_720x1280-720x1280-Q2.mp4', videoWidth=720, videoHeight=1280, md5='fake_md5', postrollBundleUrl='https://cdn-lb.vungle.com/bundles/5b0d7c481da34041457d867b-CUSTOM-1.zip', ctaOverlayEnabled=false, ctaShowOnClick=false, ctaTimeEnabled=0, ctaTimeShow=0, ctaClickArea=1, ctaDestinationUrl='https://play.google.com/store/apps/details?id=com.droidhang.ad', ctaUrl='https://play.google.com/store/apps/details?id=com.droidhang.ad', adConfig=com.vungle.warren.AdConfig@3b36882, retryCount=3, adToken='eyJjYW1wYWlnbiI6IjViNzU4M2JkNzU0MmVmNzg3MDhmM2RmNHw1YmJjOWQ1NjlmYjAzMzAyYzdmZGYyY2J8ZGF0YXNjaS0tYmxyXzIwMTgwMjAxX3BsYV9iY3ZyX2V4cGxvcmUwNS0tc3VjY2Vzcy0tYmlkYm94fDViZDEzODI4ZGU5NzMxMWNhODg4OTI4YiJ9', videoIdentifier='5bbc65c5f2ae7702c1f75312', templateUrl='', templateSettings={}, templateId='', templateType='', enableMoat=false, moatExtraVast='', requiresNonMarketInstall=false, adMarketId='com.droidhang.ad', bidToken='', state=1}
+ 3634: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.216  9734  9734 D FilePersistor:  Saving Placement{identifier='DEFAULT99486', advertisementIDs=[5bd13828de97311ca888928b], autoCached=true, incentivized=true, wakeupTime=0}
+ 3635: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.217  9734  9734 D Vungle  : Downloaded assets for DEFAULT99486 to /data/user/0/roy.wan.inland/cache/vungle
+ 3636: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.220  9734  9734 V Vungle  : +--vungle/
+ 3637: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.220  9734  9734 V Vungle  : |  +--5bd13828c5b2ea1bf775a9c3/
+ 3638: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.220  9734  9734 V Vungle  : |  |  +--video
+ 3639: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.220  9734  9734 V Vungle  : |  |  +--postrollUnzip/
+ 3640: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.220  9734  9734 V Vungle  : |  |  |  +--index.html
+ 3641: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.220  9734  9734 V Vungle  : |  |  |  +--mraid-mock.js
+ 3642: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.220  9734  9734 V Vungle  : |  |  |  +--vungle.min.css
+ 3643: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.220  9734  9734 V Vungle  : |  |  |  +--vungle.min.js
+ 3644: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.220  9734  9734 V Vungle  : |  +--5bd13828de97311ca888928b/
+ 3645: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.220  9734  9734 V Vungle  : |  |  +--video
+ 3646: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.220  9734  9734 V Vungle  : |  |  +--postrollUnzip/
+ 3647: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.220  9734  9734 V Vungle  : |  |  |  +--assets.js
+ 3648: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.220  9734  9734 V Vungle  : |  |  |  +--atlas.js
+ 3649: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.220  9734  9734 V Vungle  : |  |  |  +--config.js
+ 3650: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.220  9734  9734 V Vungle  : |  |  |  +--index.html
+ 3651: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.220  9734  9734 V Vungle  : |  |  |  +--playable.js
+ 3652: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.220  9734  9734 V Vungle  : |  |  |  +--style.css
+ 3653: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.220  9734  9734 V Vungle  : |  |  |  +--vendor.js
+ 3654: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.220  9734  9734 V Vungle  : |  |  |  +--vungle.min.css
+ 3655: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.220  9734  9734 V Vungle  : |  |  |  +--vungle.min.js
+ 3656: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.222  9734  9945 D com.vungle.warren.tasks.DownloadJob: scheduleJob: latch await0
+ 3657: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.222  9734  9945 D JobRunnable: On job finished com.vungle.warren.tasks.DownloadJob DEFAULT99486 with result 0
+ 3658: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.223  9734  9734 D FetchDownloader: 263411944955559: 100% completed, 5294334/5294334 , error: -1
+ 3659  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.253 13290 13340 I Finsky  : [4795] com.google.android.finsky.bo.ad.run(6): Stats for Executor: BlockingExecutor com.google.android.finsky.bo.ae@3a02784[Running, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 6]
+ 3660  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.253 13290 13340 I Finsky  : [4795] com.google.android.finsky.bo.ad.run(6): Stats for Executor: LightweightExecutor com.google.android.finsky.bo.ae@b533b6d[Running, pool size = 3, active threads = 0, queued tasks = 0, completed tasks = 46]
+ ....
+ 3664  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.791  9661  9661 I QueryController: Matched selector: UiSelector[INSTANCE=0, RESOURCE_ID=roy.wan.inland:id/btnVideo] <<==>> [android.view.accessibility.AccessibilityNodeInfo@800103d9; boundsInParent: Rect(0, 0 - 600, 144); boundsInScreen: Rect(240, 1302 - 840, 1446); packageName: roy.wan.inland; className: android.widget.Button; text: 播放视频; error: null; maxTextLength: -1; contentDescription: null; viewIdResName: roy.wan.inland:id/btnVideo; checkable: false; checked: false; focusable: true; focused: false; selected: false; clickable: true; longClickable: false; contextClickable: false; enabled: true; password: false; scrollable: false; actions: [AccessibilityAction: ACTION_FOCUS - null, AccessibilityAction: ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_CLICK - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_NEXT_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_SET_SELECTION - null, AccessibilityAction: ACTION_UNKNOWN - null]]
+ 3665  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.794  9661  9661 D InteractionController: clickAndSync(540, 1374)
+ 3666: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.898  9734  9734 I AdsSdk_3006.0: UPRewardVideoWrapper: show_ad is true
+ 3667: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.898  9734  9734 I AdsSdk_3006.0: TriggerParam mShowCount is 1
+ 3668: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.898  9734  9734 I AdsSdk_3006.0: TriggerParam platform is null
+ 3669: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.898  9734  9734 I AdsSdk_3006.0: UPRewardVideoWrapper show_order配置的展示联盟：null
+ 3670: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.898  9734  9734 I AdsSdk_3006.0: UPRewardVideoWrapper peek
+ 3671: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.898  9734  9734 I AdsSdk_3006.0: rewarded_video: ParallelRequestStrategy peek platform: null
+ 3672: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.898  9734  9734 I AdsSdk_3006.0: rewarded_video peek, auctionOpen is false, mServerReqIds.size is 0
+ 3673: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.898  9734  9734 I AdsSdk_3006.0: rewarded_video peek, 根据affinfo_list配置排序开始
+ 3674: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.899  9734  9734 I Centrixlink: adEventReport: AD_EVENT_TYPE_CallHasPreloadSuccess
+ 3675: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.899  9734  9734 D AdsSdk_3006.0: Adapter: REWARDVIDEO centrixlink isValid: true
+ 3676: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.899  9734  9734 I AdsSdk_3006.0: rewarded_videopeek, 根据affinfo_list配置排序成功
+ 3677: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.899  9734  9734 I AdsSdk_3006.0: UPRewardVideoWrapper peek成功， 联盟: centrixlink
+ 3678: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.899  9734  9734 I Centrixlink: adEventReport: AD_EVENT_TYPE_CallHasPreloadSuccess
+ 3679: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.900  9734  9748 I AdsSdk_3006.0: rewarded_video: fillup is called
+ 3680: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.900  9734  9734 D AdsSdk_3006.0: Adapter: REWARDVIDEO centrixlink isValid: true
+ 3681: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.901  9734  9734 I Centrixlink: adEventReport: AD_EVENT_TYPE_CallHasPreloadSuccess
+ 3682: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.901  9734  9748 I AdsSdk_3006.0: rewarded_video: only_wifi：false，netType: wifi
+ 3683: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.901  9734  9748 W AdsSdk_3006.0: rewarded_video: fillup too frequently, return
+ 3684: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.901  9734  9734 I AdsSdk_3006.0: rewarded_video开始判断是否达到显示条件
+ 3685: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.902  9734  9734 I AdsSdk_3006.0: TriggerParam mShowCount is 1 mDailyShowTimes is 50
+ 3686: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.902  9734  9734 I AdsSdk_3006.0: TriggerHelper canShow return: true
+ 3687: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.902  9734  9734 I AdsSdk_3006.0: cplog: 视频广告 isReady return true
+ 3688: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.902  9734  9734 I AdsSdk_3006.0: UPRewardVideoWrapper 传入的广告位: rewardvideo
+ 3689  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.911   313   961 D audio_hw_primary: out_set_parameters: enter: usecase(1: low-latency-playback) kvpairs: routing=2
+ 3690: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.912  9734  9734 I AdsSdk_3006.0: UPRewardVideoWrapper: show_ad is true
+ 3691: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.912  9734  9734 I AdsSdk_3006.0: TriggerParam mShowCount is 1
+ 3692: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.912  9734  9734 I AdsSdk_3006.0: TriggerParam platform is null
+ 3693: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.912  9734  9734 I AdsSdk_3006.0: UPRewardVideoWrapper show_order配置的展示联盟：null
+ 3694: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.912  9734  9734 I AdsSdk_3006.0: UPRewardVideoWrapper peek
+ 3695: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.912  9734  9734 I AdsSdk_3006.0: rewarded_video: ParallelRequestStrategy peek platform: null
+ 3696: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.913  9734  9734 I AdsSdk_3006.0: rewarded_video peek, auctionOpen is false, mServerReqIds.size is 0
+ 3697: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.913  9734  9734 I AdsSdk_3006.0: rewarded_video peek, 根据affinfo_list配置排序开始
+ 3698: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.913  9734  9734 I Centrixlink: adEventReport: AD_EVENT_TYPE_CallHasPreloadSuccess
+ 3699: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.913  9734  9734 D AdsSdk_3006.0: Adapter: REWARDVIDEO centrixlink isValid: true
+ 3700: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.913  9734  9734 I AdsSdk_3006.0: rewarded_videopeek, 根据affinfo_list配置排序成功
+ 3701: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.913  9734  9734 I AdsSdk_3006.0: UPRewardVideoWrapper peek成功， 联盟: centrixlink
+ 3702: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.913  9734  9734 I Centrixlink: adEventReport: AD_EVENT_TYPE_CallHasPreloadSuccess
+ 3703: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.914  9734  9734 D AdsSdk_3006.0: Adapter: REWARDVIDEO centrixlink isValid: true
+ 3704: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.914  9734  9734 I Centrixlink: adEventReport: AD_EVENT_TYPE_CallHasPreloadSuccess
+ 3705: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.916  9734  9734 I AdsSdk_3006.0: cplog: 视频广告 isReady return true
+ 3706: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.918  9734  9734 I AdsSdk_3006.0: cplog: 视频广告展示,联盟：centrixlink
+ 3707: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.919  9734  9734 I Centrixlink: adEventReport: AD_EVENT_TYPE_CallHasPreloadSuccess
+ 3708: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.919  9734  9734 D AdsSdk_3006.0: Adapter: REWARDVIDEO centrixlink isValid: true
+ 3709: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.920  9734  9734 D AdsSdk_3006.0: Adapter: REWARDVIDEO chartboost_reward isValid: true
+ 3710: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.920  9734  9734 D AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+ 3711: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.920  9734  9734 D AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: true
+ 3712: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.920  9734  9734 I AdsSdk_3006.0: UPRewardVideoWrapper: 加载成功联盟：chartboost|||toutiao|||oneway|||centrixlink
+ 3713: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.924  9734  9734 I <ALY Android>_3200: logEvent key: _NEW_RDA_SHOW, value: [{__req_id=15ec4006c101b7d6b68acfad859bbe47, __gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22centrixlink%22%2C%22app_id%22%3A%22FQ11tkfWJ4%22%2C%22app_key%22%3A%22MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC6WzCw9MWQjwUH76KR%2Bcjr%5C%2FCdCyQ1UqQRqsMFSRmhM2XHPpXUp4v%2BvAL984P8xhZ%5C%2FQLOMIULcLfuegqrzEm0lobJy%5C%2FdLMy%2Be18ucR%5C%2Fz1lr6gXnItTwqliJfmNFQOOpYGs8OprucdYqtBl7M4keVDBPYOpVkBTSGr6HxKquZyA9tQIDAQAB%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __cp_ad_id=rewardvideo, __ad_id=rewarded_video, __aff_ready=chartboost|||toutiao|||oneway|||centrixlink, __sdk_ver=3006.0, __open_id=248d4333904b0abd43f1c4272f62204d, __pkg=roy.wan.inland, __sta_token=aaf47fb409f3472d86e47903873c9dfb}]
+ 3714: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.929  9734  9734 I <ALY Android>_3200: logEvent key: _NEW_RDA_SHOW_RES, value: [{__req_id=15ec4006c101b7d6b68acfad859bbe47, __gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22centrixlink%22%2C%22app_id%22%3A%22FQ11tkfWJ4%22%2C%22app_key%22%3A%22MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC6WzCw9MWQjwUH76KR%2Bcjr%5C%2FCdCyQ1UqQRqsMFSRmhM2XHPpXUp4v%2BvAL984P8xhZ%5C%2FQLOMIULcLfuegqrzEm0lobJy%5C%2FdLMy%2Be18ucR%5C%2Fz1lr6gXnItTwqliJfmNFQOOpYGs8OprucdYqtBl7M4keVDBPYOpVkBTSGr6HxKquZyA9tQIDAQAB%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __sdk_ver=3006.0, __res_type=3, __open_id=248d4333904b0abd43f1c4272f62204d, __pkg=roy.wan.inland, __sta_token=aaf47fb409f3472d86e47903873c9dfb}]
+ 3715: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.930  9734  9734 I Centrixlink: adEventReport: AD_EVENT_TYPE_CallHasPreloadSuccess
+ 3716: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.931  9734  9734 I Centrixlink: +play
+ 3717: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.931  9734  9734 I Centrixlink: adEventReport: AD_EVENT_TYPE_CallShow
+ 3718  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.932   313   961 D audio_hw_primary: select_devices: out_snd_device(2: speaker) in_snd_device(0: none)
+ 3719  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.932   313   961 D msm8974_platform: platform_send_audio_calibration: sending audio calibration for snd_device(2) acdb_id(15)
+ 3720  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.932   313   961 D audio_hw_primary: enable_snd_device: snd_device(2: speaker)
+ 3721  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.934   313   961 D audio_hw_primary: enable_audio_route: apply and update mixer path: low-latency-playback
+ 3722: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.934  9734  9734 I Centrixlink: play, got ADItem to play
+ 3723  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.951   925  1553 I ActivityManager: START u0 {flg=0x30000000 cmp=roy.wan.inland/com.centrixlink.SDK.FullScreenADActivity (has extras)} from uid 10167 on display 0
+ 3724: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.963  9734  9734 I LOG_REPORT: 是否开始埋点上报false
+ 3725: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.963  9734  9734 I Centrixlink: play, through chosen ADItem to showVideoAD
+ 3726: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.964  9734  9734 I LOG_REPORT: 是否开始埋点上报false
+ 3727: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.964  9734  9734 I Centrixlink: adEventReport: AD_EVENT_TYPE_CallPlay
+ 3728: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.964  9734  9734 I Centrixlink: -play
+ 3729: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.967  9734  9748 I Centrixlink: adEventReport: AD_EVENT_TYPE_CallHasPreloadSuccess
+ 3730: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.975  9734  9748 E Centrixlink: [103]is ad playing , please wait playByPost ad finished.
+ 3731: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.975  9734  9734 I LOG_REPORT: onPause save to document =
+ 3732: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.975  9734  9734 I LOG_REPORT: []
+ 3733: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.976  9734  9748 I LOG_REPORT: 是否开始埋点上报false
+ 3734: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.976  9734  9748 D AdsSdk_3006.0: Adapter: REWARDVIDEO centrixlink isValid: false
+ 3735: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.976  9734  9793 I <ALY Android>_3200: 开始插入数据：2
+ 3736: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.999  9734  9793 I <ALY Android>_3200: 完成插入数据：2
+ 3737: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:05.999  9734  9793 I <ALY Android>_3200: ====数据插入运行完成===
+ 3738: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:06.060  9734  9793 I <ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 2
+ 3739: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:06.107  9734 10049 I Centrixlink: URL request https://api.centrixlink.com/api-rest/v4/ads/FQ11tkfWJ4?timestamp=1540438086034&sign=e09a1c8eb55bb79ddb59010f5152086cmethod POST
+ 3740: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:06.194  9734 10049 I CentrixlinkAPI: HTTP response code was 200 from submitting event data: https://api.centrixlink.com/api-rest/v4/ads/FQ11tkfWJ4?timestamp=1540438086034&sign=e09a1c8eb55bb79ddb59010f5152086c
+ 3741: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:06.211  9734 10049 I LOG_REPORT: 是否开始APM埋点上报false
+ 3742: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:06.230  9734 10049 I CentrixlinkAPI: request https://api.centrixlink.com/api-rest/v4/ads/FQ11tkfWJ4?timestamp=1540438086034&sign=e09a1c8eb55bb79ddb59010f5152086c success
+ 3743: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:06.602  9734  9793 I <ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+ 3744: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:06.608  9734 10046 I LOG_REPORT: successinsert success
+ 3745: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:06.979  9734  9734 I Choreographer: Skipped 58 frames!  The application may be doing too much work on its main thread.
+ 3746  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:07.051   925  1548 I MediaFocusControl:  AudioFocus  requestAudioFocus() from android.media.AudioManager@622d61d req=1flags=0x0
+ 3747  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:07.114   313 10139 D NuPlayer: onSetVideoSurface(0xb38e4c00, no video decoder)
+ 3748: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:07.120  9734  9734 E Centrixlink: [103]is ad playing , please wait playByPost ad finished.
+ 3749: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:07.120  9734  9734 I LOG_REPORT: 是否开始埋点上报false
+ 3750  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:07.218   925   946 I ActivityManager: Displayed roy.wan.inland/com.centrixlink.SDK.FullScreenADActivity: +1s238ms
+ 3751  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:07.264   313 10139 D NuPlayerDriver: notifyListener_l(0xb48d48a0), (5, 1280, 720)
+ 3752  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:07.265   313 10139 D NuPlayerDriver: notifyListener_l(0xb48d48a0), (1, 0, 0)
+ 3753: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:07.267  9734  9748 I AdsSdk_3006.0: vungle_DEFAULT99486: 重试开始
+ 3754: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:07.268  9734  9988 I AdsSdk_3006.0: rewarded_video: AffInfo is: {"aff_name":"vungle","app_id":"58c23edde5ffdf116e0000b4","placement_id":"DEFAULT99486","open_i_b":0,"aff_ttl":1800,"vungle_ids":"INTERST54803,DEFAULT99486"}
+ 3755: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:07.268  9734  9988 D AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: false
+ 3756: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:07.268  9734  9988 I AdsSdk_3006.0: LoadManager vungle_DEFAULT99486: load开始
+ 3757: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:07.271  9734  9988 I <ALY Android>_3200: logEvent key: _NEW_RDA_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22vungle%22%2C%22app_id%22%3A%2258c23edde5ffdf116e0000b4%22%2C%22placement_id%22%3A%22DEFAULT99486%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%2C%22vungle_ids%22%3A%22INTERST54803%2CDEFAULT99486%22%7D, __ad_id=rewarded_video, __sdk_ver=3006.0, __open_id=248d4333904b0abd43f1c4272f62204d, __pkg=roy.wan.inland, __sta_token=aaf47fb409f3472d86e47903873c9dfb}]
+ 3758: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:07.273  9734  9988 I Storage :  Searching for valid adv for pl DEFAULT99486
+ 3759: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:07.274  9734  9988 I Storage :  Searching for valid adv for pl DEFAULT99486 all ids [5bd13828de97311ca888928b]
+ 3760: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:07.275  9734  9988 I Storage : Found valid adv 5bd13828de97311ca888928b
+ 3761: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:07.275  9734  9988 I AdsSdk_3006.0: LoadManager LoadCallback: vungle_DEFAULT99486 onLoaded，加载成功
+ 3762: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:07.276  9734  9988 I AdsSdk_3006.0: LoadCallback: vungle_DEFAULT99486 loadCostTimeMills is -1
+ 3763: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:07.279  9734  9988 I <ALY Android>_3200: logEvent key: _NEW_RDA_LOADOK, value: [{__req_id=219d2cd07315c4bd2b525f8004384021, __gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22vungle%22%2C%22app_id%22%3A%2258c23edde5ffdf116e0000b4%22%2C%22placement_id%22%3A%22DEFAULT99486%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%2C%22vungle_ids%22%3A%22INTERST54803%2CDEFAULT99486%22%7D, __load_time=-1, __ad_id=rewarded_video, __sdk_ver=3006.0, __open_id=248d4333904b0abd43f1c4272f62204d, __pkg=roy.wan.inland, __sta_token=aaf47fb409f3472d86e47903873c9dfb}]
+ 3764: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:07.281  9734  9734 W ContentValues: isConsoleMessage failed:
+ 3765: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:07.322  9734  9793 I <ALY Android>_3200: 开始插入数据：2
+ 3766: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:07.367  9734  9793 I <ALY Android>_3200: 完成插入数据：2
+ 3767: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:07.367  9734  9793 I <ALY Android>_3200: ====数据插入运行完成===
+ 3768: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:07.430  9734  9793 I <ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 2
+ 3769: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:07.431  9734  9748 I AdsSdk_3006.0: rewarded_video: LoadCallback: vungle_DEFAULT99486 onLoaded，加载成功
+ 3770: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:07.520  9734  9734 D MediaPlayer: getMetadata
+ 3771: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:07.529  9734  9734 I Centrixlink: cLLogEventReport: 7
+ 3772: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:07.529  9734  9734 I LOG_REPORT: 是否开始埋点上报false
+ 3773: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:07.529  9734  9734 I Centrixlink: adEventReport: AD_EVENT_TYPE_Play
+ 3774  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:07.531   313 14333 D NuPlayerDriver: start(0xb48d48a0), state is 4, eos is 0
+ 3775  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:07.531   313 10139 I GenericSource: start
+ ....
+ 3786  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:07.683   313   961 D audio_hw_primary: out_set_parameters: enter: usecase(1: low-latency-playback) kvpairs: routing=2
+ 3787  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:07.691   313 10139 D NuPlayerDriver: notifyListener_l(0xb48d48a0), (6, 0, 0)
+ 3788: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:07.752  9734  9734 I AdsSdk_3006.0: UPRewardVideoWrapper onAdOpened
+ 3789: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:07.757  9734  9734 I <ALY Android>_3200: logEvent key: _NEW_ABT_E, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __placement_id=rewardvideo, __abt_config=, __sdk_ver=3006.0, __open_id=248d4333904b0abd43f1c4272f62204d, __pkg=roy.wan.inland, __sta_token=aaf47fb409f3472d86e47903873c9dfb}]
+ 3790  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:07.759   313   961 D AudioFlinger: mixer(0xb4180000) throttle end: throttle time(1)
+ 3791: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:07.764  9734  9734 I AdsSdk_demo: onVideoAdDisplayed:
+ 3792: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:07.769  9734  9734 I <ALY Android>_3200: logEvent key: _NEW_RDA_SHOWOK, value: [{__req_id=15ec4006c101b7d6b68acfad859bbe47, __gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22centrixlink%22%2C%22app_id%22%3A%22FQ11tkfWJ4%22%2C%22app_key%22%3A%22MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC6WzCw9MWQjwUH76KR%2Bcjr%5C%2FCdCyQ1UqQRqsMFSRmhM2XHPpXUp4v%2BvAL984P8xhZ%5C%2FQLOMIULcLfuegqrzEm0lobJy%5C%2FdLMy%2Be18ucR%5C%2Fz1lr6gXnItTwqliJfmNFQOOpYGs8OprucdYqtBl7M4keVDBPYOpVkBTSGr6HxKquZyA9tQIDAQAB%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __cp_ad_id=rewardvideo, __ad_id=rewarded_video, __sdk_ver=3006.0, __open_id=248d4333904b0abd43f1c4272f62204d, __pkg=roy.wan.inland, __sta_token=aaf47fb409f3472d86e47903873c9dfb}]
+ 3793: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:07.805  9734 10020 I Centrixlink: URL request https://api.centrixlink.com/api-rest/v4/impression?appID=FQ11tkfWJ4&appName=%E5%B9%BF%E5%91%8Ademo-3006&bundleID=roy.wan.inland&appVer=3.0.0.6&requestID=201810251127499aa70929fcbc47bdb718b67f5d19e440&UDID=5aa25e582b0000410099fc37&playid=201810251127499aa70929fcbc47bdb718b67f5d19e440&preloadid=2018102511274705d49bc34a9fa36b43c9ed0bb367a3a4&campaignID=1390&creativeID=901&token=d61dee4c2e12c6d593bfb1873dcf11d4&progress=0&manufacturer=LGE&platform=Android&model=Nexus%205&product=hammerhead&osVer=6.0.1&dpi=480&operator=&country=US&sdkVer=2.5.3&sdkVerCode=391&network=1&imsi=&mac=CC%3AFA%3A00%3AE6%3A07%3AB8&androidID=68cfc7bb674f7b7fmethod GET
+ 3794: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:07.817  9734  9793 I <ALY Android>_3200: 开始插入数据：2
+ 3795  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:07.855   313 10147 D SurfaceUtils: set up nativeWindow 0xb38e4c08 for 1280x720, color 0x7fa30c04, rotation 0, usage 0x42002900
+ 3796  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:07.979   313 10147 D SurfaceUtils: set up nativeWindow 0xb38e4c08 for 1280x720, color 0x7fa30c04, rotation 0, usage 0x42002900
+ 3797: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:07.986  9734 10020 I CentrixlinkAPI: HTTP response code was 200 from submitting event data: https://api.centrixlink.com/api-rest/v4/impression?appID=FQ11tkfWJ4&appName=%E5%B9%BF%E5%91%8Ademo-3006&bundleID=roy.wan.inland&appVer=3.0.0.6&requestID=201810251127499aa70929fcbc47bdb718b67f5d19e440&UDID=5aa25e582b0000410099fc37&playid=201810251127499aa70929fcbc47bdb718b67f5d19e440&preloadid=2018102511274705d49bc34a9fa36b43c9ed0bb367a3a4&campaignID=1390&creativeID=901&token=d61dee4c2e12c6d593bfb1873dcf11d4&progress=0&manufacturer=LGE&platform=Android&model=Nexus+5&product=hammerhead&osVer=6.0.1&dpi=480&operator=&country=US&sdkVer=2.5.3&sdkVerCode=391&network=1&imsi=&mac=CC%3AFA%3A00%3AE6%3A07%3AB8&androidID=68cfc7bb674f7b7f
+ 3798  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:08.008   313 10139 D NuPlayerDriver: notifyListener_l(0xb48d48a0), (5, 1280, 720)
+ 3799  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:08.010   313 10139 D NuPlayerDriver: notifyListener_l(0xb48d48a0), (200, 3, 0)
+ 3800: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:08.011  9734  9744 W MediaPlayer: info/warning (3, 0)
+ 3801: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:08.032  9734  9793 I <ALY Android>_3200: 完成插入数据：2
+ 3802: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:08.032  9734  9793 I <ALY Android>_3200: ====数据插入运行完成===
+ 3803: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:08.105  9734  9793 I <ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 2
+ 3804: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:08.140  9734  9793 I <ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+ 3805: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:08.609  9734  9793 I <ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+ 3806  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:08.918 29012 12863 D AppProcessManager: topPackageName :roy.wan.inland
+ 3807  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:09.511   925  1038 D WifiService: Client connection lost with reason: 4
+ 3808: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:09.616  9734  9734 I chromium: [INFO:CONSOLE(1)] "Uncaught ReferenceError: setEnableWXShare is not defined", source: file:///storage/emulated/0/Android/data/roy.wan.inland/cache/CentrixlinkAD/endcards/560a49f5c22ba4bf26c72d680dd81240/index.html (1)
+ 3809  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:09.668   925  1548 I ActivityManager: Process com.tencent.mobileqq:tool (pid 7272) has died
+ 3810  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:09.689   925  1096 D GraphicsStats: Buffer count: 8
+ ....
+ 3825  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:11.779 16630 16658 I chatty  : uid=10086(com.estrongs.android.pop) FileObserver expire 2547 lines
+ 3826  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:11.828 29012 12863 D AppProcessManager: topPackageName :roy.wan.inland
+ 3827: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:12.081  9734 10049 I Centrixlink: URL request https://api.centrixlink.com/api-rest/v4/progress?appID=FQ11tkfWJ4&appName=%E5%B9%BF%E5%91%8Ademo-3006&bundleID=roy.wan.inland&appVer=3.0.0.6&requestID=201810251127490b7d7c3e094c42d7883f518baf878543&UDID=5aa25e582b0000410099fc37&playid=201810251127499aa70929fcbc47bdb718b67f5d19e440&preloadid=2018102511274705d49bc34a9fa36b43c9ed0bb367a3a4&campaignID=1390&creativeID=901&token=d61dee4c2e12c6d593bfb1873dcf11d4&progress=1&manufacturer=LGE&platform=Android&model=Nexus%205&product=hammerhead&osVer=6.0.1&dpi=480&operator=&country=US&sdkVer=2.5.3&sdkVerCode=391&network=1&imsi=&mac=CC%3AFA%3A00%3AE6%3A07%3AB8&androidID=68cfc7bb674f7b7fmethod GET
+ 3828: [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:12.263  9734 10049 I CentrixlinkAPI: HTTP response code was 200 from submitting event data: https://api.centrixlink.com/api-rest/v4/progress?appID=FQ11tkfWJ4&appName=%E5%B9%BF%E5%91%8Ademo-3006&bundleID=roy.wan.inland&appVer=3.0.0.6&requestID=201810251127490b7d7c3e094c42d7883f518baf878543&UDID=5aa25e582b0000410099fc37&playid=201810251127499aa70929fcbc47bdb718b67f5d19e440&preloadid=2018102511274705d49bc34a9fa36b43c9ed0bb367a3a4&campaignID=1390&creativeID=901&token=d61dee4c2e12c6d593bfb1873dcf11d4&progress=1&manufacturer=LGE&platform=Android&model=Nexus+5&product=hammerhead&osVer=6.0.1&dpi=480&operator=&country=US&sdkVer=2.5.3&sdkVerCode=391&network=1&imsi=&mac=CC%3AFA%3A00%3AE6%3A07%3AB8&androidID=68cfc7bb674f7b7f
+ 3829  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:12.270   925  1792 I ActivityManager: Start proc 10180:com.estrongs.android.pop/u0a86 for service com.estrongs.android.pop/com.android.apps.pros.LocalMService
+ 3830  [2018-10-25T11:35:40+0800] [ALL] 10-25 11:28:12.720 10180 10180 I chatty  : uid=10086(com.estrongs.android.pop) expire 3 lines
+ ....
+ 4637  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:15.758 10180 10180 I UpnpServiceImpl: <<< UPnP service started successfully
+ 4638  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:15.797 10180 10180 I Router  : WiFi state changed, trying to enable router
+ 4639: [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:16.001  9734 10020 I Centrixlink: URL request https://api.centrixlink.com/api-rest/v4/progress?appID=FQ11tkfWJ4&appName=%E5%B9%BF%E5%91%8Ademo-3006&bundleID=roy.wan.inland&appVer=3.0.0.6&requestID=20181025112749f107fae963e54de7b7b6a49d36479758&UDID=5aa25e582b0000410099fc37&playid=201810251127499aa70929fcbc47bdb718b67f5d19e440&preloadid=2018102511274705d49bc34a9fa36b43c9ed0bb367a3a4&campaignID=1390&creativeID=901&token=d61dee4c2e12c6d593bfb1873dcf11d4&progress=2&manufacturer=LGE&platform=Android&model=Nexus%205&product=hammerhead&osVer=6.0.1&dpi=480&operator=&country=US&sdkVer=2.5.3&sdkVerCode=391&network=1&imsi=&mac=CC%3AFA%3A00%3AE6%3A07%3AB8&androidID=68cfc7bb674f7b7fmethod GET
+ 4640: [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:16.180  9734 10020 I CentrixlinkAPI: HTTP response code was 200 from submitting event data: https://api.centrixlink.com/api-rest/v4/progress?appID=FQ11tkfWJ4&appName=%E5%B9%BF%E5%91%8Ademo-3006&bundleID=roy.wan.inland&appVer=3.0.0.6&requestID=20181025112749f107fae963e54de7b7b6a49d36479758&UDID=5aa25e582b0000410099fc37&playid=201810251127499aa70929fcbc47bdb718b67f5d19e440&preloadid=2018102511274705d49bc34a9fa36b43c9ed0bb367a3a4&campaignID=1390&creativeID=901&token=d61dee4c2e12c6d593bfb1873dcf11d4&progress=2&manufacturer=LGE&platform=Android&model=Nexus+5&product=hammerhead&osVer=6.0.1&dpi=480&operator=&country=US&sdkVer=2.5.3&sdkVerCode=391&network=1&imsi=&mac=CC%3AFA%3A00%3AE6%3A07%3AB8&androidID=68cfc7bb674f7b7f
+ 4641  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:17.673  9661  9708 W UiAutomatorBridge: Could not detect idle state.
+ 4642  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:17.673  9661  9708 W UiAutomatorBridge: java.util.concurrent.TimeoutException: No idle state with idle timeout: 500 within global timeout: 10000
+ ....
+ 4662  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:19.290 10180 10217 W ResourceType: ResTable_typeSpec entry count inconsistent: given 19, previously 27
+ 4663  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:19.291 10180 10231 W ResourceType: ResTable_typeSpec entry count inconsistent: given 19, previously 27
+ 4664: [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:19.905  9734  9734 I Centrixlink: adEventReport: AD_EVENT_TYPE_Finished
+ 4665: [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:19.931  9734 10049 I Centrixlink: URL request https://api.centrixlink.com/api-rest/v4/progress?appID=FQ11tkfWJ4&appName=%E5%B9%BF%E5%91%8Ademo-3006&bundleID=roy.wan.inland&appVer=3.0.0.6&requestID=20181025112749bc7e6c51528b423cb00b006636003726&UDID=5aa25e582b0000410099fc37&playid=201810251127499aa70929fcbc47bdb718b67f5d19e440&preloadid=2018102511274705d49bc34a9fa36b43c9ed0bb367a3a4&campaignID=1390&creativeID=901&token=d61dee4c2e12c6d593bfb1873dcf11d4&progress=3&manufacturer=LGE&platform=Android&model=Nexus%205&product=hammerhead&osVer=6.0.1&dpi=480&operator=&country=US&sdkVer=2.5.3&sdkVerCode=391&network=1&imsi=&mac=CC%3AFA%3A00%3AE6%3A07%3AB8&androidID=68cfc7bb674f7b7fmethod GET
+ 4666: [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:20.117  9734 10049 I CentrixlinkAPI: HTTP response code was 200 from submitting event data: https://api.centrixlink.com/api-rest/v4/progress?appID=FQ11tkfWJ4&appName=%E5%B9%BF%E5%91%8Ademo-3006&bundleID=roy.wan.inland&appVer=3.0.0.6&requestID=20181025112749bc7e6c51528b423cb00b006636003726&UDID=5aa25e582b0000410099fc37&playid=201810251127499aa70929fcbc47bdb718b67f5d19e440&preloadid=2018102511274705d49bc34a9fa36b43c9ed0bb367a3a4&campaignID=1390&creativeID=901&token=d61dee4c2e12c6d593bfb1873dcf11d4&progress=3&manufacturer=LGE&platform=Android&model=Nexus+5&product=hammerhead&osVer=6.0.1&dpi=480&operator=&country=US&sdkVer=2.5.3&sdkVerCode=391&network=1&imsi=&mac=CC%3AFA%3A00%3AE6%3A07%3AB8&androidID=68cfc7bb674f7b7f
+ 4667  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:20.449 10180 10231 W ResourceType: ResTable_typeSpec entry count inconsistent: given 467, previously 1273
+ 4668  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:20.449 10180 10217 W ResourceType: ResTable_typeSpec entry count inconsistent: given 467, previously 1273
+ ....
+ 4679  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:23.900   313 10139 W AMessage: failed to post message as target looper for handler 0 is gone.
+ 4680  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:23.916 29012 12863 D AppProcessManager: topPackageName :roy.wan.inland
+ 4681: [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:23.924  9734 10020 I Centrixlink: URL request https://api.centrixlink.com/api-rest/v4/progress?appID=FQ11tkfWJ4&appName=%E5%B9%BF%E5%91%8Ademo-3006&bundleID=roy.wan.inland&appVer=3.0.0.6&requestID=201810251127498cebffa035bb41909ff9ea5d0db963bb&UDID=5aa25e582b0000410099fc37&playid=201810251127499aa70929fcbc47bdb718b67f5d19e440&preloadid=2018102511274705d49bc34a9fa36b43c9ed0bb367a3a4&campaignID=1390&creativeID=901&token=d61dee4c2e12c6d593bfb1873dcf11d4&progress=4&manufacturer=LGE&platform=Android&model=Nexus%205&product=hammerhead&osVer=6.0.1&dpi=480&operator=&country=US&sdkVer=2.5.3&sdkVerCode=391&network=1&imsi=&mac=CC%3AFA%3A00%3AE6%3A07%3AB8&androidID=68cfc7bb674f7b7fmethod GET
+ 4682  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:23.933   313 10147 I OMX-VDEC-1080P: omx_vdec::component_deinit() complete
+ 4683  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:23.940   313 10147 I OMX-VDEC-1080P: Exit OMX vdec Destructor: fd=71
+ ....
+ 4685  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:23.953   313 10139 D NuPlayerDriver: notifyResetComplete(0xb48d48a0)
+ 4686  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:23.968   925  1793 I MediaFocusControl:  AudioFocus  abandonAudioFocus() from android.media.AudioManager@622d61d
+ 4687: [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:24.115  9734 10020 I CentrixlinkAPI: HTTP response code was 200 from submitting event data: https://api.centrixlink.com/api-rest/v4/progress?appID=FQ11tkfWJ4&appName=%E5%B9%BF%E5%91%8Ademo-3006&bundleID=roy.wan.inland&appVer=3.0.0.6&requestID=201810251127498cebffa035bb41909ff9ea5d0db963bb&UDID=5aa25e582b0000410099fc37&playid=201810251127499aa70929fcbc47bdb718b67f5d19e440&preloadid=2018102511274705d49bc34a9fa36b43c9ed0bb367a3a4&campaignID=1390&creativeID=901&token=d61dee4c2e12c6d593bfb1873dcf11d4&progress=4&manufacturer=LGE&platform=Android&model=Nexus+5&product=hammerhead&osVer=6.0.1&dpi=480&operator=&country=US&sdkVer=2.5.3&sdkVerCode=391&network=1&imsi=&mac=CC%3AFA%3A00%3AE6%3A07%3AB8&androidID=68cfc7bb674f7b7f
+ 4688: [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:24.165  9734  9743 W art     : Suspending all threads took: 40.240ms
+ 4689: [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:24.190  9734  9734 W System.err: java.lang.NoSuchFieldException: No field mProxyContext in class Landroid/media/MediaPlayer; (declaration of 'android.media.MediaPlayer' appears in /system/framework/framework.jar)
+ 4690: [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:24.206  9734  9734 W System.err: 	at java.lang.Class.getDeclaredField(Native Method)
+ 4691: [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:24.206  9734  9734 W System.err: 	at com.centrixlink.SDK.FullScreenVideoFragment.g(Unknown Source)
+ 4692: [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:24.206  9734  9734 W System.err: 	at com.centrixlink.SDK.FullScreenVideoFragment.f(Unknown Source)
+ 4693: [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:24.206  9734  9734 W System.err: 	at com.centrixlink.SDK.FullScreenVideoFragment.onCompletion(Unknown Source)
+ 4694: [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:24.206  9734  9734 W System.err: 	at android.widget.VideoView$3.onCompletion(VideoView.java:483)
+ 4695: [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:24.206  9734  9734 W System.err: 	at android.media.MediaPlayer$EventHandler.handleMessage(MediaPlayer.java:2820)
+ 4696: [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:24.206  9734  9734 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+ 4697: [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:24.206  9734  9734 W System.err: 	at android.os.Looper.loop(Looper.java:148)
+ 4698: [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:24.206  9734  9734 W System.err: 	at android.app.ActivityThread.main(ActivityThread.java:5417)
+ 4699: [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:24.206  9734  9734 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+ 4700: [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:24.206  9734  9734 W System.err: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:726)
+ 4701: [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:24.206  9734  9734 W System.err: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:616)
+ 4702: [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:24.227  9734  9743 I art     : Background sticky concurrent mark sweep GC freed 156452(11MB) AllocSpace objects, 11(220KB) LOS objects, 23% free, 30MB/39MB, paused 44.145ms total 403.417ms
+ 4703: [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:24.281  9734  9734 W MediaPlayer: mediaplayer went away with unhandled events
+ 4704: [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:24.452  9734  9734 I AdsSdk_3006.0: LoadManager LoadCallback: mobvista_18188 onLoaded，加载成功
+ 4705: [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:24.518  9734  9734 I <ALY Android>_3200: logEvent key: _NEW_IL_LOADOK, value: [{__req_id=75c4275510994d4aeb4692bbe1495843, __gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22mobvista%22%2C%22app_id%22%3A%2290146%22%2C%22aff_key%22%3A%2223d44b35a1b60f20f12f92498b00de9d%22%2C%22ad_unit_id%22%3A%2218188%22%2C%22reward_id%22%3A%2213238%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __ad_id=inter_aaa, __sdk_ver=3006.0, __open_id=248d4333904b0abd43f1c4272f62204d, __pkg=roy.wan.inland, __sta_token=aaf47fb409f3472d86e47903873c9dfb}]
+ 4706: [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:24.570  9734  9793 I <ALY Android>_3200: 开始插入数据：1
+ 4707: [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:24.616  9734  9793 I <ALY Android>_3200: 完成插入数据：1
+ 4708: [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:24.616  9734  9793 I <ALY Android>_3200: ====数据插入运行完成===
+ 4709: [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:24.670  9734  9748 I AdsSdk_3006.0: inter_aaa: LoadCallback: mobvista_18188 onLoaded，加载成功
+ 4710: [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:24.678  9734  9793 I <ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 1
+ 4711: [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:25.422  9734  9792 I Centrixlink: checkServerTrusted
+ 4712: [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:26.077  9734  9793 I <ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+ 4713  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:26.349  9661  9695 I art     : Background sticky concurrent mark sweep GC freed 19787(915KB) AllocSpace objects, 0(0B) LOS objects, 69% free, 438KB/1451KB, paused 29.490ms total 59.548ms
+ 4714  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:26.749   313   961 D audio_hw_primary: disable_audio_route: reset and update mixer path: low-latency-playback
+ ....
+ 4780  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:29.814 29012 12863 D AppProcessManager: topPackageName :roy.wan.inland
+ 4781  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:31.610 13060 13069 I art     : Background sticky concurrent mark sweep GC freed 500856(14MB) AllocSpace objects, 10(200KB) LOS objects, 33% free, 31MB/46MB, paused 2.148ms total 150.353ms
+ 4782: [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:31.622  9734  9743 I art     : Background partial concurrent mark sweep GC freed 164435(7MB) AllocSpace objects, 8(5MB) LOS objects, 35% free, 28MB/44MB, paused 2.328ms total 174.614ms
+ 4783  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:31.626 13060 19214 I CastDatabase: Saving the database
+ 4784  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:31.664 13060 19214 E SQLiteCastStore: Skip saving CastDeviceInfo: "Nearby device" (__cast_nearby___V_ee7f2429-5514-49da-89cf-c70aeaa9f985)
+ 4785  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:31.666 13060 19214 I SQLiteCastStore: [CastNetworkInfo] saved: 1, skipped: 0, [CastDeviceInfo]: saved 2, skipped 1, Paired Guest Mode DeviceInfo] saved: 0, skipped: 0. [ProbedNetworks]: saved 0, skipped: 1, [ProbedSocketAddress]: saved 0, skipped: 0
+ 4786: [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:31.708  9734  9734 I AdsSdk_3006.0: LoadManager LoadCallback: mobvista_11937 onLoaded，加载成功
+ 4787: [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:31.708  9734  9734 I AdsSdk_3006.0: LoadCallback: mobvista_11937 loadCostTimeMills is 46226
+ 4788: [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:31.712  9734  9734 I <ALY Android>_3200: logEvent key: _NEW_RDA_LOADOK, value: [{__req_id=7992fe75f9d0e113ab0d62d986761e61, __gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22mobvista%22%2C%22app_id%22%3A%2290146%22%2C%22aff_key%22%3A%2223d44b35a1b60f20f12f92498b00de9d%22%2C%22ad_unit_id%22%3A%2211937%22%2C%22reward_id%22%3A%2213238%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __load_time=46226, __ad_id=rewarded_video, __sdk_ver=3006.0, __open_id=248d4333904b0abd43f1c4272f62204d, __pkg=roy.wan.inland, __sta_token=aaf47fb409f3472d86e47903873c9dfb}]
+ 4789: [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:31.765  9734  9793 I <ALY Android>_3200: 开始插入数据：1
+ 4790: [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:31.786  9734  9793 I <ALY Android>_3200: 完成插入数据：1
+ 4791: [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:31.786  9734  9793 I <ALY Android>_3200: ====数据插入运行完成===
+ 4792: [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:31.847  9734  9793 I <ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 1
+ 4793: [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:31.863  9734  9748 I AdsSdk_3006.0: rewarded_video: LoadCallback: mobvista_11937 onLoaded，加载成功
+ 4794: [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:32.319  9734  9793 I <ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+ 4795  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:32.782 29012 12863 D AppProcessManager: topPackageName :roy.wan.inland
+ 4796: [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:33.578  9734  9748 W AdsSdk_3006.0: LoadManager gdt_0 removeLoading timeout
+ 4797  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:35.794 29012 12863 D AppProcessManager: topPackageName :roy.wan.inland
+ 4798: [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:36.336  9734  9762 I Centrixlink: checkServerTrusted
+ 4799  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:38.804 29012 12863 D AppProcessManager: topPackageName :roy.wan.inland
+ 4800  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:40.826  1656  1666 I art     : Background partial concurrent mark sweep GC freed 98049(4MB) AllocSpace objects, 7(140KB) LOS objects, 34% free, 30MB/46MB, paused 8.428ms total 227.984ms
+ 4801  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:41.790 29012 12863 D AppProcessManager: topPackageName :roy.wan.inland
+ 4802  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:44.799 29012 12863 D AppProcessManager: topPackageName :roy.wan.inland
+ 4803: [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:44.970  9734  9748 W AdsSdk_3006.0: LoadManager playable_inner_promotion removeLoading timeout
+ 4804  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:46.183  9661  9695 I art     : Background sticky concurrent mark sweep GC freed 19313(894KB) AllocSpace objects, 0(0B) LOS objects, 65% free, 501KB/1472KB, paused 6.779ms total 23.477ms
+ 4805  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:47.783 29012 12863 D AppProcessManager: topPackageName :roy.wan.inland
+ ....
+ 4809  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:58.573  9661  9661 W InteractionController: runAndwaitForEvent timedout waiting for events
+ 4810  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:28:59.774 29012 12863 D AppProcessManager: topPackageName :roy.wan.inland
+ 4811: [2018-10-25T11:35:41+0800] [ALL] 10-25 11:29:01.125  9734  9743 I art     : Background sticky concurrent mark sweep GC freed 480242(15MB) AllocSpace objects, 1(28KB) LOS objects, 35% free, 28MB/44MB, paused 8.443ms total 110.645ms
+ 4812  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:29:02.791 29012 12863 D AppProcessManager: topPackageName :roy.wan.inland
+ 4813  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:29:03.928 29721 29814 D MSF.C.NetConnTag: pa ok: 28673
+ ....
+ 4839  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:29:26.807 29012 12863 D AppProcessManager: topPackageName :roy.wan.inland
+ 4840  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:29:29.787 29012 12863 D AppProcessManager: topPackageName :roy.wan.inland
+ 4841: [2018-10-25T11:35:41+0800] [ALL] 10-25 11:29:30.969  9734  9743 I art     : Background sticky concurrent mark sweep GC freed 495735(15MB) AllocSpace objects, 0(0B) LOS objects, 35% free, 28MB/44MB, paused 9.694ms total 126.328ms
+ 4842  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:29:32.786 29012 12863 D AppProcessManager: topPackageName :roy.wan.inland
+ 4843  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:29:35.784 29012 12863 D AppProcessManager: topPackageName :roy.wan.inland
+ ....
+ 4932  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:29:56.946 10726 10726 D Babel_SmsDep: disabled
+ 4933  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:29:59.786 29012 12863 D AppProcessManager: topPackageName :roy.wan.inland
+ 4934: [2018-10-25T11:35:41+0800] [ALL] 10-25 11:30:00.979  9734  9743 I art     : Background sticky concurrent mark sweep GC freed 494456(15MB) AllocSpace objects, 0(0B) LOS objects, 35% free, 28MB/44MB, paused 2.747ms total 109.107ms
+ 4935  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:30:02.800 29012 12863 D AppProcessManager: topPackageName :roy.wan.inland
+ 4936  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:30:05.362 13290 13340 I Finsky  : [4795] com.google.android.finsky.bo.ad.run(6): Stats for Executor: BlockingExecutor com.google.android.finsky.bo.ae@3a02784[Running, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 6]
+ ....
+ 4953  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:30:26.806 29012 12863 D AppProcessManager: topPackageName :roy.wan.inland
+ 4954  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:30:29.793 29012 12863 D AppProcessManager: topPackageName :roy.wan.inland
+ 4955: [2018-10-25T11:35:41+0800] [ALL] 10-25 11:30:31.833  9734  9743 I art     : Background sticky concurrent mark sweep GC freed 497552(15MB) AllocSpace objects, 0(0B) LOS objects, 35% free, 28MB/44MB, paused 6.870ms total 132.828ms
+ 4956  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:30:32.808 29012 12863 D AppProcessManager: topPackageName :roy.wan.inland
+ 4957  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:30:32.838   925 22686 D NetlinkSocketObserver: NeighborEvent{elapsedMs=264114044, 192.168.80.1, [3897D6A413A2], RTM_NEWNEIGH, NUD_PROBE}
+ ....
+ 4968  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:30:59.799 29012 12863 D AppProcessManager: topPackageName :roy.wan.inland
+ 4969  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:31:01.908   925 22686 D NetlinkSocketObserver: NeighborEvent{elapsedMs=264143114, 192.168.80.1, [3897D6A413A2], RTM_NEWNEIGH, NUD_STALE}
+ 4970: [2018-10-25T11:35:41+0800] [ALL] 10-25 11:31:02.610  9734  9743 I art     : Background sticky concurrent mark sweep GC freed 496656(15MB) AllocSpace objects, 0(0B) LOS objects, 35% free, 28MB/44MB, paused 2.392ms total 118.688ms
+ 4971  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:31:02.800 29012 12863 D AppProcessManager: topPackageName :roy.wan.inland
+ 4972  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:31:05.379 13290 13340 I Finsky  : [4795] com.google.android.finsky.bo.ad.run(6): Stats for Executor: BlockingExecutor com.google.android.finsky.bo.ae@3a02784[Running, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 6]
+ ....
+ 4985  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:31:32.797 29012 12863 D AppProcessManager: topPackageName :roy.wan.inland
+ 4986  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:31:32.968   925 22686 D NetlinkSocketObserver: NeighborEvent{elapsedMs=264174175, 192.168.80.1, [3897D6A413A2], RTM_NEWNEIGH, NUD_STALE}
+ 4987: [2018-10-25T11:35:41+0800] [ALL] 10-25 11:31:33.685  9734  9743 I art     : Background sticky concurrent mark sweep GC freed 497071(15MB) AllocSpace objects, 0(0B) LOS objects, 35% free, 28MB/44MB, paused 2.637ms total 125.885ms
+ 4988  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:31:35.807 29012 12863 D AppProcessManager: topPackageName :roy.wan.inland
+ 4989  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:31:38.813 29012 12863 D AppProcessManager: topPackageName :roy.wan.inland
+ ....
+ 4993  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:31:47.815 29012 12863 D AppProcessManager: topPackageName :roy.wan.inland
+ 4994  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:31:50.804 29012 12863 D AppProcessManager: topPackageName :roy.wan.inland
+ 4995: [2018-10-25T11:35:41+0800] [ALL] 10-25 11:31:52.839  9734  9762 I Centrixlink: checkServerTrusted
+ 4996  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:31:53.811 29012 12863 D AppProcessManager: topPackageName :roy.wan.inland
+ 4997  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:31:56.797 29012 12863 D AppProcessManager: topPackageName :roy.wan.inland
+ 4998  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:31:59.806 29012 12863 D AppProcessManager: topPackageName :roy.wan.inland
+ 4999  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:32:02.830 29012 12863 D AppProcessManager: topPackageName :roy.wan.inland
+ 5000: [2018-10-25T11:35:41+0800] [ALL] 10-25 11:32:04.133  9734  9743 I art     : Background sticky concurrent mark sweep GC freed 492772(15MB) AllocSpace objects, 0(0B) LOS objects, 35% free, 28MB/44MB, paused 3.604ms total 104.861ms
+ 5001  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:32:05.419 13290 13340 I Finsky  : [4795] com.google.android.finsky.bo.ad.run(6): Stats for Executor: BlockingExecutor com.google.android.finsky.bo.ae@3a02784[Running, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 6]
+ 5002  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:32:05.420 13290 13340 I Finsky  : [4795] com.google.android.finsky.bo.ad.run(6): Stats for Executor: LightweightExecutor com.google.android.finsky.bo.ae@b533b6d[Running, pool size = 3, active threads = 0, queued tasks = 0, completed tasks = 46]
+ ....
+ 5011  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:32:26.870 29012 12863 D AppProcessManager: topPackageName :roy.wan.inland
+ 5012  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:32:29.835 29012 12863 D AppProcessManager: topPackageName :roy.wan.inland
+ 5013: [2018-10-25T11:35:41+0800] [ALL] 10-25 11:32:31.597  9734  9809 I Centrixlink: checkServerTrusted
+ 5014  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:32:32.809 29012 12863 D AppProcessManager: topPackageName :roy.wan.inland
+ 5015: [2018-10-25T11:35:41+0800] [ALL] 10-25 11:32:34.536  9734  9743 I art     : Background sticky concurrent mark sweep GC freed 472856(15MB) AllocSpace objects, 4(80KB) LOS objects, 34% free, 29MB/44MB, paused 2.589ms total 129.744ms
+ 5016  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:32:35.815 29012 12863 D AppProcessManager: topPackageName :roy.wan.inland
+ 5017  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:32:38.804 29012 12863 D AppProcessManager: topPackageName :roy.wan.inland
+ ....
+ 5057  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:33:05.558 13290 13340 I Finsky  : [4795] com.google.android.finsky.bo.ad.run(6): Stats for Executor: bgExecutor com.google.android.finsky.bo.ae@1d9b3a2[Running, pool size = 4, active threads = 0, queued tasks = 0, completed tasks = 17]
+ 5058  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:33:05.815 29012 12863 D AppProcessManager: topPackageName :roy.wan.inland
+ 5059: [2018-10-25T11:35:41+0800] [ALL] 10-25 11:33:07.134  9734  9743 I art     : Background sticky concurrent mark sweep GC freed 489001(15MB) AllocSpace objects, 2(40KB) LOS objects, 35% free, 28MB/44MB, paused 17.576ms total 135.957ms
+ 5060  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:33:08.820 29012 12863 D AppProcessManager: topPackageName :roy.wan.inland
+ 5061  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:33:09.498   925 22686 D NetlinkSocketObserver: NeighborEvent{elapsedMs=264270704, 192.168.80.1, [3897D6A413A2], RTM_NEWNEIGH, NUD_STALE}
+ ....
+ 5090  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:33:35.815 29012 12863 D AppProcessManager: topPackageName :roy.wan.inland
+ 5091  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:33:38.816 29012 12863 D AppProcessManager: topPackageName :roy.wan.inland
+ 5092: [2018-10-25T11:35:41+0800] [ALL] 10-25 11:33:39.894  9734  9743 I art     : Background sticky concurrent mark sweep GC freed 491714(15MB) AllocSpace objects, 0(0B) LOS objects, 35% free, 28MB/44MB, paused 2.561ms total 101.041ms
+ 5093  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:33:41.844 29012 12863 D AppProcessManager: topPackageName :roy.wan.inland
+ 5094  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:33:44.830 29012 12863 D AppProcessManager: topPackageName :roy.wan.inland
+ ....
+ 5109  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:34:09.834  8027  8048 I tnet-jni: 5918 - [SpdySessionCallBack.spdyPingRecvCallback] - org.android.spdy.SpdySession@23155
+ 5110  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:34:11.816 29012 12863 D AppProcessManager: topPackageName :roy.wan.inland
+ 5111: [2018-10-25T11:35:41+0800] [ALL] 10-25 11:34:12.731  9734  9743 I art     : Background sticky concurrent mark sweep GC freed 492332(15MB) AllocSpace objects, 0(0B) LOS objects, 35% free, 28MB/44MB, paused 3.115ms total 109.356ms
+ 5112  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:34:14.815 29012 12863 D AppProcessManager: topPackageName :roy.wan.inland
+ 5113  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:34:17.838 29012 12863 D AppProcessManager: topPackageName :roy.wan.inland
+ ....
+ 5215  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:34:41.853 29012 12863 D AppProcessManager: topPackageName :roy.wan.inland
+ 5216  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:34:44.824 29012 12863 D AppProcessManager: topPackageName :roy.wan.inland
+ 5217: [2018-10-25T11:35:41+0800] [ALL] 10-25 11:34:45.550  9734  9743 I art     : Background sticky concurrent mark sweep GC freed 492132(15MB) AllocSpace objects, 0(0B) LOS objects, 34% free, 28MB/44MB, paused 2.710ms total 101.499ms
+ 5218  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:34:47.840 29012 12863 D AppProcessManager: topPackageName :roy.wan.inland
+ 5219  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:34:48.728   925 22686 D NetlinkSocketObserver: NeighborEvent{elapsedMs=264369935, 192.168.80.1, [3897D6A413A2], RTM_NEWNEIGH, NUD_REACHABLE}
+ ....
+ 5238  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:35:14.835 29012 12863 D AppProcessManager: topPackageName :roy.wan.inland
+ 5239  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:35:17.842 29012 12863 D AppProcessManager: topPackageName :roy.wan.inland
+ 5240: [2018-10-25T11:35:41+0800] [ALL] 10-25 11:35:18.348  9734  9743 I art     : Background sticky concurrent mark sweep GC freed 491520(15MB) AllocSpace objects, 0(0B) LOS objects, 34% free, 28MB/44MB, paused 6.572ms total 116.306ms
+ 5241  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:35:20.832 29012 12863 D AppProcessManager: topPackageName :roy.wan.inland
+ 5242  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:35:20.928   925 22686 D NetlinkSocketObserver: NeighborEvent{elapsedMs=264402134, 192.168.80.1, [3897D6A413A2], RTM_NEWNEIGH, NUD_STALE}
+ ....
+ 5249  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:35:28.213 13125 13125 D AndroidRuntime: Calling main entry com.android.commands.am.Am
+ 5250  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:35:28.220   925  1795 I ActivityManager: Force stopping roy.wan.inland appid=10167 user=0: from pid 13125
+ 5251: [2018-10-25T11:35:41+0800] [ALL] 10-25 11:35:28.220   925  1795 I ActivityManager: Killing 9734:roy.wan.inland/u0a167 (adj 0): stop roy.wan.inland
+ 5252  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:35:28.275   925  1792 I WindowState: WIN DEATH: Window{14773a5 u0 roy.wan.inland/com.centrixlink.SDK.FullScreenADActivity}
+ 5253  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:35:28.278   925   936 D GraphicsStats: Buffer count: 7
+ ....
+ 5267  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:35:28.402   925  1795 I ActivityManager:   Force finishing activity ActivityRecord{a9f28e3 u0 roy.wan.inland/com.avidly.adsdk.demo.VideoActivity t798}
+ 5268  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:35:28.423   925  1795 I ActivityManager:   Force stopping service ServiceRecord{c49717d u0 roy.wan.inland/com.ss.android.socialbase.downloader.notification.DownloadNotificationService}
+ 5269: [2018-10-25T11:35:41+0800] [ALL] 10-25 11:35:28.427   925  1794 W ActivityManager: Spurious death for ProcessRecord{4c932d5 0:roy.wan.inland/u0a167}, curProc for 9734: null
+ 5270  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:35:28.427 13125 13125 D AndroidRuntime: Shutting down VM
+ 5271  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:35:28.435 17107 17107 D Cocos2dxActivity: onResume()
+ ....
+ 5292  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:35:28.624   925   946 W WindowManager: 	at com.android.server.ServiceThread.run(ServiceThread.java:46)
+ 5293  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:35:28.714 13142 13151 W art     : Suspending all threads took: 5.962ms
+ 5294: [2018-10-25T11:35:41+0800] [ALL] 10-25 11:35:28.978   925  1548 W InputMethodManagerService: Got RemoteException sending setActive(false) notification to pid 9734 uid 10167
+ 5295  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:35:29.004 13416 13416 W SessionLifecycleManager: Handover failed. Creating new session controller.
+ 5296  [2018-10-25T11:35:41+0800] [ALL] 10-25 11:35:29.762 19308 19329 W OpenGLRenderer: Incorrectly called buildLayer on View: ShortcutAndWidgetContainer, destroying layer...
+
+625 matches in 1 file
