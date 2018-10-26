@@ -38,7 +38,7 @@ vk
 batmobi
 inmobi
 
-
+#### tapjoy这个联盟有时候会播放完视频后自己关闭且没有回调
 
 #### onAdOpened 和 onAdClosed数目不等
  IronSource: onAdClosed() with type RewardedVideo 
