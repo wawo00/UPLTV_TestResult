@@ -12,7 +12,7 @@ http://test-ads-sdk.avidly.com/?__pkg=roy.wan.foreign&__os=android&country=DEFAU
 nexus5
 Android 6.0.1
 
-###加载到且能播放banner广告
+### 加载到且能播放banner广告
 admob
 
 ### 加载到且能播放视频广告：
