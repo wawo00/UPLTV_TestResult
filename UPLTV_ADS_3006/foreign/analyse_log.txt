@@ -1,0 +1,407 @@
+
+发送的数据
+10-26 16:42:57.708 18908-18921/? I/<ALY Android>_3200: xxx ==> dataDir: /sdcard/Android/data/roy.wan.foreign/files
+10-26 16:42:57.709 18908-18921/? I/<ALY Android>_3200: xxx ==> dataDir exist: true
+10-26 16:42:57.714 18908-18921/? I/<ALY Android>_3200: ===> xxx customerid: 99999
+10-26 16:42:57.714 18908-18921/? I/<ALY Android>_3200: ===> xxx customerid: 99999
+10-26 16:42:57.714 18908-18921/? I/<ALY Android>_3200: ===> xxx disableAccessPrivacyInfo: false
+10-26 16:42:57.714 18908-18921/? I/<ALY Android>_3200: ===> xxx disableAccessPrivacyInfo: false
+10-26 16:42:57.730 18908-18908/? I/<ALY Android>_3200: logEvent key: initOuterAnalysis
+10-26 16:42:57.731 18908-18908/? I/<ALY Android>_3200: logEvent key: Call OuterAnalysis2domestic times 0
+10-26 16:42:57.732 18908-18908/? I/AdsSdk_demo: Call OuterAnalysis2domestic times 0
+10-26 16:42:57.772 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+10-26 16:42:57.773 18908-18921/? I/<ALY Android>_3200: ===> SQL_KEY_RECEIVE_REFFER: null
+10-26 16:42:57.773 18908-18921/? I/<ALY Android>_3200: ===> userId: de113bb2bd6047da9db4b22161af5f61
+10-26 16:42:57.773 18908-18925/? I/<ALY Android>_3200: 开始插入数据：3
+10-26 16:42:57.794 18908-18925/? I/<ALY Android>_3200: 完成插入数据：3
+10-26 16:42:57.794 18908-18925/? I/<ALY Android>_3200: ====数据插入运行完成===
+10-26 16:42:57.856 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 3
+10-26 16:42:58.732 18908-18908/? I/<ALY Android>_3200: logEvent key: Call OuterAnalysis2domestic times 1
+10-26 16:42:58.733 18908-18908/? I/AdsSdk_demo: Call OuterAnalysis2domestic times 1
+10-26 16:42:58.784 18908-18925/? I/<ALY Android>_3200: 开始插入数据：1
+10-26 16:42:58.805 18908-18925/? I/<ALY Android>_3200: 完成插入数据：1
+10-26 16:42:58.805 18908-18925/? I/<ALY Android>_3200: ====数据插入运行完成===
+10-26 16:42:58.867 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 1
+10-26 16:42:59.072 18908-18927/? I/<ALY Android>_3200: GetterTask http url: https://i.haloapps.com/tracking_sdk_conf.lua?sdk_ver=3200&ver=3006&ch=666666&pid=999999
+10-26 16:42:59.072 18908-18927/? I/<ALY Android>_3200: GetterTask http method: GET
+10-26 16:42:59.072 18908-18927/? I/<ALY Android>_3200: GetterTask http code: 200
+10-26 16:42:59.472 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+10-26 16:42:59.733 18908-18908/? I/<ALY Android>_3200: logEvent key: Call OuterAnalysis2domestic times 2
+10-26 16:42:59.734 18908-18908/? I/AdsSdk_demo: Call OuterAnalysis2domestic times 2
+10-26 16:42:59.785 18908-18925/? I/<ALY Android>_3200: 开始插入数据：1
+10-26 16:42:59.803 18908-18925/? I/<ALY Android>_3200: 完成插入数据：1
+10-26 16:42:59.803 18908-18925/? I/<ALY Android>_3200: ====数据插入运行完成===
+10-26 16:42:59.865 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 1
+10-26 16:43:00.324 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+10-26 16:43:00.735 18908-18908/? I/<ALY Android>_3200: logEvent key: Call OuterAnalysis2domestic times 3
+10-26 16:43:00.737 18908-18908/? I/AdsSdk_demo: Call OuterAnalysis2domestic times 3
+10-26 16:43:00.792 18908-18925/? I/<ALY Android>_3200: 开始插入数据：1
+10-26 16:43:00.813 18908-18925/? I/<ALY Android>_3200: 完成插入数据：1
+10-26 16:43:00.813 18908-18925/? I/<ALY Android>_3200: ====数据插入运行完成===
+10-26 16:43:00.876 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 1
+10-26 16:43:01.408 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+10-26 16:43:01.738 18908-18908/? I/<ALY Android>_3200: logEvent key: Call OuterAnalysis2domestic times 4
+10-26 16:43:01.742 18908-18908/? I/AdsSdk_demo: Call OuterAnalysis2domestic times 4
+10-26 16:43:01.793 18908-18925/? I/<ALY Android>_3200: 开始插入数据：1
+10-26 16:43:01.840 18908-18925/? I/<ALY Android>_3200: 完成插入数据：1
+10-26 16:43:01.840 18908-18925/? I/<ALY Android>_3200: ====数据插入运行完成===
+10-26 16:43:01.902 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 1
+10-26 16:43:02.369 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+10-26 16:43:02.743 18908-18908/? I/<ALY Android>_3200: logEvent key: Call OuterAnalysis2domestic times 5
+10-26 16:43:02.744 18908-18908/? I/AdsSdk_demo: Call OuterAnalysis2domestic times 5
+10-26 16:43:02.794 18908-18925/? I/<ALY Android>_3200: 开始插入数据：1
+10-26 16:43:02.836 18908-18925/? I/<ALY Android>_3200: 完成插入数据：1
+10-26 16:43:02.837 18908-18925/? I/<ALY Android>_3200: ====数据插入运行完成===
+10-26 16:43:02.897 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 1
+10-26 16:43:03.460 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+10-26 16:43:03.745 18908-18908/? I/<ALY Android>_3200: logEvent key: Call OuterAnalysis2domestic times 6
+10-26 16:43:03.746 18908-18908/? I/AdsSdk_demo: Call OuterAnalysis2domestic times 6
+10-26 16:43:03.796 18908-18925/? I/<ALY Android>_3200: 开始插入数据：1
+10-26 16:43:03.824 18908-18925/? I/<ALY Android>_3200: 完成插入数据：1
+10-26 16:43:03.825 18908-18925/? I/<ALY Android>_3200: ====数据插入运行完成===
+10-26 16:43:03.885 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 1
+10-26 16:43:04.372 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+10-26 16:43:04.747 18908-18908/? I/<ALY Android>_3200: logEvent key: Call OuterAnalysis2domestic times 7
+10-26 16:43:04.748 18908-18908/? I/AdsSdk_demo: Call OuterAnalysis2domestic times 7
+10-26 16:43:04.799 18908-18925/? I/<ALY Android>_3200: 开始插入数据：1
+10-26 16:43:04.820 18908-18925/? I/<ALY Android>_3200: 完成插入数据：1
+10-26 16:43:04.820 18908-18925/? I/<ALY Android>_3200: ====数据插入运行完成===
+10-26 16:43:04.881 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 1
+10-26 16:43:05.373 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+10-26 16:43:05.749 18908-18908/? I/<ALY Android>_3200: logEvent key: Call OuterAnalysis2domestic times 8
+10-26 16:43:05.751 18908-18908/? I/AdsSdk_demo: Call OuterAnalysis2domestic times 8
+10-26 16:43:05.802 18908-18925/? I/<ALY Android>_3200: 开始插入数据：1
+10-26 16:43:05.843 18908-18925/? I/<ALY Android>_3200: 完成插入数据：1
+10-26 16:43:05.843 18908-18925/? I/<ALY Android>_3200: ====数据插入运行完成===
+10-26 16:43:05.905 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 1
+10-26 16:43:06.362 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+10-26 16:43:06.751 18908-18908/? I/<ALY Android>_3200: logEvent key: Call OuterAnalysis2domestic times 9
+10-26 16:43:06.753 18908-18908/? I/AdsSdk_demo: Call OuterAnalysis2domestic times 9
+10-26 16:43:06.805 18908-18925/? I/<ALY Android>_3200: 开始插入数据：1
+10-26 16:43:06.835 18908-18925/? I/<ALY Android>_3200: 完成插入数据：1
+10-26 16:43:06.836 18908-18925/? I/<ALY Android>_3200: ====数据插入运行完成===
+10-26 16:43:06.897 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 1
+10-26 16:43:07.359 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+10-26 16:43:07.756 18908-18927/? I/<ALY Android>_3200: ====> xxx, deviceid:66666666666666666666666666__
+10-26 16:43:07.756 18908-18927/? I/<ALY Android>_3200: ====> xxx, deviceid:66666666666666666666666666__
+10-26 16:43:07.756 18908-18927/? I/<ALY Android>_3200: ====> xxx, openid:a93c076ccc558764f73a62fb4d67f5a7
+10-26 16:43:07.756 18908-18927/? I/<ALY Android>_3200: ====> xxx, openid:a93c076ccc558764f73a62fb4d67f5a7
+10-26 16:43:07.759 18908-18927/? I/<ALY Android>_3200: ====> xxx, gaid:5a862c88-d254-45bc-be40-20af7d04b1b9
+10-26 16:43:07.759 18908-18927/? I/<ALY Android>_3200: ====> xxx, gaid:5a862c88-d254-45bc-be40-20af7d04b1b9
+10-26 16:43:07.759 18908-18927/? I/<ALY Android>_3200: ====> xxx, disable:false
+10-26 16:43:07.759 18908-18927/? I/<ALY Android>_3200: ====> xxx, disable:false
+10-26 16:43:08.933 18908-19149/? I/<ALY Android>_3200: logEvent key: _NEW_SDK_INIT, value: [{__language=en_US, __brand=google, __system_version=23, __sdk_ver=3006.0, __os=android, __model=Nexus 5, __h=1776, __android_id=66666666666666666666666666, __env=1, __pkg=roy.wan.foreign, __orientation=p, __sta_token=de113bb2bd6047da9db4b22161af5f61, __ver_code=3006, __gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __w=1080, __install_fb=0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __ver_name=3.0.0.6, __device_id=}]
+10-26 16:43:08.992 18908-18925/? I/<ALY Android>_3200: 开始插入数据：1
+10-26 16:43:09.015 18908-18925/? I/<ALY Android>_3200: 完成插入数据：1
+10-26 16:43:09.015 18908-18925/? I/<ALY Android>_3200: ====数据插入运行完成===
+10-26 16:43:09.019 18908-18927/? I/<ALY Android>_3200: GetterTask http url: https://a-sta.haloapps.com/userRegister?ext=58f6w4%2FDlcKAV8Kiwo5hTjVNOcO4wrXCnF48wpPChjY4T8KaZyYRw60%2Bw4Vww5jDsWfDs8Oiw6ZQXmV%2Fwp5yUsOZwqYhQQHCtWY6w7NWwo4JV8KBAMK%2BJCPCkhfCq0nDlcOcwrAZw7VUKMK3w7zCtTwDTl02w71gHDY%2Bwr4Xwp1ywonCrG94w6PDvcOIURfDmF0%3D&clientVerName=3.0.0.6&pinfo=2999999XX666666%5E%5E%5E%5E00%2C00&gaid=5a862c88-d254-45bc-be40-20af7d04b1b9&openid=a93c076ccc558764f73a62fb4d67f5a7&sdkVer=3200&clientVer=3006&pid=999999&imsi=_&deviceId=66666666666666666666666666__
+10-26 16:43:09.019 18908-18927/? I/<ALY Android>_3200: GetterTask http method: GET
+10-26 16:43:09.019 18908-18927/? I/<ALY Android>_3200: GetterTask http code: 200
+10-26 16:43:09.022 18908-18927/? I/<ALY Android>_3200: logEvent key: _UR, value: success
+10-26 16:43:09.076 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 1
+10-26 16:43:09.092 18908-18925/? I/<ALY Android>_3200: 开始插入数据：1
+10-26 16:43:09.110 18908-18925/? I/<ALY Android>_3200: 完成插入数据：1
+10-26 16:43:09.110 18908-18925/? I/<ALY Android>_3200: ====数据插入运行完成===
+10-26 16:43:09.171 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 1
+10-26 16:43:09.802 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+10-26 16:43:13.923 18908-19215/? I/<ALY Android>_3200: logEvent key: _NEW_IL_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22admob%22%2C%22aff_key%22%3A%22ca-app-pub-9986066456792135%5C%2F1606720605%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __ad_id=inter_aaa, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:43:13.934 18908-19215/? I/<ALY Android>_3200: logEvent key: _NEW_IL_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22applovin%22%2C%22placement_id%22%3A%22inter3s%22%2C%22sdk_key%22%3A%22BLZ3nWD4mwe_7TFhC7kqaUqZMz32l9nxVL-GtCKc6-cEWsxizeXT8L7UJAX2KJ-qey4W9P7FNkUvaPcT295AUD%22%2C%22zone_id%22%3A%2292ec4538b2029e4d%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __ad_id=inter_aaa, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:43:13.976 18908-18925/? I/<ALY Android>_3200: 开始插入数据：2
+10-26 16:43:14.011 18908-18925/? I/<ALY Android>_3200: 完成插入数据：2
+10-26 16:43:14.011 18908-18925/? I/<ALY Android>_3200: ====数据插入运行完成===
+10-26 16:43:14.072 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 2
+10-26 16:43:14.140 18908-19215/? I/<ALY Android>_3200: logEvent key: _NEW_IL_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22admob_reward_interstitial%22%2C%22ad_unit_id%22%3A%22ca-app-pub-9986066456792135%5C%2F7014125808%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __ad_id=inter_aaa, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:43:14.149 18908-19215/? I/<ALY Android>_3200: logEvent key: _NEW_IL_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22facebook%22%2C%22aff_key%22%3A%22475008772706594_478168072390664%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __ad_id=inter_aaa, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:43:14.155 18908-19215/? I/<ALY Android>_3200: logEvent key: _NEW_IL_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22ironsource%22%2C%22app_key%22%3A%226646564d%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%2C%22placement_id%22%3A%220%22%7D, __ad_id=inter_aaa, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:43:14.190 18908-18925/? I/<ALY Android>_3200: 开始插入数据：3
+10-26 16:43:14.239 18908-18925/? I/<ALY Android>_3200: 完成插入数据：3
+10-26 16:43:14.239 18908-18925/? I/<ALY Android>_3200: ====数据插入运行完成===
+10-26 16:43:14.260 18908-19215/? I/<ALY Android>_3200: logEvent key: _NEW_IL_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22mobvista%22%2C%22app_id%22%3A%2290146%22%2C%22aff_key%22%3A%2223d44b35a1b60f20f12f92498b00de9d%22%2C%22ad_unit_id%22%3A%2218188%22%2C%22reward_id%22%3A%2213238%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __ad_id=inter_aaa, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:43:14.272 18908-19215/? I/<ALY Android>_3200: logEvent key: _NEW_IL_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22unity%22%2C%22aff_key%22%3A%221533672%22%2C%22placement_id%22%3A%22video%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __ad_id=inter_aaa, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:43:14.301 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 3
+10-26 16:43:14.313 18908-19215/? I/<ALY Android>_3200: logEvent key: _NEW_IL_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22vungle%22%2C%22app_id%22%3A%2258c23edde5ffdf116e0000b4%22%2C%22placement_id%22%3A%22INTERST54803%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%2C%22vungle_ids%22%3A%22DEFAULT99486%2CINTERST54803%22%7D, __ad_id=inter_aaa, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:43:14.335 18908-18925/? I/<ALY Android>_3200: 开始插入数据：3
+10-26 16:43:14.376 18908-18925/? I/<ALY Android>_3200: 完成插入数据：3
+10-26 16:43:14.376 18908-18925/? I/<ALY Android>_3200: ====数据插入运行完成===
+10-26 16:43:14.438 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 3
+10-26 16:43:15.102 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+10-26 16:43:16.946 18908-18908/? I/<ALY Android>_3200: logEvent key: _NEW_IL_LOADNOK, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22vungle%22%2C%22app_id%22%3A%2258c23edde5ffdf116e0000b4%22%2C%22placement_id%22%3A%22INTERST54803%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%2C%22vungle_ids%22%3A%22DEFAULT99486%2CINTERST54803%22%7D, __ad_id=inter_aaa, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:43:16.998 18908-18925/? I/<ALY Android>_3200: 开始插入数据：1
+10-26 16:43:17.038 18908-18925/? I/<ALY Android>_3200: 完成插入数据：1
+10-26 16:43:17.038 18908-18925/? I/<ALY Android>_3200: ====数据插入运行完成===
+10-26 16:43:17.099 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 1
+10-26 16:43:17.491 18908-18908/? I/<ALY Android>_3200: logEvent key: _NEW_IL_LOADNOK, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22facebook%22%2C%22aff_key%22%3A%22475008772706594_478168072390664%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __ad_id=inter_aaa, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:43:17.542 18908-18925/? I/<ALY Android>_3200: 开始插入数据：1
+10-26 16:43:17.595 18908-18925/? I/<ALY Android>_3200: 完成插入数据：1
+10-26 16:43:17.595 18908-18925/? I/<ALY Android>_3200: ====数据插入运行完成===
+10-26 16:43:17.658 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 1
+10-26 16:43:17.689 18908-19279/? I/<ALY Android>_3200: logEvent key: _NEW_IL_LOADOK, value: [{__req_id=85ff7ba09831e83e5c4cffbb2fc94a10, __gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22applovin%22%2C%22placement_id%22%3A%22inter3s%22%2C%22sdk_key%22%3A%22BLZ3nWD4mwe_7TFhC7kqaUqZMz32l9nxVL-GtCKc6-cEWsxizeXT8L7UJAX2KJ-qey4W9P7FNkUvaPcT295AUD%22%2C%22zone_id%22%3A%2292ec4538b2029e4d%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __ad_id=inter_aaa, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:43:17.697 18908-18925/? I/<ALY Android>_3200: 开始插入数据：1
+10-26 16:43:17.777 18908-18925/? I/<ALY Android>_3200: 完成插入数据：1
+10-26 16:43:17.777 18908-18925/? I/<ALY Android>_3200: ====数据插入运行完成===
+10-26 16:43:17.843 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 1
+10-26 16:43:17.925 18908-19493/? I/<ALY Android>_3200: logEvent key: _NEW_RDA_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22adcolony%22%2C%22app_id%22%3A%22app72c7816fa0f2407db4%22%2C%22zone_id%22%3A%22vz6e94afe0a6f643719d%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%2C%22adcolony_ids%22%3A%22vz6e94afe0a6f643719d%22%7D, __ad_id=rewarded_video, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:43:17.930 18908-19493/? I/<ALY Android>_3200: logEvent key: _NEW_RDA_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22applovin%22%2C%22placement_id%22%3A%22reward%22%2C%22sdk_key%22%3A%22BLZ3nWD4mwe_7TFhC7kqaUqZMz32l9nxVL-GtCKc6-cEWsxizeXT8L7UJAX2KJ-qey4W9P7FNkUvaPcT295AUD%22%2C%22zone_id%22%3A%22188848b90d177963%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __ad_id=rewarded_video, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:43:17.963 18908-19493/? I/<ALY Android>_3200: logEvent key: _NEW_RDA_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22appnext%22%2C%22placement_id%22%3A%22b05b2e41-c798-4d4a-be66-ae162835065a%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __ad_id=rewarded_video, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:43:17.978 18908-18925/? I/<ALY Android>_3200: 开始插入数据：3
+10-26 16:43:18.032 18908-18925/? I/<ALY Android>_3200: 完成插入数据：3
+10-26 16:43:18.032 18908-18925/? I/<ALY Android>_3200: ====数据插入运行完成===
+10-26 16:43:18.044 18908-19493/? I/<ALY Android>_3200: logEvent key: _NEW_RDA_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22chartboost%22%2C%22app_id%22%3A%22571f555504b01670daab617f%22%2C%22location%22%3A%22reward%22%2C%22app_sign%22%3A%229078ed6ab5e240e56a642e20ce80f04c8a5747b5%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __ad_id=rewarded_video, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:43:18.064 18908-19493/? I/<ALY Android>_3200: logEvent key: _NEW_RDA_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22facebook%22%2C%22aff_key%22%3A%22475008772706594_757939794413489%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __ad_id=rewarded_video, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:43:18.075 18908-19493/? I/<ALY Android>_3200: logEvent key: _NEW_RDA_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22ironsource%22%2C%22app_key%22%3A%2266497bbd%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%2C%22placement_id%22%3A%220%22%7D, __ad_id=rewarded_video, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:43:18.085 18908-19493/? I/<ALY Android>_3200: logEvent key: _NEW_RDA_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22mobvista%22%2C%22app_id%22%3A%2290146%22%2C%22aff_key%22%3A%2223d44b35a1b60f20f12f92498b00de9d%22%2C%22ad_unit_id%22%3A%2211937%22%2C%22reward_id%22%3A%2213238%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __ad_id=rewarded_video, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:43:18.089 18908-19493/? I/<ALY Android>_3200: logEvent key: _NEW_RDA_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22unity%22%2C%22aff_key%22%3A%221533672%22%2C%22placement_id%22%3A%22rewardedVideo%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __ad_id=rewarded_video, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:43:18.094 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 3
+10-26 16:43:18.095 18908-19493/? I/<ALY Android>_3200: logEvent key: _NEW_RDA_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22vungle%22%2C%22app_id%22%3A%2258c23edde5ffdf116e0000b4%22%2C%22placement_id%22%3A%22DEFAULT99486%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%2C%22vungle_ids%22%3A%22DEFAULT99486%2CINTERST54803%22%7D, __ad_id=rewarded_video, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:43:18.098 18908-19493/? I/<ALY Android>_3200: logEvent key: _NEW_RDA_LOADNOK, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22vungle%22%2C%22app_id%22%3A%2258c23edde5ffdf116e0000b4%22%2C%22placement_id%22%3A%22DEFAULT99486%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%2C%22vungle_ids%22%3A%22DEFAULT99486%2CINTERST54803%22%7D, __ad_id=rewarded_video, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:43:18.206 18908-19517/? I/<ALY Android>_3200: logEvent key: _NEW_IL_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22vungle%22%2C%22app_id%22%3A%2258c23edde5ffdf116e0000b4%22%2C%22placement_id%22%3A%22INTERST54803%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%2C%22vungle_ids%22%3A%22DEFAULT99486%2CINTERST54803%22%7D, __ad_id=inter_aaa, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:43:18.417 18908-18925/? I/<ALY Android>_3200: 开始插入数据：8
+10-26 16:43:18.749 18908-19520/? I/<ALY Android>_3200: logEvent key: _NEW_IL_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22facebook%22%2C%22aff_key%22%3A%22475008772706594_478168072390664%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __ad_id=inter_aaa, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:43:18.759 18908-18925/? I/<ALY Android>_3200: 完成插入数据：8
+10-26 16:43:18.759 18908-18925/? I/<ALY Android>_3200: ====数据插入运行完成===
+10-26 16:43:19.031 18908-18925/? I/<ALY Android>_3200: 开始插入数据：1
+10-26 16:43:19.121 18908-18925/? I/<ALY Android>_3200: 完成插入数据：1
+10-26 16:43:19.121 18908-18925/? I/<ALY Android>_3200: ====数据插入运行完成===
+10-26 16:43:19.235 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 9
+10-26 16:43:19.334 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+10-26 16:43:19.342 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+10-26 16:43:19.343 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+10-26 16:43:19.364 18908-19215/? I/<ALY Android>_3200: logEvent key: _NEW_RDA_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22vungle%22%2C%22app_id%22%3A%2258c23edde5ffdf116e0000b4%22%2C%22placement_id%22%3A%22DEFAULT99486%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%2C%22vungle_ids%22%3A%22DEFAULT99486%2CINTERST54803%22%7D, __ad_id=rewarded_video, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:43:19.416 18908-18925/? I/<ALY Android>_3200: 开始插入数据：1
+10-26 16:43:19.457 18908-18925/? I/<ALY Android>_3200: 完成插入数据：1
+10-26 16:43:19.457 18908-18925/? I/<ALY Android>_3200: ====数据插入运行完成===
+10-26 16:43:19.525 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 1
+10-26 16:43:20.373 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+10-26 16:43:20.465 18908-19493/? I/<ALY Android>_3200: logEvent key: _NEW_IL_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22vungle%22%2C%22app_id%22%3A%2258c23edde5ffdf116e0000b4%22%2C%22placement_id%22%3A%22INTERST54803%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%2C%22vungle_ids%22%3A%22DEFAULT99486%2CINTERST54803%22%7D, __ad_id=inter_aaa, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:43:20.517 18908-18925/? I/<ALY Android>_3200: 开始插入数据：1
+10-26 16:43:20.598 18908-18925/? I/<ALY Android>_3200: 完成插入数据：1
+10-26 16:43:20.598 18908-18925/? I/<ALY Android>_3200: ====数据插入运行完成===
+10-26 16:43:20.662 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 1
+10-26 16:43:21.152 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+10-26 16:43:21.420 18908-18908/? I/<ALY Android>_3200: logEvent key: _NEW_IL_LOADOK, value: [{__req_id=2543c901fa13e3878d2b8eccaa1afffe, __gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22admob%22%2C%22aff_key%22%3A%22ca-app-pub-9986066456792135%5C%2F1606720605%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __ad_id=inter_aaa, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:43:21.424 18908-18908/? I/<ALY Android>_3200: logEvent key: _NEW_RDA_LOADNOK, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22facebook%22%2C%22aff_key%22%3A%22475008772706594_757939794413489%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __ad_id=rewarded_video, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:43:21.472 18908-18925/? I/<ALY Android>_3200: 开始插入数据：2
+10-26 16:43:21.543 18908-18925/? I/<ALY Android>_3200: 完成插入数据：2
+10-26 16:43:21.543 18908-18925/? I/<ALY Android>_3200: ====数据插入运行完成===
+10-26 16:43:21.604 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 2
+10-26 16:43:21.619 18908-19517/? I/<ALY Android>_3200: logEvent key: _NEW_RDA_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22vungle%22%2C%22app_id%22%3A%2258c23edde5ffdf116e0000b4%22%2C%22placement_id%22%3A%22DEFAULT99486%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%2C%22vungle_ids%22%3A%22DEFAULT99486%2CINTERST54803%22%7D, __ad_id=rewarded_video, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:43:21.634 18908-18925/? I/<ALY Android>_3200: 开始插入数据：1
+10-26 16:43:21.675 18908-18925/? I/<ALY Android>_3200: 完成插入数据：1
+10-26 16:43:21.675 18908-18925/? I/<ALY Android>_3200: ====数据插入运行完成===
+10-26 16:43:21.737 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 1
+10-26 16:43:22.363 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+10-26 16:43:22.681 18908-19520/? I/<ALY Android>_3200: logEvent key: _NEW_RDA_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22facebook%22%2C%22aff_key%22%3A%22475008772706594_757939794413489%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __ad_id=rewarded_video, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:43:22.732 18908-18925/? I/<ALY Android>_3200: 开始插入数据：1
+10-26 16:43:22.753 18908-18925/? I/<ALY Android>_3200: 完成插入数据：1
+10-26 16:43:22.753 18908-18925/? I/<ALY Android>_3200: ====数据插入运行完成===
+10-26 16:43:22.815 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 1
+10-26 16:43:23.280 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+10-26 16:43:23.679 18908-19215/? I/<ALY Android>_3200: logEvent key: _NEW_IL_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22facebook%22%2C%22aff_key%22%3A%22475008772706594_478168072390664%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __ad_id=inter_aaa, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:43:23.731 18908-18925/? I/<ALY Android>_3200: 开始插入数据：1
+10-26 16:43:23.756 18908-18925/? I/<ALY Android>_3200: 完成插入数据：1
+10-26 16:43:23.756 18908-18925/? I/<ALY Android>_3200: ====数据插入运行完成===
+10-26 16:43:23.818 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 1
+10-26 16:43:24.284 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+10-26 16:43:24.720 18908-19493/? I/<ALY Android>_3200: logEvent key: _NEW_IL_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22vungle%22%2C%22app_id%22%3A%2258c23edde5ffdf116e0000b4%22%2C%22placement_id%22%3A%22INTERST54803%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%2C%22vungle_ids%22%3A%22DEFAULT99486%2CINTERST54803%22%7D, __ad_id=inter_aaa, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:43:24.772 18908-18925/? I/<ALY Android>_3200: 开始插入数据：1
+10-26 16:43:24.811 18908-18925/? I/<ALY Android>_3200: 完成插入数据：1
+10-26 16:43:24.811 18908-18925/? I/<ALY Android>_3200: ====数据插入运行完成===
+10-26 16:43:24.873 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 1
+10-26 16:43:25.452 18908-18908/? I/<ALY Android>_3200: logEvent key: _NEW_RDA_LOADNOK, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22adcolony%22%2C%22app_id%22%3A%22app72c7816fa0f2407db4%22%2C%22zone_id%22%3A%22vz6e94afe0a6f643719d%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%2C%22adcolony_ids%22%3A%22vz6e94afe0a6f643719d%22%7D, __ad_id=rewarded_video, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:43:25.504 18908-18925/? I/<ALY Android>_3200: 开始插入数据：1
+10-26 16:43:25.528 18908-18925/? I/<ALY Android>_3200: 完成插入数据：1
+10-26 16:43:25.528 18908-18925/? I/<ALY Android>_3200: ====数据插入运行完成===
+10-26 16:43:25.530 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 1
+10-26 16:43:25.548 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+10-26 16:43:25.687 18908-19517/? I/<ALY Android>_3200: logEvent key: _NEW_RDA_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22facebook%22%2C%22aff_key%22%3A%22475008772706594_757939794413489%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __ad_id=rewarded_video, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:43:25.739 18908-18925/? I/<ALY Android>_3200: 开始插入数据：1
+10-26 16:43:25.757 18908-18925/? I/<ALY Android>_3200: 完成插入数据：1
+10-26 16:43:25.757 18908-18925/? I/<ALY Android>_3200: ====数据插入运行完成===
+10-26 16:43:25.821 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 1
+10-26 16:43:25.887 18908-19520/? I/<ALY Android>_3200: logEvent key: _NEW_RDA_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22vungle%22%2C%22app_id%22%3A%2258c23edde5ffdf116e0000b4%22%2C%22placement_id%22%3A%22DEFAULT99486%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%2C%22vungle_ids%22%3A%22DEFAULT99486%2CINTERST54803%22%7D, __ad_id=rewarded_video, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:43:25.950 18908-18925/? I/<ALY Android>_3200: 开始插入数据：1
+10-26 16:43:25.968 18908-18925/? I/<ALY Android>_3200: 完成插入数据：1
+10-26 16:43:25.968 18908-18925/? I/<ALY Android>_3200: ====数据插入运行完成===
+10-26 16:43:26.030 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 1
+10-26 16:43:26.260 18908-18908/? I/<ALY Android>_3200: logEvent key: _NEW_BRA_SHOW, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22admob%22%2C%22aff_key%22%3A%22ca-app-pub-9986066456792135%5C%2F2127625006%22%2C%22aff_ttl%22%3A1800%7D, __ad_id=banner_aaa, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:43:26.313 18908-18925/? I/<ALY Android>_3200: 开始插入数据：1
+10-26 16:43:26.335 18908-18925/? I/<ALY Android>_3200: 完成插入数据：1
+10-26 16:43:26.335 18908-18925/? I/<ALY Android>_3200: ====数据插入运行完成===
+10-26 16:43:26.397 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 1
+10-26 16:43:26.710 18908-19215/? I/<ALY Android>_3200: logEvent key: _NEW_RDA_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22adcolony%22%2C%22app_id%22%3A%22app72c7816fa0f2407db4%22%2C%22zone_id%22%3A%22vz6e94afe0a6f643719d%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%2C%22adcolony_ids%22%3A%22vz6e94afe0a6f643719d%22%7D, __ad_id=rewarded_video, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:43:26.768 18908-18925/? I/<ALY Android>_3200: 开始插入数据：1
+10-26 16:43:26.791 18908-18925/? I/<ALY Android>_3200: 完成插入数据：1
+10-26 16:43:26.792 18908-18925/? I/<ALY Android>_3200: ====数据插入运行完成===
+10-26 16:43:26.855 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 1
+10-26 16:43:27.352 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+10-26 16:43:27.385 18908-18908/? I/<ALY Android>_3200: logEvent key: _NEW_RDA_LOADOK, value: [{__req_id=4301d080459ac75dd086b4fa3b378e69, __gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22appnext%22%2C%22placement_id%22%3A%22b05b2e41-c798-4d4a-be66-ae162835065a%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __load_time=9361, __ad_id=rewarded_video, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:43:27.437 18908-18925/? I/<ALY Android>_3200: 开始插入数据：1
+10-26 16:43:27.470 18908-18925/? I/<ALY Android>_3200: 完成插入数据：1
+10-26 16:43:27.471 18908-18925/? I/<ALY Android>_3200: ====数据插入运行完成===
+10-26 16:43:27.532 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 1
+10-26 16:43:28.020 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+10-26 16:43:28.548 18908-19493/? I/<ALY Android>_3200: logEvent key: _NEW_IL_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22facebook%22%2C%22aff_key%22%3A%22475008772706594_478168072390664%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __ad_id=inter_aaa, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:43:28.600 18908-18925/? I/<ALY Android>_3200: 开始插入数据：1
+10-26 16:43:28.636 18908-18925/? I/<ALY Android>_3200: 完成插入数据：1
+10-26 16:43:28.636 18908-18925/? I/<ALY Android>_3200: ====数据插入运行完成===
+10-26 16:43:28.698 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 1
+10-26 16:43:29.016 18908-19517/? I/<ALY Android>_3200: logEvent key: _NEW_RDA_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22adcolony%22%2C%22app_id%22%3A%22app72c7816fa0f2407db4%22%2C%22zone_id%22%3A%22vz6e94afe0a6f643719d%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%2C%22adcolony_ids%22%3A%22vz6e94afe0a6f643719d%22%7D, __ad_id=rewarded_video, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:43:29.068 18908-18925/? I/<ALY Android>_3200: 开始插入数据：1
+10-26 16:43:29.092 18908-18925/? I/<ALY Android>_3200: 完成插入数据：1
+10-26 16:43:29.092 18908-18925/? I/<ALY Android>_3200: ====数据插入运行完成===
+10-26 16:43:29.153 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 1
+10-26 16:43:29.810 18908-18908/? I/<ALY Android>_3200: logEvent key: _NEW_RDA_LOADOK, value: [{__req_id=5386d0d318fa7b01f9344d97ded71736, __gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22applovin%22%2C%22placement_id%22%3A%22reward%22%2C%22sdk_key%22%3A%22BLZ3nWD4mwe_7TFhC7kqaUqZMz32l9nxVL-GtCKc6-cEWsxizeXT8L7UJAX2KJ-qey4W9P7FNkUvaPcT295AUD%22%2C%22zone_id%22%3A%22188848b90d177963%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __load_time=11876, __ad_id=rewarded_video, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:43:29.862 18908-18925/? I/<ALY Android>_3200: 开始插入数据：1
+10-26 16:43:29.930 18908-18925/? I/<ALY Android>_3200: 完成插入数据：1
+10-26 16:43:29.930 18908-18925/? I/<ALY Android>_3200: ====数据插入运行完成===
+10-26 16:43:29.992 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 1
+10-26 16:43:30.486 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+10-26 16:43:30.852 18908-19520/? I/<ALY Android>_3200: logEvent key: _NEW_RDA_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22facebook%22%2C%22aff_key%22%3A%22475008772706594_757939794413489%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __ad_id=rewarded_video, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:43:30.904 18908-18925/? I/<ALY Android>_3200: 开始插入数据：1
+10-26 16:43:30.925 18908-18925/? I/<ALY Android>_3200: 完成插入数据：1
+10-26 16:43:30.925 18908-18925/? I/<ALY Android>_3200: ====数据插入运行完成===
+10-26 16:43:30.975 18908-19215/? I/<ALY Android>_3200: logEvent key: _NEW_IL_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22vungle%22%2C%22app_id%22%3A%2258c23edde5ffdf116e0000b4%22%2C%22placement_id%22%3A%22INTERST54803%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%2C%22vungle_ids%22%3A%22DEFAULT99486%2CINTERST54803%22%7D, __ad_id=inter_aaa, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:43:30.987 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 1
+10-26 16:43:31.004 18908-18925/? I/<ALY Android>_3200: 开始插入数据：1
+10-26 16:43:31.019 18908-18925/? I/<ALY Android>_3200: 完成插入数据：1
+10-26 16:43:31.019 18908-18925/? I/<ALY Android>_3200: ====数据插入运行完成===
+10-26 16:43:31.082 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 1
+10-26 16:43:32.145 18908-19493/? I/<ALY Android>_3200: logEvent key: _NEW_RDA_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22vungle%22%2C%22app_id%22%3A%2258c23edde5ffdf116e0000b4%22%2C%22placement_id%22%3A%22DEFAULT99486%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%2C%22vungle_ids%22%3A%22DEFAULT99486%2CINTERST54803%22%7D, __ad_id=rewarded_video, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:43:32.197 18908-18925/? I/<ALY Android>_3200: 开始插入数据：1
+10-26 16:43:32.221 18908-18925/? I/<ALY Android>_3200: 完成插入数据：1
+10-26 16:43:32.221 18908-18925/? I/<ALY Android>_3200: ====数据插入运行完成===
+10-26 16:43:32.236 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 1
+10-26 16:43:32.925 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+10-26 16:43:33.302 18908-19517/? I/<ALY Android>_3200: logEvent key: _NEW_RDA_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22adcolony%22%2C%22app_id%22%3A%22app72c7816fa0f2407db4%22%2C%22zone_id%22%3A%22vz6e94afe0a6f643719d%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%2C%22adcolony_ids%22%3A%22vz6e94afe0a6f643719d%22%7D, __ad_id=rewarded_video, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:43:33.354 18908-18925/? I/<ALY Android>_3200: 开始插入数据：1
+10-26 16:43:33.380 18908-18925/? I/<ALY Android>_3200: 完成插入数据：1
+10-26 16:43:33.380 18908-18925/? I/<ALY Android>_3200: ====数据插入运行完成===
+10-26 16:43:33.441 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 1
+10-26 16:43:33.580 18908-19254/? I/<ALY Android>_3200: logEvent key: _NEW_RDA_LOADOK, value: [{__req_id=3de70282e87822445dded37eab7f1d3a, __gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22ironsource%22%2C%22app_key%22%3A%2266497bbd%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%2C%22placement_id%22%3A%220%22%7D, __load_time=15501, __ad_id=rewarded_video, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:43:33.638 18908-18925/? I/<ALY Android>_3200: 开始插入数据：1
+10-26 16:43:33.669 18908-18925/? I/<ALY Android>_3200: 完成插入数据：1
+10-26 16:43:33.669 18908-18925/? I/<ALY Android>_3200: ====数据插入运行完成===
+10-26 16:43:33.731 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 1
+10-26 16:43:34.978 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+10-26 16:43:35.611 18908-19520/? I/<ALY Android>_3200: logEvent key: _NEW_IL_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22facebook%22%2C%22aff_key%22%3A%22475008772706594_478168072390664%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __ad_id=inter_aaa, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:43:35.663 18908-18925/? I/<ALY Android>_3200: 开始插入数据：1
+10-26 16:43:35.936 18908-18908/? I/<ALY Android>_3200: logEvent key: _NEW_IL_LOADOK, value: [{__req_id=25c144fa53f7e0e53b0f1d6dd15ea7f6, __gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22unity%22%2C%22aff_key%22%3A%221533672%22%2C%22placement_id%22%3A%22video%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __ad_id=inter_aaa, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:43:35.939 18908-18908/? I/<ALY Android>_3200: logEvent key: _NEW_IL_LOADOK, value: [{__req_id=98cb5458032d5f7b094b1063c8e8cb2e, __gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22unity%22%2C%22aff_key%22%3A%221533672%22%2C%22placement_id%22%3A%22video%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __ad_id=inter_aaa, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:43:36.004 18908-18925/? I/<ALY Android>_3200: 完成插入数据：1
+10-26 16:43:36.004 18908-18925/? I/<ALY Android>_3200: ====数据插入运行完成===
+10-26 16:43:36.004 18908-18925/? I/<ALY Android>_3200: 开始插入数据：2
+10-26 16:43:36.024 18908-18925/? I/<ALY Android>_3200: 完成插入数据：2
+10-26 16:43:36.024 18908-18925/? I/<ALY Android>_3200: ====数据插入运行完成===
+10-26 16:43:36.025 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 3
+10-26 16:43:36.489 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+10-26 16:43:37.259 18908-18908/? I/<ALY Android>_3200: logEvent key: _NEW_IL_LOADOK, value: [{__req_id=eb28b0f2a44803adb8aea59f39ef2ed4, __gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22admob_reward_interstitial%22%2C%22ad_unit_id%22%3A%22ca-app-pub-9986066456792135%5C%2F7014125808%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __ad_id=inter_aaa, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:43:37.310 18908-18925/? I/<ALY Android>_3200: 开始插入数据：1
+10-26 16:43:37.332 18908-18925/? I/<ALY Android>_3200: 完成插入数据：1
+10-26 16:43:37.332 18908-18925/? I/<ALY Android>_3200: ====数据插入运行完成===
+10-26 16:43:37.393 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 1
+10-26 16:43:37.910 18908-19215/? I/<ALY Android>_3200: logEvent key: _NEW_RDA_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22facebook%22%2C%22aff_key%22%3A%22475008772706594_757939794413489%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __ad_id=rewarded_video, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:43:37.962 18908-18925/? I/<ALY Android>_3200: 开始插入数据：1
+10-26 16:43:37.989 18908-18925/? I/<ALY Android>_3200: 完成插入数据：1
+10-26 16:43:37.989 18908-18925/? I/<ALY Android>_3200: ====数据插入运行完成===
+10-26 16:43:38.051 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 1
+10-26 16:43:38.879 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+10-26 16:43:39.232 18908-19493/? I/<ALY Android>_3200: logEvent key: _NEW_IL_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22vungle%22%2C%22app_id%22%3A%2258c23edde5ffdf116e0000b4%22%2C%22placement_id%22%3A%22INTERST54803%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%2C%22vungle_ids%22%3A%22DEFAULT99486%2CINTERST54803%22%7D, __ad_id=inter_aaa, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:43:39.297 18908-18925/? I/<ALY Android>_3200: 开始插入数据：1
+10-26 16:43:39.321 18908-18925/? I/<ALY Android>_3200: 完成插入数据：1
+10-26 16:43:39.321 18908-18925/? I/<ALY Android>_3200: ====数据插入运行完成===
+10-26 16:43:39.384 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 1
+10-26 16:43:39.597 18908-19517/? I/<ALY Android>_3200: logEvent key: _NEW_RDA_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22adcolony%22%2C%22app_id%22%3A%22app72c7816fa0f2407db4%22%2C%22zone_id%22%3A%22vz6e94afe0a6f643719d%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%2C%22adcolony_ids%22%3A%22vz6e94afe0a6f643719d%22%7D, __ad_id=rewarded_video, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:43:39.650 18908-18925/? I/<ALY Android>_3200: 开始插入数据：1
+10-26 16:43:39.684 18908-18925/? I/<ALY Android>_3200: 完成插入数据：1
+10-26 16:43:39.684 18908-18925/? I/<ALY Android>_3200: ====数据插入运行完成===
+10-26 16:43:39.746 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 1
+10-26 16:43:40.209 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+10-26 16:43:40.402 18908-19520/? I/<ALY Android>_3200: logEvent key: _NEW_RDA_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22vungle%22%2C%22app_id%22%3A%2258c23edde5ffdf116e0000b4%22%2C%22placement_id%22%3A%22DEFAULT99486%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%2C%22vungle_ids%22%3A%22DEFAULT99486%2CINTERST54803%22%7D, __ad_id=rewarded_video, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:43:40.454 18908-18925/? I/<ALY Android>_3200: 开始插入数据：1
+10-26 16:43:40.481 18908-18925/? I/<ALY Android>_3200: 完成插入数据：1
+10-26 16:43:40.481 18908-18925/? I/<ALY Android>_3200: ====数据插入运行完成===
+10-26 16:43:40.544 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 1
+10-26 16:43:41.257 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+10-26 16:43:41.322 18908-18908/? I/<ALY Android>_3200: logEvent key: _NEW_BRA_SHOW, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22admob%22%2C%22aff_key%22%3A%22ca-app-pub-9986066456792135%5C%2F2127625006%22%2C%22aff_ttl%22%3A1800%7D, __ad_id=banner_aaa, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:43:41.374 18908-18925/? I/<ALY Android>_3200: 开始插入数据：1
+10-26 16:43:41.396 18908-18925/? I/<ALY Android>_3200: 完成插入数据：1
+10-26 16:43:41.396 18908-18925/? I/<ALY Android>_3200: ====数据插入运行完成===
+10-26 16:43:41.457 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 1
+10-26 16:43:41.909 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+10-26 16:43:44.586 18908-19215/? I/<ALY Android>_3200: logEvent key: _NEW_IL_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22facebook%22%2C%22aff_key%22%3A%22475008772706594_478168072390664%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __ad_id=inter_aaa, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:43:44.638 18908-18925/? I/<ALY Android>_3200: 开始插入数据：1
+10-26 16:43:44.667 18908-18925/? I/<ALY Android>_3200: 完成插入数据：1
+10-26 16:43:44.668 18908-18925/? I/<ALY Android>_3200: ====数据插入运行完成===
+10-26 16:43:44.729 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 1
+10-26 16:43:46.055 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+10-26 16:43:46.980 18908-19493/? I/<ALY Android>_3200: logEvent key: _NEW_RDA_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22facebook%22%2C%22aff_key%22%3A%22475008772706594_757939794413489%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __ad_id=rewarded_video, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:43:47.031 18908-18925/? I/<ALY Android>_3200: 开始插入数据：1
+10-26 16:43:47.056 18908-18925/? I/<ALY Android>_3200: 完成插入数据：1
+10-26 16:43:47.056 18908-18925/? I/<ALY Android>_3200: ====数据插入运行完成===
+10-26 16:43:47.118 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 1
+10-26 16:43:47.618 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+10-26 16:43:47.892 18908-19517/? I/<ALY Android>_3200: logEvent key: _NEW_RDA_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22adcolony%22%2C%22app_id%22%3A%22app72c7816fa0f2407db4%22%2C%22zone_id%22%3A%22vz6e94afe0a6f643719d%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%2C%22adcolony_ids%22%3A%22vz6e94afe0a6f643719d%22%7D, __ad_id=rewarded_video, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:43:47.946 18908-18925/? I/<ALY Android>_3200: 开始插入数据：1
+10-26 16:43:47.975 18908-18925/? I/<ALY Android>_3200: 完成插入数据：1
+10-26 16:43:47.975 18908-18925/? I/<ALY Android>_3200: ====数据插入运行完成===
+10-26 16:43:48.036 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 1
+10-26 16:43:48.489 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+10-26 16:43:56.303 18908-18908/? I/<ALY Android>_3200: logEvent key: _NEW_BRA_SHOW, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22admob%22%2C%22aff_key%22%3A%22ca-app-pub-9986066456792135%5C%2F2127625006%22%2C%22aff_ttl%22%3A1800%7D, __ad_id=banner_aaa, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:43:56.354 18908-18925/? I/<ALY Android>_3200: 开始插入数据：1
+10-26 16:43:56.372 18908-18925/? I/<ALY Android>_3200: 完成插入数据：1
+10-26 16:43:56.372 18908-18925/? I/<ALY Android>_3200: ====数据插入运行完成===
+10-26 16:43:56.434 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 1
+10-26 16:43:56.557 18908-19254/? I/<ALY Android>_3200: logEvent key: _NEW_IL_LOADNOK, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22ironsource%22%2C%22app_key%22%3A%226646564d%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%2C%22placement_id%22%3A%220%22%7D, __ad_id=inter_aaa, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:43:56.612 18908-18925/? I/<ALY Android>_3200: 开始插入数据：1
+10-26 16:43:56.639 18908-18925/? I/<ALY Android>_3200: 完成插入数据：1
+10-26 16:43:56.639 18908-18925/? I/<ALY Android>_3200: ====数据插入运行完成===
+10-26 16:43:56.701 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 1
+10-26 16:43:57.261 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+10-26 16:43:57.819 18908-19520/? I/<ALY Android>_3200: logEvent key: _NEW_IL_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22ironsource%22%2C%22app_key%22%3A%226646564d%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%2C%22placement_id%22%3A%220%22%7D, __ad_id=inter_aaa, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:43:57.871 18908-18925/? I/<ALY Android>_3200: 开始插入数据：1
+10-26 16:43:57.904 18908-18925/? I/<ALY Android>_3200: 完成插入数据：1
+10-26 16:43:57.904 18908-18925/? I/<ALY Android>_3200: ====数据插入运行完成===
+10-26 16:43:57.966 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 1
+10-26 16:43:58.533 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+10-26 16:44:11.300 18908-18908/? I/<ALY Android>_3200: logEvent key: _NEW_BRA_SHOW, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22admob%22%2C%22aff_key%22%3A%22ca-app-pub-9986066456792135%5C%2F2127625006%22%2C%22aff_ttl%22%3A1800%7D, __ad_id=banner_aaa, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:44:11.352 18908-18925/? I/<ALY Android>_3200: 开始插入数据：1
+10-26 16:44:11.381 18908-18925/? I/<ALY Android>_3200: 完成插入数据：1
+10-26 16:44:11.381 18908-18925/? I/<ALY Android>_3200: ====数据插入运行完成===
+10-26 16:44:11.445 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 1
+10-26 16:44:11.936 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+10-26 16:44:26.288 18908-18908/? I/<ALY Android>_3200: logEvent key: _NEW_BRA_SHOW, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22admob%22%2C%22aff_key%22%3A%22ca-app-pub-9986066456792135%5C%2F2127625006%22%2C%22aff_ttl%22%3A1800%7D, __ad_id=banner_aaa, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:44:26.339 18908-18925/? I/<ALY Android>_3200: 开始插入数据：1
+10-26 16:44:26.369 18908-18925/? I/<ALY Android>_3200: 完成插入数据：1
+10-26 16:44:26.369 18908-18925/? I/<ALY Android>_3200: ====数据插入运行完成===
+10-26 16:44:26.431 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 1
+10-26 16:44:26.902 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+10-26 16:44:30.082 18908-19215/? I/<ALY Android>_3200: logEvent key: _NEW_IL_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22ironsource%22%2C%22app_key%22%3A%226646564d%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%2C%22placement_id%22%3A%220%22%7D, __ad_id=inter_aaa, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:44:30.135 18908-18925/? I/<ALY Android>_3200: 开始插入数据：1
+10-26 16:44:30.170 18908-18925/? I/<ALY Android>_3200: 完成插入数据：1
+10-26 16:44:30.170 18908-18925/? I/<ALY Android>_3200: ====数据插入运行完成===
+10-26 16:44:30.234 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 1
+10-26 16:44:30.806 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+10-26 16:44:41.303 18908-18908/? I/<ALY Android>_3200: logEvent key: _NEW_BRA_SHOW, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22admob%22%2C%22aff_key%22%3A%22ca-app-pub-9986066456792135%5C%2F2127625006%22%2C%22aff_ttl%22%3A1800%7D, __ad_id=banner_aaa, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:44:41.355 18908-18925/? I/<ALY Android>_3200: 开始插入数据：1
+10-26 16:44:41.384 18908-18925/? I/<ALY Android>_3200: 完成插入数据：1
+10-26 16:44:41.384 18908-18925/? I/<ALY Android>_3200: ====数据插入运行完成===
+10-26 16:44:41.446 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 1
+10-26 16:44:41.923 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+10-26 16:44:56.295 18908-18908/? I/<ALY Android>_3200: logEvent key: _NEW_BRA_SHOW, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22admob%22%2C%22aff_key%22%3A%22ca-app-pub-9986066456792135%5C%2F2127625006%22%2C%22aff_ttl%22%3A1800%7D, __ad_id=banner_aaa, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:44:56.347 18908-18925/? I/<ALY Android>_3200: 开始插入数据：1
+10-26 16:44:56.383 18908-18925/? I/<ALY Android>_3200: 完成插入数据：1
+10-26 16:44:56.383 18908-18925/? I/<ALY Android>_3200: ====数据插入运行完成===
+10-26 16:44:56.445 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 1
+10-26 16:44:56.906 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+10-26 16:45:04.353 18908-19493/? I/<ALY Android>_3200: logEvent key: _NEW_IL_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22ironsource%22%2C%22app_key%22%3A%226646564d%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%2C%22placement_id%22%3A%220%22%7D, __ad_id=inter_aaa, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:45:04.408 18908-18925/? I/<ALY Android>_3200: 开始插入数据：1
+10-26 16:45:04.447 18908-18925/? I/<ALY Android>_3200: 完成插入数据：1
+10-26 16:45:04.448 18908-18925/? I/<ALY Android>_3200: ====数据插入运行完成===
+10-26 16:45:04.508 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 1
+10-26 16:45:04.985 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+10-26 16:45:11.319 18908-18908/? I/<ALY Android>_3200: logEvent key: _NEW_BRA_SHOW, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22admob%22%2C%22aff_key%22%3A%22ca-app-pub-9986066456792135%5C%2F2127625006%22%2C%22aff_ttl%22%3A1800%7D, __ad_id=banner_aaa, __sdk_ver=3006.0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __pkg=roy.wan.foreign, __sta_token=de113bb2bd6047da9db4b22161af5f61}]
+10-26 16:45:11.371 18908-18925/? I/<ALY Android>_3200: 开始插入数据：1
+10-26 16:45:11.401 18908-18925/? I/<ALY Android>_3200: 完成插入数据：1
+10-26 16:45:11.401 18908-18925/? I/<ALY Android>_3200: ====数据插入运行完成===
+10-26 16:45:11.465 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 1
+10-26 16:45:11.940 18908-18925/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
