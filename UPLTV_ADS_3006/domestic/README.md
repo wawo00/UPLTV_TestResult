@@ -16,22 +16,24 @@
 
 ### 问题：
 #### onAdOpened 和 onAdClosed数目不等
- [ALL] 10-25 11:28:07.752  9734  9734 I AdsSdk_3006.0: UPRewardVideoWrapper onAdOpened 
- [ALL] 10-25 11:37:02.093 13566 13566 I AdsSdk_3006.0: centrixlink onAdOpened 
- [ALL] 10-25 11:38:13.498 13566 13566 I AdsSdk_3006.0: chartboost_reward onAdOpened 
- [ALL] 10-25 11:39:17.908 13566 13566 I AdsSdk_3006.0: oneway onAdOpened 
- [ALL] 10-25 11:40:58.747 13566 13566 I AdsSdk_3006.0: vungle_DEFAULT99486 onAdOpened 
- [ALL] 10-25 11:42:02.646 13566 13566 I AdsSdk_3006.0: toutiao_901121365 onAdOpened 
- [ALL] 10-25 11:44:24.786 13566 13566 I AdsSdk_3006.0: centrixlink onAdOpened 
- [ALL] 10-25 11:45:02.424 13566 13566 I AdsSdk_3006.0: chartboost_reward onAdOpened 
- [ALL] 10-25 11:45:43.258 13566 13566 I AdsSdk_3006.0: oneway onAdOpened 
+ onAdOpened：
+ UPRewardVideoWrapper  
+ centrixlink  
+ chartboost_reward  
+ oneway  
+ vungle_DEFAULT99486  
+ toutiao_901121365  
+ centrixlink  
+ chartboost_reward  
+ oneway 
 
- [ALL] 10-25 11:38:07.696 13566 13566 I AdsSdk_3006.0: centrixlink onAdClosed 
- [ALL] 10-25 11:39:04.934 13566 13566 I AdsSdk_3006.0: chartboost_reward onAdClosed 
- [ALL] 10-25 11:40:53.093 13566 13566 I AdsSdk_3006.0: oneway onAdClosed 
- [ALL] 10-25 11:41:51.206 13566 13566 I AdsSdk_3006.0: vungle_DEFAULT99486 onAdClosed 
- [ALL] 10-25 11:44:56.931 13566 13566 I AdsSdk_3006.0: centrixlink onAdClosed 
- [ALL] 10-25 11:45:25.899 13566 13566 I AdsSdk_3006.0: chartboost_reward onAdClosed 
+onAdClosed ：
+ centrixlink  
+ chartboost_reward  
+ oneway  
+ vungle_DEFAULT99486  
+ centrixlink  
+ chartboost_reward  
 
 #### 展示的log只有一个
  Centrixlink: adEventReport: AD_EVENT_TYPE_CallHasPreloadSuccess
