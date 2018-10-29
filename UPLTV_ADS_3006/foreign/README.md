@@ -24,7 +24,7 @@ mobvista
 unity
 vungle
 
-### 加载到且能播放激励视频
+### 加载到且能播放插屏广告
 admob
 applovin
 ironsource
@@ -68,6 +68,7 @@ vungle_INTERST54803 onAdClosed
  vungle_INTERST54803 onAdOpened 
 
 #### 使用log中什么来确定广告播放完后发送了奖励
+暂时没有@王涛
 
 #### 展示的log只有一个
 AdsSdk_3006.0: BannerAdapter isValid: false
@@ -76,7 +77,6 @@ AdsSdk_3006.0: BannerAd: banner_aaa: 展示联盟：admob
 AdsSdk_3006.0: BannerAd: banner_aaa: 可以显示，设置视图可见
 AdsSdk_3006.0: banner ====>exist cpPlaceId:banner_aaa,exist: true
 
-#### 暂时没有找到NEW_SDK_INIT打点
 
 
 #### 错误信息：
