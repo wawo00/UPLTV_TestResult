@@ -42,6 +42,7 @@ I/<ALY Android>_3200: logEvent key: _NEW_SDK_INIT, value: [{__language=en_US, _
 vk
 batmobi
 inmobi
+vungle
 
 #### tapjoy这个联盟有时候会播放完视频后自己关闭且没有回调
 
