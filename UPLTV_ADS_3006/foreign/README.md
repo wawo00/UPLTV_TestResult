@@ -78,6 +78,7 @@ AdsSdk_3006.0: BannerAd: banner_aaa: 展示联盟：admob
 AdsSdk_3006.0: BannerAd: banner_aaa: 可以显示，设置视图可见
 AdsSdk_3006.0: banner ====>exist cpPlaceId:banner_aaa,exist: true
 
+#### cocoscpp中不应该包含youlan
 
 
 #### 错误信息：
