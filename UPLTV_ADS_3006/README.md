@@ -2,6 +2,7 @@
 date:2018.10.24
 ## 更新日志：
 1.增加_NEW_SDK_INIT打点
+<br>
 2.新增视频联盟admob_new，可以配置多层，只有新版本（16.5.0+）支持
 3.兼容Admob聚合和UPLTV聚合SDK的共存方案
 新版支持：Facebook、IronSource
