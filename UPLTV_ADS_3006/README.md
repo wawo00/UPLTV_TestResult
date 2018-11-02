@@ -4,17 +4,29 @@ date:2018.10.24
 1.增加_NEW_SDK_INIT打点
 <br>
 2.新增视频联盟admob_new，可以配置多层，只有新版本（16.5.0+）支持
+<br>
 3.兼容Admob聚合和UPLTV聚合SDK的共存方案
+<br>
 新版支持：Facebook、IronSource
+<br>
 旧版支持：Vungle、UnityAD、Adcolony、Chartboost
+<br>
 4.聚合广告分海外、国内渠道分别打包（外部统计包请配合升级至3200版本）
+<br>
 5.升级adcolony到3.3.5
+<br>
 6.升级dap到1.2.0 + 1.0.8.5(去掉manifest中定制部分，加入海外默认联盟中)
+<br>
 7.实现facebook_bidding新逻辑
+<br>
 8.升级头条到1.9.6.2
+<br>
 bug：
+<br>
 1.部分联盟接入版本号显示不正确
+<br>
 2.素材上报只打开S3时不上报的问题
+<br>
 
 ## 一、	广告测试内容
 A.	国内国外是否包含正确的联盟
