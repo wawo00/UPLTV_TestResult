@@ -39,6 +39,7 @@ D.	Dap和Toutiao,adcoloy能否正常出广告
 
 ## 二、	统计上报的测试内容
 A.	国内国外统计包的不同
+
 国内取imei,androidid，国外不取imei和androidid
 
 B.	打点能够正常上报，主要测试 NEW_SDK_INIT打点
@@ -49,9 +50,10 @@ B.	打点能够正常上报，主要测试 NEW_SDK_INIT打点
         在新版本(gms16.5.0)时候发现还出现unity
         
 ## 五、	统计包上报
-A.接入是否有错误
-B.打点是否正常
-C.国内和国外包的区别
+
+        A.接入是否有错误
+        B.打点是否正常
+        C.国内和国外包的区别
 
 ## 六、  adcolony 接入是否有问题，运行是否有error
 
