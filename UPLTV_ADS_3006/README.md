@@ -34,6 +34,19 @@ B.	打点能够正常上报，主要测试 NEW_SDK_INIT打点
         
 ## 四、	3中对应不同的gms版本，只配置admob，看是否出诸如fb和unity的联盟
         在新版本(gms16.5.0)时候发现还出现unity
-## 五、	素材上报
-A.后台设置callacution_s3为1时候才上报素材，届时在log中搜索字段”callacution”
+        
+## 五、	统计包上报
+A.接入是否有错误
+B.打点是否正常
+C.国内和国外包的区别
+
+## 六、  adcolony 接入是否有问题，运行是否有error
+
+## 七、  dap中去掉3005中dap_ads.aar是否可以播放广告
+
+## 八、  facebook_bidding的功能是否被实现
+
+## 九、  新版头条是否能播放
+
+## 十、  查看bug是否被解决
 
