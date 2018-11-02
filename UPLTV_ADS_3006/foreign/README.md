@@ -28,13 +28,54 @@ vungle
 admob
 applovin
 ironsource
+### bidding测试debug数据
 
+
+{"__aff_info":"{\"aff_name\":\"facebook\",\"aff_key\":\"783955231747423_1064291897047087\",\"open_i_b\":1,\"aff_ttl\":1800}","is_ready":false,"price":0}
+{"__aff_info":"{\"aff_name\":\"batmobi\",\"app_key\":\"T4E7MU69AU3R7JHUHSW5JYAJ\",\"placement_id\":\"15169_08173\",\"aff_ttl\":1800}","is_ready":true,"price":-1,"ad_token":"batmobi_15169_08173"}
+{"__aff_info":"{\"aff_name\":\"mobpower\",\"app_key\":\"3fc7cbe75b45e7ce18b7f54b5edfda39\",\"app_id\":\"90002\",\"placement_id\":\"21408\",\"open_i_b\":0,\"aff_ttl\":1800}","is_ready":true,"price":-1,"ad_token":"mobpower_21408"}
+
+
+[{"__aff_info":"{\"aff_name\":\"facebook\",\"aff_key\":\"783955231747423_1064291897047087\",\"open_i_b\":1,\"aff_ttl\":1800}",
+"is_ready":false,"price":0,"ad_token":"facebook_rd_783955231747423_1064291897047087"},
+{"__aff_info":"{\"aff_name\":\"batmobi\",\"app_key\":\"T4E7MU69AU3R7JHUHSW5JYAJ\",\"placement_id\":\"15169_08173\",\"aff_ttl\":1800}","is_ready":true,"price":-1,"ad_token":"batmobi_15169_08173"},
+{"__aff_info":"{\"aff_name\":\"mobpower\",\"app_key\":\"3fc7cbe75b45e7ce18b7f54b5edfda39\",\"app_id\":\"90002\",\"placement_id\":\"21408\",\"open_i_b\":0,\"aff_ttl\":1800}","is_ready":true,"price":-1,"ad_token":"mobpower_21408"}]
+
+
+["batmobi_15169_08173","mobpower_21408","facebook_rd_783955231747423_1064291897047087"]
+
+
+mBiddingAffKeys=["batmobi_15169_08173","mobpower_21408","facebook_rd_783955231747423_1064291897047087"]
+
+
+ if (firstKey.equals(affInfo.getPrimaryKey())) {
+                                                    sLoadManager.doAfterBiddingComplete(firstKey, true);
+                                                } else {
+                                                    sLoadManager.doAfterBiddingComplete(firstKey, false); //batmobi_15169_08173
+                                                }
+
+ public void doAfterBiddingComplete(String key, boolean biddingSuccess) {  batmobi_15169_08173 false
+        LogHelper.i("LoadManager " + key + " doAfterBiddingComplete with " + biddingSuccess);
+
+
+BaseAdAdapter adAdapter = mCacheAds.get(key);
+0 = {ConcurrentHashMap$MapEntry@6439} "toutiao_901121417" -> 
+1 = {ConcurrentHashMap$MapEntry@6440} "facebook_rd_783955231747423_1064291897047087" -> 
+2 = {ConcurrentHashMap$MapEntry@6441} "mobpower_21408" -> 
+3 = {ConcurrentHashMap$MapEntry@6442} "batmobi_15169_08173" -> 
+4 = {ConcurrentHashMap$MapEntry@6443} "batmobi_15169_04868" -> 
+5 = {ConcurrentHashMap$MapEntry@6444} "dap_146386" -> 
  
-### 统计包打点
-同意授权 /不同意授权
-I/<ALY Android>_3200: logEvent key: _NEW_SDK_INIT, value: [{__language=en_US, __brand=google, __system_version=23, __sdk_ver=3006.0, __os=android, __model=Nexus 5, __h=1776, __android_id=66666666666666666666666666, __env=1, __pkg=roy.wan.foreign, __orientation=p, __sta_token=de113bb2bd6047da9db4b22161af5f61, __ver_code=3006, __gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __w=1080, __install_fb=0, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __ver_name=3.0.0.6, __device_id=}]
 
- I/<ALY Android>_3200: logEvent key: _NEW_CFG_DLDOK, value: [{__language=en_US, __location=CN, __brand=google, __system_version=23, __sdk_ver=3006.0, __os=android, __model=Nexus 5, __h=1776, __android_id=66666666666666666666666666, __env=1, __pkg=roy.wan.foreign, __orientation=p, __sta_token=de113bb2bd6047da9db4b22161af5f61, __ver_code=3006, __gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __w=1080, __install_fb=0, __config_ver=57, __open_id=a93c076ccc558764f73a62fb4d67f5a7, __ver_name=3.0.0.6, __device_id=, __count=0}]
+ adAdapter.loadByBiddingComplete(biddingSuccess); -->load batmobiRewardAdapter
+
+
+  if (!biddingSuccess) {
+            mLoadingAds.remove(key);  //remove batmobi_15169_08173
+    }
+ I/AdsSdk_3006.0: cplog: 视频广告展示,联盟：batmobi       
+
+
 
 
 ### 问题：
