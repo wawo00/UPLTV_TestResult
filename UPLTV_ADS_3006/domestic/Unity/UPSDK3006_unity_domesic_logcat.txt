@@ -1,0 +1,1312 @@
+11-05 18:48:40.689 11130-11141/? D/DefContainer: Copying /data/local/tmp/domestic3006.apk to base.apk
+11-05 18:50:25.327 11130-11141/? D/DefContainer: Copying /data/local/tmp/domestic3006.apk to base.apk
+11-06 10:36:09.819 929-956/? W/PackageManager: Downgrade detected: Update version code 1 is older than current 3006
+11-06 10:43:45.465 18436-18446/? D/DefContainer: Copying /data/local/tmp/domestic3006.apk to base.apk
+11-06 11:17:52.979 28042-28042/? I/AdsSdk_3006.0: BannerAd: banner_aaa: 展示联盟：inmobi
+11-06 11:17:52.979 28042-28042/? I/AdsSdk_3006.0: BannerAd: banner_aaa: 可以显示，设置视图可见
+11-06 11:17:52.979 28042-28042/? I/AdsSdk_3006.0: banner ====>exist cpPlaceId:banner_aaa,exist: false
+11-06 11:17:52.982 28042-28042/? I/<ALY Android>_3200: logEvent key: _NEW_BRA_SHOW, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22inmobi%22%2C%22aff_key%22%3A%220%22%2C%22placement_id%22%3A%221473189489298%22%2C%22account_id%22%3A%22123456789abcdfghjiukljnm09874%22%2C%22aff_ttl%22%3A1800%7D, __ad_id=banner_aaa, __sdk_ver=3006, __open_id=975e63a323134be20444a7a1fae90168, __pkg=roy.wan.inland, __sub_ver=3006.0, __sta_token=f8bad30d359540b685486a5694a8a90b}]
+11-06 11:17:52.983 28042-28042/? I/AdsSdk_3006.0: BannerAd: banner_aaa，联盟inmobi开始加载
+11-06 11:17:54.447 28042-28042/? I/AdsSdk_3006.0: BannerAd: banner_aaa: onLoaded inmobi
+11-06 11:17:58.079 28042-28042/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:17:58.079 28042-28042/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:17:58.080 28042-28042/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:17:58.083 28042-28042/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:17:58.083 28042-28042/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: true
+11-06 11:17:58.084 28042-28042/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: true
+11-06 11:18:00.248 28042-28042/? D/AdsSdk_3006.0: Adcolony ads jars has be not improved, check please
+11-06 11:18:00.250 28042-28042/? D/AdsSdk_3006.0: Adcolony ads jars has be not improved, check please
+11-06 11:18:00.251 28042-28042/? D/AdsSdk_3006.0: Admob_new ads jars has not improved, check please
+11-06 11:18:00.251 28042-28042/? D/AdsSdk_3006.0: Admob_new ads jars has not improved, check please
+11-06 11:18:00.299 28042-28042/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdView not found
+11-06 11:18:00.300 28042-28042/? D/AdsSdk_3006.0: class com.google.android.gms.ads.InterstitialAd not found
+11-06 11:18:00.301 28042-28042/? D/AdsSdk_3006.0: class com.google.android.gms.ads.reward.RewardedVideoAd not found
+11-06 11:18:00.302 28042-28042/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdRequest not found
+11-06 11:18:00.302 28042-28042/? D/AdsSdk_3006.0: Admob ads jars has not improved, check please
+11-06 11:18:00.302 28042-28042/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdView not found
+11-06 11:18:00.303 28042-28042/? D/AdsSdk_3006.0: class com.google.android.gms.ads.InterstitialAd not found
+11-06 11:18:00.304 28042-28042/? D/AdsSdk_3006.0: class com.google.android.gms.ads.reward.RewardedVideoAd not found
+11-06 11:18:00.305 28042-28042/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdRequest not found
+11-06 11:18:00.305 28042-28042/? D/AdsSdk_3006.0: Admob ads jars has not improved, check please
+11-06 11:18:07.976 28042-31136/? D/AdsSdk_3006.0: BannerAdapter isValid: true
+11-06 11:18:07.977 28042-31136/? D/AdsSdk_3006.0: GDT ads jars has be not improved, check please
+11-06 11:18:07.977 28042-31136/? E/AdsSdk_3006.0: BannerFactory return null with: gdt
+11-06 11:18:07.977 28042-31136/? D/AdsSdk_3006.0: BannerAdapter isValid: false
+11-06 11:18:07.979 28042-31136/? I/AdsSdk_3006.0: BannerAd: banner_aaa: only_wifi：false，netType: wifi
+11-06 11:18:07.985 28042-28042/? I/AdsSdk_3006.0: BannerAd: banner_aaa: 展示联盟：inmobi
+11-06 11:18:07.986 28042-28042/? I/AdsSdk_3006.0: BannerAd: banner_aaa: 可以显示，设置视图可见
+11-06 11:18:07.986 28042-28042/? I/AdsSdk_3006.0: banner ====>exist cpPlaceId:banner_aaa,exist: false
+11-06 11:18:07.990 28042-28042/? I/<ALY Android>_3200: logEvent key: _NEW_BRA_SHOW, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22inmobi%22%2C%22aff_key%22%3A%220%22%2C%22placement_id%22%3A%221473189489298%22%2C%22account_id%22%3A%22123456789abcdfghjiukljnm09874%22%2C%22aff_ttl%22%3A1800%7D, __ad_id=banner_aaa, __sdk_ver=3006, __open_id=975e63a323134be20444a7a1fae90168, __pkg=roy.wan.inland, __sub_ver=3006.0, __sta_token=f8bad30d359540b685486a5694a8a90b}]
+11-06 11:18:07.991 28042-28042/? I/AdsSdk_3006.0: BannerAd: banner_aaa，联盟inmobi开始加载
+11-06 11:18:08.085 28042-28042/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:18:08.086 28042-28042/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:18:08.087 28042-28042/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:18:08.087 28042-28042/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:18:08.088 28042-28042/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: true
+11-06 11:18:08.088 28042-28042/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: true
+11-06 11:18:18.076 28042-28042/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:18:18.076 28042-28042/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:18:18.077 28042-28042/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:18:18.078 28042-28042/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:18:18.078 28042-28042/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: true
+11-06 11:18:18.079 28042-28042/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: true
+11-06 11:18:22.976 28042-31136/? D/AdsSdk_3006.0: BannerAdapter isValid: false
+11-06 11:18:22.976 28042-31136/? D/AdsSdk_3006.0: GDT ads jars has be not improved, check please
+11-06 11:18:22.977 28042-31136/? E/AdsSdk_3006.0: BannerFactory return null with: gdt
+11-06 11:18:22.977 28042-31136/? D/AdsSdk_3006.0: BannerAdapter isValid: false
+11-06 11:18:22.978 28042-31136/? I/AdsSdk_3006.0: BannerAd: banner_aaa: only_wifi：false，netType: wifi
+11-06 11:18:22.978 28042-28042/? I/AdsSdk_3006.0: BannerAd: banner_aaa，联盟inmobi开始加载
+11-06 11:18:24.059 28042-28042/? I/AdsSdk_3006.0: BannerAd: banner_aaa: onLoaded inmobi
+11-06 11:18:28.098 28042-28042/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:18:28.098 28042-28042/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:18:28.099 28042-28042/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:18:28.100 28042-28042/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:18:28.101 28042-28042/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: true
+11-06 11:18:28.101 28042-28042/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: true
+11-06 11:18:37.976 28042-31136/? D/AdsSdk_3006.0: BannerAdapter isValid: true
+11-06 11:18:37.976 28042-31136/? D/AdsSdk_3006.0: GDT ads jars has be not improved, check please
+11-06 11:18:37.976 28042-31136/? E/AdsSdk_3006.0: BannerFactory return null with: gdt
+11-06 11:18:37.977 28042-31136/? D/AdsSdk_3006.0: BannerAdapter isValid: false
+11-06 11:18:37.977 28042-28042/? I/AdsSdk_3006.0: BannerAd: banner_aaa: 展示联盟：inmobi
+11-06 11:18:37.978 28042-28042/? I/AdsSdk_3006.0: BannerAd: banner_aaa: 可以显示，设置视图可见
+11-06 11:18:37.978 28042-28042/? I/AdsSdk_3006.0: banner ====>exist cpPlaceId:banner_aaa,exist: false
+11-06 11:18:37.980 28042-31136/? I/AdsSdk_3006.0: BannerAd: banner_aaa: only_wifi：false，netType: wifi
+11-06 11:18:37.981 28042-28042/? I/<ALY Android>_3200: logEvent key: _NEW_BRA_SHOW, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22inmobi%22%2C%22aff_key%22%3A%220%22%2C%22placement_id%22%3A%221473189489298%22%2C%22account_id%22%3A%22123456789abcdfghjiukljnm09874%22%2C%22aff_ttl%22%3A1800%7D, __ad_id=banner_aaa, __sdk_ver=3006, __open_id=975e63a323134be20444a7a1fae90168, __pkg=roy.wan.inland, __sub_ver=3006.0, __sta_token=f8bad30d359540b685486a5694a8a90b}]
+11-06 11:18:37.982 28042-28042/? I/AdsSdk_3006.0: BannerAd: banner_aaa，联盟inmobi开始加载
+11-06 11:18:38.101 28042-28042/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:18:38.102 28042-28042/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:18:38.102 28042-28042/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:18:38.103 28042-28042/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:18:38.104 28042-28042/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: true
+11-06 11:18:38.104 28042-28042/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: true
+11-06 11:18:48.126 28042-28042/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:18:48.126 28042-28042/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:18:48.127 28042-28042/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:18:48.128 28042-28042/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:18:48.128 28042-28042/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: true
+11-06 11:18:48.128 28042-28042/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: true
+11-06 11:18:52.976 28042-31136/? D/AdsSdk_3006.0: BannerAdapter isValid: false
+11-06 11:18:52.976 28042-31136/? D/AdsSdk_3006.0: GDT ads jars has be not improved, check please
+11-06 11:18:52.977 28042-31136/? E/AdsSdk_3006.0: BannerFactory return null with: gdt
+11-06 11:18:52.977 28042-31136/? D/AdsSdk_3006.0: BannerAdapter isValid: false
+11-06 11:18:52.978 28042-31136/? I/AdsSdk_3006.0: BannerAd: banner_aaa: only_wifi：false，netType: wifi
+11-06 11:18:52.996 28042-28042/? I/AdsSdk_3006.0: BannerAd: banner_aaa，联盟inmobi开始加载
+11-06 11:18:54.109 28042-28042/? I/AdsSdk_3006.0: BannerAd: banner_aaa: onLoaded inmobi
+11-06 11:22:00.611 2986-3018/? I/AdsSdk_3006.0: productId:null
+11-06 11:22:00.611 2986-3018/? I/AdsSdk_3006.0: channelId:null
+11-06 11:22:00.612 2986-3018/? I/AdsSdk_3006.0: 没有单独接入统计SDK，使用内部统计
+11-06 11:22:00.612 2986-3018/? I/AdsSdk_3006.0: finish to init analysis SDK：false
+11-06 11:22:03.112 2986-3242/? W/AdsSdk_3006.0: 聚合广告统计包，开启debug模式！！！
+11-06 11:22:03.118 2986-3242/? I/AdsSdk_3006.0: config ver: 52
+11-06 11:22:03.120 2986-3242/? D/AdsSdk_3006.0: 开始解析统计配置
+11-06 11:22:03.121 2986-3242/? I/AdsSdk_3006.0: productId：888888
+11-06 11:22:03.121 2986-3242/? I/AdsSdk_3006.0: channelId：32400
+11-06 11:22:03.121 2986-3242/? I/AdsSdk_3006.0: ==> Gdpr is not Defined.
+11-06 11:22:03.121 2986-3242/? I/AdsSdk_3006.0: productId:888888
+11-06 11:22:03.121 2986-3242/? I/AdsSdk_3006.0: channelId:32400
+11-06 11:22:03.122 2986-3242/? I/AdsSdk_3006.0: 没有单独接入统计SDK，使用内部统计
+11-06 11:22:03.141 2986-3242/? I/AdsSdk_3006.0: finish to init analysis SDK：true
+11-06 11:22:03.153 2986-3242/? I/AdsSdk_3006.0: xxxx: ============================================================
+11-06 11:22:03.153 2986-3242/? I/AdsSdk_3006.0: xxxx:  SDK Flavor is: studio
+11-06 11:22:03.153 2986-3242/? I/AdsSdk_3006.0: xxxx:  解释是否开始线程延时加载的功能: close
+11-06 11:22:03.153 2986-3242/? I/AdsSdk_3006.0: xxxx:  禁用qxxy强检查参数的功能: close
+11-06 11:22:03.154 2986-3242/? I/AdsSdk_3006.0: xxxx:  是否可以根据config加载dex: open
+11-06 11:22:03.154 2986-3242/? I/AdsSdk_3006.0: xxxx:  是否自动加载avidly广告: 是
+11-06 11:22:03.154 2986-3242/? I/AdsSdk_3006.0: xxxx:  是否开启OnlineDebugReport: 否
+11-06 11:22:03.154 2986-3242/? I/AdsSdk_3006.0: xxxx:  enableCallAuctionS3: 否
+11-06 11:22:03.154 2986-3242/? I/AdsSdk_3006.0: xxxx:  enableCallAuction: 否
+11-06 11:22:03.154 2986-3242/? I/AdsSdk_3006.0: xxxx:  enableCallAuctionS3Inter: 否
+11-06 11:22:03.154 2986-3242/? I/AdsSdk_3006.0: xxxx:  enableCallAuctionInter: 否
+11-06 11:22:03.154 2986-3242/? I/AdsSdk_3006.0: xxxx:  enableBiddingLogic: 否
+11-06 11:22:03.154 2986-3242/? I/AdsSdk_3006.0: xxxx: ============================================================
+11-06 11:22:03.154 2986-3242/? D/AdsSdk_3006.0: 开始解析互推资源下载配置
+11-06 11:22:03.157 2986-3242/? D/AdsSdk_3006.0: 开始解析互推资源内容配置
+11-06 11:22:03.166 2986-3242/? D/AdsSdk_3006.0: 开始解析失败重试配置
+11-06 11:22:03.172 2986-3242/? D/AdsSdk_3006.0: 开始解析延迟加载配置
+11-06 11:22:03.173 2986-3242/? D/AdsSdk_3006.0: 开始解析广告配置
+11-06 11:22:03.174 2986-3242/? D/AdsSdk_3006.0: 开始解析BANNER广告的配置
+11-06 11:22:03.175 2986-3242/? D/AdsSdk_3006.0: 开始解析插屏广告的配置
+11-06 11:22:03.177 2986-3242/? D/AdsSdk_3006.0: 开始解析视频广告的配置
+11-06 11:22:03.186 2986-3242/? D/AdsSdk_3006.0: 开始解析应用墙配置
+11-06 11:22:03.189 2986-3242/? D/AdsSdk_3006.0: 开始解析aws配置
+11-06 11:22:03.189 2986-3242/? D/AdsSdk_3006.0: 根据配置开始下载资源
+11-06 11:22:03.191 2986-3242/? D/AdsSdk_3006.0: LoadManager previousList.size is 0
+11-06 11:22:03.191 2986-3242/? D/AdsSdk_3006.0: LoadManager currentList.size is 11
+11-06 11:22:03.191 2986-3242/? D/AdsSdk_3006.0: LoadManager affinfo remove count is 0
+11-06 11:22:03.266 2986-3242/? D/AdsSdk_3006.0: Exoplayer jars has be not improved, check please
+11-06 11:22:03.444 2986-3242/? D/AdsSdk_3006.0: dex_mobvista 不需要处理，sdk calss 已经存在
+11-06 11:22:03.446 2986-3242/? D/AdsSdk_3006.0: dex_vungle 不需要处理，sdk calss 已经存在
+11-06 11:22:03.446 2986-3242/? D/AdsSdk_3006.0: dex_playable 不需要处理，sdk calss 已经存在
+11-06 11:22:03.448 2986-3242/? D/AdsSdk_3006.0: dex_oneway 不需要处理，sdk calss 已经存在
+11-06 11:22:03.448 2986-3242/? D/AdsSdk_3006.0: dex_playable 不需要处理，sdk calss 已经存在
+11-06 11:22:03.455 2986-3228/? I/AdsSdk_3006.0: ParallelRequestStrategy preload is called: inter_aaa
+11-06 11:22:03.455 2986-3228/? I/AdsSdk_3006.0: inter_aaa: 根据延迟配置，2157ms后开始预加载
+11-06 11:22:03.455 2986-3228/? I/AdsSdk_3006.0: ParallelRequestStrategy preload is called: rewarded_video
+11-06 11:22:03.455 2986-3228/? I/AdsSdk_3006.0: rewarded_video: 根据延迟配置，17157ms后开始预加载
+11-06 11:22:03.592 2986-3242/? I/<ALY Android>_3200: logEvent key: _NEW_CFG_DLDOK, value: [{__language=en_US, __location=CN, __brand=google, __system_version=23, __sdk_ver=3006, __os=android, __model=Nexus 5, __h=1776, __android_id=68cfc7bb674f7b7f, __env=1, __pkg=roy.wan.inland, __orientation=p, __ver_code=1, __gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __w=1080, __install_fb=1, __config_ver=52, __open_id=80b62288b18854cd28d2edff45ce7262, __ver_name=1.0, __device_id=352136064190941, __count=0, __sub_ver=3006.0}]
+11-06 11:22:04.635 2986-3018/? I/AdsSdk_3006.0: UPInterstitialWrapper 传入的广告位: aaaa
+11-06 11:22:04.645 2986-3018/? I/<ALY Android>_3200: logEvent key: _NEW_NT_FOUND_ADID, value: [{__ad_type=interstitial, __gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __ad_id=aaaa, __sdk_ver=3006, __open_id=80b62288b18854cd28d2edff45ce7262, __pkg=roy.wan.inland, __sub_ver=3006.0}]
+11-06 11:22:04.646 2986-3018/? E/AdsSdk_3006.0: cplog: 插屏广告位aaaa没有查询到有效配置，请稍后重试
+11-06 11:22:04.691 2986-3018/? I/AdsSdk_3006.0: banner ====>onApplicationFocus hasfocus: false
+11-06 11:22:04.924 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdView not found
+11-06 11:22:04.925 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.InterstitialAd not found
+11-06 11:22:04.925 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.reward.RewardedVideoAd not found
+11-06 11:22:04.926 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdRequest not found
+11-06 11:22:04.926 2986-2986/? D/AdsSdk_3006.0: Admob ads jars has not improved, check please
+11-06 11:22:04.927 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdView not found
+11-06 11:22:04.927 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.InterstitialAd not found
+11-06 11:22:04.928 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.reward.RewardedVideoAd not found
+11-06 11:22:04.928 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdRequest not found
+11-06 11:22:04.928 2986-2986/? D/AdsSdk_3006.0: Admob ads jars has not improved, check please
+11-06 11:22:04.933 2986-2986/? D/AdsSdk_3006.0: class com.facebook.ads.RewardedVideoAd not found
+11-06 11:22:04.933 2986-2986/? D/AdsSdk_3006.0: Facebook video ads jars has not improved, check please
+11-06 11:22:04.933 2986-2986/? D/AdsSdk_3006.0: class com.facebook.ads.RewardedVideoAd not found
+11-06 11:22:04.933 2986-2986/? D/AdsSdk_3006.0: Facebook video ads jars has not improved, check please
+11-06 11:22:04.942 2986-2986/? D/AdsSdk_3006.0: VK ads jars has be not improved, check please
+11-06 11:22:04.942 2986-2986/? D/AdsSdk_3006.0: VK ads jars has be not improved, check please
+11-06 11:22:04.945 2986-2986/? D/AdsSdk_3006.0: Batmobi ads jars has be not improved, check please
+11-06 11:22:04.946 2986-2986/? D/AdsSdk_3006.0: Batmobi ads jars has be not improved, check please
+11-06 11:22:04.955 2986-2986/? D/AdsSdk_3006.0: Nend ads jars has be not improved, check please
+11-06 11:22:04.956 2986-2986/? D/AdsSdk_3006.0: Nend ads jars has be not improved, check please
+11-06 11:22:04.960 2986-2986/? D/AdsSdk_3006.0: GDT ads jars has be not improved, check please
+11-06 11:22:04.960 2986-2986/? D/AdsSdk_3006.0: GDT ads jars has be not improved, check please
+11-06 11:22:04.963 2986-2986/? D/AdsSdk_3006.0: Dap vd ads jars has be not improved, check please
+11-06 11:22:04.964 2986-2986/? D/AdsSdk_3006.0: Dap vd ads jars has be not improved, check please
+11-06 11:22:04.967 2986-2986/? D/AdsSdk_3006.0: Ironsource ads jars has be not improved, check please
+11-06 11:22:04.967 2986-2986/? D/AdsSdk_3006.0: Ironsource ads jars has be not improved, check please
+11-06 11:22:04.973 2986-2986/? D/AdsSdk_3006.0: YOUAPPI ads jars has be not improved, check please
+11-06 11:22:04.974 2986-2986/? D/AdsSdk_3006.0: YOUAPPI ads jars has be not improved, check please
+11-06 11:22:04.978 2986-2986/? D/AdsSdk_3006.0: TAPJOY ads jars has be not improved, check please
+11-06 11:22:04.978 2986-2986/? D/AdsSdk_3006.0: TAPJOY ads jars has be not improved, check please
+11-06 11:22:04.982 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdView not found
+11-06 11:22:04.982 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.InterstitialAd not found
+11-06 11:22:04.984 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.reward.RewardedVideoAd not found
+11-06 11:22:04.984 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdRequest not found
+11-06 11:22:04.984 2986-2986/? D/AdsSdk_3006.0: Admob ads jars has not improved, check please
+11-06 11:22:04.985 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdView not found
+11-06 11:22:04.985 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.InterstitialAd not found
+11-06 11:22:04.988 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.reward.RewardedVideoAd not found
+11-06 11:22:04.990 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdRequest not found
+11-06 11:22:04.990 2986-2986/? D/AdsSdk_3006.0: Admob ads jars has not improved, check please
+11-06 11:22:05.169 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdView not found
+11-06 11:22:05.170 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.InterstitialAd not found
+11-06 11:22:05.172 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.reward.RewardedVideoAd not found
+11-06 11:22:05.173 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdRequest not found
+11-06 11:22:05.173 2986-2986/? D/AdsSdk_3006.0: Admob ads jars has not improved, check please
+11-06 11:22:05.173 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdView not found
+11-06 11:22:05.176 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.InterstitialAd not found
+11-06 11:22:05.177 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.reward.RewardedVideoAd not found
+11-06 11:22:05.178 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdRequest not found
+11-06 11:22:05.178 2986-2986/? D/AdsSdk_3006.0: Admob ads jars has not improved, check please
+11-06 11:22:05.180 2986-2986/? D/AdsSdk_3006.0: class com.facebook.ads.RewardedVideoAd not found
+11-06 11:22:05.180 2986-2986/? D/AdsSdk_3006.0: Facebook video ads jars has not improved, check please
+11-06 11:22:05.181 2986-2986/? D/AdsSdk_3006.0: class com.facebook.ads.RewardedVideoAd not found
+11-06 11:22:05.181 2986-2986/? D/AdsSdk_3006.0: Facebook video ads jars has not improved, check please
+11-06 11:22:05.189 2986-2986/? D/AdsSdk_3006.0: VK ads jars has be not improved, check please
+11-06 11:22:05.190 2986-2986/? D/AdsSdk_3006.0: VK ads jars has be not improved, check please
+11-06 11:22:05.195 2986-2986/? D/AdsSdk_3006.0: Batmobi ads jars has be not improved, check please
+11-06 11:22:05.200 2986-2986/? D/AdsSdk_3006.0: Batmobi ads jars has be not improved, check please
+11-06 11:22:05.203 2986-2986/? D/AdsSdk_3006.0: Nend ads jars has be not improved, check please
+11-06 11:22:05.204 2986-2986/? D/AdsSdk_3006.0: Nend ads jars has be not improved, check please
+11-06 11:22:05.206 2986-2986/? D/AdsSdk_3006.0: GDT ads jars has be not improved, check please
+11-06 11:22:05.207 2986-2986/? D/AdsSdk_3006.0: GDT ads jars has be not improved, check please
+11-06 11:22:05.209 2986-2986/? D/AdsSdk_3006.0: Dap vd ads jars has be not improved, check please
+11-06 11:22:05.210 2986-2986/? D/AdsSdk_3006.0: Dap vd ads jars has be not improved, check please
+11-06 11:22:05.213 2986-2986/? D/AdsSdk_3006.0: Ironsource ads jars has be not improved, check please
+11-06 11:22:05.213 2986-2986/? D/AdsSdk_3006.0: Ironsource ads jars has be not improved, check please
+11-06 11:22:05.214 2986-2986/? D/AdsSdk_3006.0: YOUAPPI ads jars has be not improved, check please
+11-06 11:22:05.215 2986-2986/? D/AdsSdk_3006.0: YOUAPPI ads jars has be not improved, check please
+11-06 11:22:05.216 2986-2986/? D/AdsSdk_3006.0: TAPJOY ads jars has be not improved, check please
+11-06 11:22:05.217 2986-2986/? D/AdsSdk_3006.0: TAPJOY ads jars has be not improved, check please
+11-06 11:22:05.614 2986-3225/? I/AdsSdk_3006.0: inter_aaa: fillup is called
+11-06 11:22:05.616 2986-3225/? I/AdsSdk_3006.0: inter_aaa: only_wifi：false，netType: wifi
+11-06 11:22:05.617 2986-3309/? I/AdsSdk_3006.0: inter_aaa: 开始请求联盟广告，位于加载队列中的联盟数: 6
+11-06 11:22:05.618 2986-3309/? D/AdsSdk_3006.0: inter_aaa: AffInfo is: {"aff_name":"gdt","aff_key":"1101152570","app_id":"8575134060152130849","placement_id":"0","open_i_b":0,"aff_ttl":1800}
+11-06 11:22:05.619 2986-3309/? D/AdsSdk_3006.0: GDT ads jars has be not improved, check please
+11-06 11:22:05.619 2986-3309/? W/AdsSdk_3006.0: LoadManager AdapterFactory return null with: gdt
+11-06 11:22:05.620 2986-3309/? D/AdsSdk_3006.0: inter_aaa: AffInfo is: {"aff_name":"ironsource","app_key":"6646564d","open_i_b":0,"aff_ttl":1800,"placement_id":"1111111111"}
+11-06 11:22:05.621 2986-3309/? D/AdsSdk_3006.0: Ironsource ads jars has be not improved, check please
+11-06 11:22:05.622 2986-3309/? W/AdsSdk_3006.0: LoadManager AdapterFactory return null with: ironsource
+11-06 11:22:05.623 2986-3309/? D/AdsSdk_3006.0: inter_aaa: AffInfo is: {"aff_name":"mobvista","app_id":"90146","aff_key":"23d44b35a1b60f20f12f92498b00de9d","ad_unit_id":"18188","reward_id":"13238","open_i_b":0,"aff_ttl":1800}
+11-06 11:22:05.625 2986-3309/? D/AdsSdk_3006.0: LoadManager mobvista_18188: load开始
+11-06 11:22:05.635 2986-3309/? I/<ALY Android>_3200: logEvent key: _NEW_IL_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22mobvista%22%2C%22app_id%22%3A%2290146%22%2C%22aff_key%22%3A%2223d44b35a1b60f20f12f92498b00de9d%22%2C%22ad_unit_id%22%3A%2218188%22%2C%22reward_id%22%3A%2213238%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __ad_id=inter_aaa, __sdk_ver=3006, __open_id=80b62288b18854cd28d2edff45ce7262, __pkg=roy.wan.inland, __sub_ver=3006.0, __sta_token=f8bad30d359540b685486a5694a8a90b}]
+11-06 11:22:05.639 2986-3309/? D/AdsSdk_3006.0: inter_aaa: AffInfo is: {"aff_name":"vungle","app_id":"58c23edde5ffdf116e0000b4","placement_id":"INTERST54803","open_i_b":0,"aff_ttl":1800,"vungle_ids":"DEFAULT99486,INTERST54803"}
+11-06 11:22:05.642 2986-3309/? D/AdsSdk_3006.0: LoadManager vungle_INTERST54803: load开始
+11-06 11:22:05.656 2986-3309/? I/<ALY Android>_3200: logEvent key: _NEW_IL_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22vungle%22%2C%22app_id%22%3A%2258c23edde5ffdf116e0000b4%22%2C%22placement_id%22%3A%22INTERST54803%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%2C%22vungle_ids%22%3A%22DEFAULT99486%2CINTERST54803%22%7D, __ad_id=inter_aaa, __sdk_ver=3006, __open_id=80b62288b18854cd28d2edff45ce7262, __pkg=roy.wan.inland, __sub_ver=3006.0, __sta_token=f8bad30d359540b685486a5694a8a90b}]
+11-06 11:22:06.809 2986-3309/? D/AdsSdk_3006.0: inter_aaa: AffInfo is: {"aff_name":"unity","aff_key":"1533672","placement_id":"video","open_i_b":0,"aff_ttl":1800}
+11-06 11:22:06.809 2986-3309/? D/AdsSdk_3006.0: Unity ads jars has be not improved, check please
+11-06 11:22:06.809 2986-3309/? W/AdsSdk_3006.0: LoadManager AdapterFactory return null with: unity
+11-06 11:22:06.810 2986-3309/? D/AdsSdk_3006.0: inter_aaa: AffInfo is: {"aff_name":"playableads","app_key":"il-100013-1503555086979","open_i_b":0,"aff_ttl":1800}
+11-06 11:22:06.814 2986-3309/? D/AdsSdk_3006.0: LoadManager playableads_il-100013-1503555086979: load开始
+11-06 11:22:06.816 2986-3309/? I/<ALY Android>_3200: logEvent key: _NEW_IL_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22playableads%22%2C%22app_key%22%3A%22il-100013-1503555086979%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __ad_id=inter_aaa, __sdk_ver=3006, __open_id=80b62288b18854cd28d2edff45ce7262, __pkg=roy.wan.inland, __sub_ver=3006.0, __sta_token=f8bad30d359540b685486a5694a8a90b}]
+11-06 11:22:14.860 2986-3018/? I/AdsSdk_3006.0: banner ====>onApplicationFocus hasfocus: true
+11-06 11:22:14.861 2986-3018/? I/AdsSdk_3006.0: banner ====>topFrameLayout    is hide:false, visibility: -100
+11-06 11:22:14.861 2986-3018/? I/AdsSdk_3006.0: banner ====>bottomFrameLayout is hide:false, visibility: -100
+11-06 11:22:14.861 2986-3018/? D/AdsSdk_3006.0: -------------------------------------------
+11-06 11:22:14.861 2986-3018/? D/AdsSdk_3006.0: |  reloadRunnable left time(ms): 11409
+11-06 11:22:14.861 2986-3018/? D/AdsSdk_3006.0: -------------------------------------------
+11-06 11:22:14.931 2986-2986/? I/AdsSdk_3006.0: LoadManager LoadCallback: vungle_INTERST54803 onLoaded，加载成功
+11-06 11:22:14.934 2986-2986/? I/<ALY Android>_3200: logEvent key: _NEW_IL_LOADOK, value: [{__req_id=d28f214afc3098b0db78797d87a21f6b, __gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22vungle%22%2C%22app_id%22%3A%2258c23edde5ffdf116e0000b4%22%2C%22placement_id%22%3A%22INTERST54803%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%2C%22vungle_ids%22%3A%22DEFAULT99486%2CINTERST54803%22%7D, __ad_id=inter_aaa, __sdk_ver=3006, __open_id=80b62288b18854cd28d2edff45ce7262, __pkg=roy.wan.inland, __sub_ver=3006.0, __sta_token=f8bad30d359540b685486a5694a8a90b}]
+11-06 11:22:15.086 2986-3225/? D/AdsSdk_3006.0: inter_aaa: LoadCallback: vungle_INTERST54803 onLoaded，加载成功
+11-06 11:22:16.468 2986-3018/? I/AdsSdk_3006.0: UPInterstitialWrapper 传入的广告位: inter_aaa
+11-06 11:22:16.470 2986-3018/? I/AdsSdk_3006.0: UPInterstitialWrapper 传入的广告位: inter_aaa
+11-06 11:22:16.470 2986-3018/? I/AdsSdk_3006.0: TriggerParam mShowCount is 1
+11-06 11:22:16.470 2986-3018/? I/AdsSdk_3006.0: TriggerParam platform is null
+11-06 11:22:16.470 2986-3018/? I/AdsSdk_3006.0: UPInterstitialWrapper: inter_aaa show_order配置的展示联盟：null
+11-06 11:22:16.470 2986-3018/? I/AdsSdk_3006.0: UPInterstitialWrapper: inter_aaa peek
+11-06 11:22:16.470 2986-3018/? I/AdsSdk_3006.0: inter_aaa: ParallelRequestStrategy peek platform: null
+11-06 11:22:16.470 2986-3018/? I/AdsSdk_3006.0: inter_aaa peek, auctionOpen is false, mServerReqIds.size is 0
+11-06 11:22:16.470 2986-3018/? I/AdsSdk_3006.0: inter_aaa peek, 根据affinfo_list配置排序开始
+11-06 11:22:16.473 2986-3018/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_INTERST54803 isValid: true
+11-06 11:22:16.473 2986-3018/? I/AdsSdk_3006.0: inter_aaapeek, 根据affinfo_list配置排序成功
+11-06 11:22:16.473 2986-3225/? I/AdsSdk_3006.0: inter_aaa: fillup is called
+11-06 11:22:16.474 2986-3225/? I/AdsSdk_3006.0: inter_aaa: only_wifi：false，netType: wifi
+11-06 11:22:16.474 2986-3018/? I/AdsSdk_3006.0: UPInterstitialWrapper: inter_aaa peek成功， 联盟: vungle
+11-06 11:22:16.475 2986-3549/? I/AdsSdk_3006.0: inter_aaa: 开始请求联盟广告，位于加载队列中的联盟数: 6
+11-06 11:22:16.475 2986-3549/? D/AdsSdk_3006.0: inter_aaa: AffInfo is: {"aff_name":"gdt","aff_key":"1101152570","app_id":"8575134060152130849","placement_id":"0","open_i_b":0,"aff_ttl":1800}
+11-06 11:22:16.476 2986-3549/? D/AdsSdk_3006.0: GDT ads jars has be not improved, check please
+11-06 11:22:16.476 2986-3549/? W/AdsSdk_3006.0: LoadManager AdapterFactory return null with: gdt
+11-06 11:22:16.477 2986-3549/? D/AdsSdk_3006.0: inter_aaa: AffInfo is: {"aff_name":"ironsource","app_key":"6646564d","open_i_b":0,"aff_ttl":1800,"placement_id":"1111111111"}
+11-06 11:22:16.478 2986-3018/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_INTERST54803 isValid: true
+11-06 11:22:16.478 2986-3549/? D/AdsSdk_3006.0: Ironsource ads jars has be not improved, check please
+11-06 11:22:16.478 2986-3018/? I/AdsSdk_3006.0: cplog: 插屏广告inter_aaa isReady return true
+11-06 11:22:16.479 2986-3549/? W/AdsSdk_3006.0: LoadManager AdapterFactory return null with: ironsource
+11-06 11:22:16.479 2986-3018/? I/AdsSdk_3006.0: PolyProxy ===>invokeUnitySendMessage :{"function":"interstitial_didloadsuccess","message":"Interstitial Ad loadsuccess()","cpadsid":"inter_aaa"}
+11-06 11:22:16.480 2986-3549/? D/AdsSdk_3006.0: inter_aaa: AffInfo is: {"aff_name":"mobvista","app_id":"90146","aff_key":"23d44b35a1b60f20f12f92498b00de9d","ad_unit_id":"18188","reward_id":"13238","open_i_b":0,"aff_ttl":1800}
+11-06 11:22:16.480 2986-3549/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO mobvista_18188 isValid: false
+11-06 11:22:16.480 2986-3549/? W/AdsSdk_3006.0: LoadManager mobvista_18188: 此联盟在loading队列中, return
+11-06 11:22:16.480 2986-3549/? D/AdsSdk_3006.0: inter_aaa: AffInfo is: {"aff_name":"vungle","app_id":"58c23edde5ffdf116e0000b4","placement_id":"INTERST54803","open_i_b":0,"aff_ttl":1800,"vungle_ids":"DEFAULT99486,INTERST54803"}
+11-06 11:22:16.481 2986-3549/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_INTERST54803 isValid: true
+11-06 11:22:16.481 2986-3549/? W/AdsSdk_3006.0: LoadManager vungle_INTERST54803: 此联盟在loaded队列中, return
+11-06 11:22:16.481 2986-3549/? D/AdsSdk_3006.0: inter_aaa: LoadCallback: vungle_INTERST54803 onLoaded，加载成功
+11-06 11:22:16.482 2986-3549/? D/AdsSdk_3006.0: inter_aaa: AffInfo is: {"aff_name":"unity","aff_key":"1533672","placement_id":"video","open_i_b":0,"aff_ttl":1800}
+11-06 11:22:16.483 2986-3549/? D/AdsSdk_3006.0: Unity ads jars has be not improved, check please
+11-06 11:22:16.483 2986-3549/? W/AdsSdk_3006.0: LoadManager AdapterFactory return null with: unity
+11-06 11:22:16.484 2986-3549/? D/AdsSdk_3006.0: inter_aaa: AffInfo is: {"aff_name":"playableads","app_key":"il-100013-1503555086979","open_i_b":0,"aff_ttl":1800}
+11-06 11:22:16.484 2986-3549/? D/AdsSdk_3006.0: Adapter: INTERSTITIAL playableads_il-100013-1503555086979 isValid: false
+11-06 11:22:16.484 2986-3549/? W/AdsSdk_3006.0: LoadManager playableads_il-100013-1503555086979: 此联盟在loading队列中, return
+11-06 11:22:20.612 2986-3225/? I/AdsSdk_3006.0: rewarded_video: fillup is called
+11-06 11:22:20.613 2986-3225/? I/AdsSdk_3006.0: rewarded_video: only_wifi：false，netType: wifi
+11-06 11:22:20.616 2986-3573/? I/AdsSdk_3006.0: rewarded_video: 开始请求联盟广告，位于加载队列中的联盟数: 5
+11-06 11:22:20.618 2986-3573/? D/AdsSdk_3006.0: rewarded_video: AffInfo is: {"aff_name":"mobvista","app_id":"90146","aff_key":"23d44b35a1b60f20f12f92498b00de9d","ad_unit_id":"11937","reward_id":"13238","open_i_b":0,"aff_ttl":1800}
+11-06 11:22:20.619 2986-3573/? D/AdsSdk_3006.0: LoadManager mobvista_11937: load开始
+11-06 11:22:20.636 2986-3573/? I/<ALY Android>_3200: logEvent key: _NEW_RDA_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22mobvista%22%2C%22app_id%22%3A%2290146%22%2C%22aff_key%22%3A%2223d44b35a1b60f20f12f92498b00de9d%22%2C%22ad_unit_id%22%3A%2211937%22%2C%22reward_id%22%3A%2213238%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __ad_id=rewarded_video, __sdk_ver=3006, __open_id=80b62288b18854cd28d2edff45ce7262, __pkg=roy.wan.inland, __sub_ver=3006.0, __sta_token=f8bad30d359540b685486a5694a8a90b}]
+11-06 11:22:20.649 2986-3573/? D/AdsSdk_3006.0: rewarded_video: AffInfo is: {"aff_name":"oneway","publisher_id":"eqv30rapcjp0kq1p","placement_id":"2","open_i_b":0,"aff_ttl":1800}
+11-06 11:22:20.656 2986-3573/? D/AdsSdk_3006.0: LoadManager oneway: load开始
+11-06 11:22:20.662 2986-3573/? I/<ALY Android>_3200: logEvent key: _NEW_RDA_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22oneway%22%2C%22publisher_id%22%3A%22eqv30rapcjp0kq1p%22%2C%22placement_id%22%3A%222%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __ad_id=rewarded_video, __sdk_ver=3006, __open_id=80b62288b18854cd28d2edff45ce7262, __pkg=roy.wan.inland, __sub_ver=3006.0, __sta_token=f8bad30d359540b685486a5694a8a90b}]
+11-06 11:22:20.726 2986-3573/? D/AdsSdk_3006.0: rewarded_video: AffInfo is: {"aff_name":"vungle","app_id":"58c23edde5ffdf116e0000b4","placement_id":"DEFAULT99486","open_i_b":0,"aff_ttl":1800,"vungle_ids":"DEFAULT99486,INTERST54803"}
+11-06 11:22:20.727 2986-3573/? D/AdsSdk_3006.0: LoadManager vungle_DEFAULT99486: load开始
+11-06 11:22:20.729 2986-3573/? I/<ALY Android>_3200: logEvent key: _NEW_RDA_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22vungle%22%2C%22app_id%22%3A%2258c23edde5ffdf116e0000b4%22%2C%22placement_id%22%3A%22DEFAULT99486%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%2C%22vungle_ids%22%3A%22DEFAULT99486%2CINTERST54803%22%7D, __ad_id=rewarded_video, __sdk_ver=3006, __open_id=80b62288b18854cd28d2edff45ce7262, __pkg=roy.wan.inland, __sub_ver=3006.0, __sta_token=f8bad30d359540b685486a5694a8a90b}]
+11-06 11:22:20.731 2986-3573/? I/AdsSdk_3006.0: LoadManager LoadCallback: vungle_DEFAULT99486 onLoaded，加载成功
+11-06 11:22:20.731 2986-3573/? D/AdsSdk_3006.0: LoadCallback: vungle_DEFAULT99486 loadCostTimeMills is -1
+11-06 11:22:20.734 2986-3573/? I/<ALY Android>_3200: logEvent key: _NEW_RDA_LOADOK, value: [{__req_id=ce90e5ab9e6e477f9b6d3e986037c509, __gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22vungle%22%2C%22app_id%22%3A%2258c23edde5ffdf116e0000b4%22%2C%22placement_id%22%3A%22DEFAULT99486%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%2C%22vungle_ids%22%3A%22DEFAULT99486%2CINTERST54803%22%7D, __load_time=-1, __ad_id=rewarded_video, __sdk_ver=3006, __open_id=80b62288b18854cd28d2edff45ce7262, __pkg=roy.wan.inland, __sub_ver=3006.0, __sta_token=f8bad30d359540b685486a5694a8a90b}]
+11-06 11:22:20.738 2986-3573/? D/AdsSdk_3006.0: rewarded_video: AffInfo is: {"aff_name":"playable_inner_promotion","app_key":"il-100013-1503555086955dd","open_i_b":0,"aff_ttl":1800}
+11-06 11:22:20.753 2986-3573/? D/AdsSdk_3006.0: LoadManager playable_inner_promotion: load开始
+11-06 11:22:20.756 2986-3573/? I/<ALY Android>_3200: logEvent key: _NEW_RDA_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22playable_inner_promotion%22%2C%22app_key%22%3A%22il-100013-1503555086955dd%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __ad_id=rewarded_video, __sdk_ver=3006, __open_id=80b62288b18854cd28d2edff45ce7262, __pkg=roy.wan.inland, __sub_ver=3006.0, __sta_token=f8bad30d359540b685486a5694a8a90b}]
+11-06 11:22:20.759 2986-3573/? D/AdsSdk_3006.0: rewarded_video: AffInfo is: {"aff_name":"toutiao","app_id":"5001121","slot_id":"901121365","open_i_b":0,"aff_ttl":1800}
+11-06 11:22:20.760 2986-3573/? D/AdsSdk_3006.0: LoadManager toutiao_901121365: load开始
+11-06 11:22:20.762 2986-3573/? I/<ALY Android>_3200: logEvent key: _NEW_RDA_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22toutiao%22%2C%22app_id%22%3A%225001121%22%2C%22slot_id%22%3A%22901121365%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __ad_id=rewarded_video, __sdk_ver=3006, __open_id=80b62288b18854cd28d2edff45ce7262, __pkg=roy.wan.inland, __sub_ver=3006.0, __sta_token=f8bad30d359540b685486a5694a8a90b}]
+11-06 11:22:20.886 2986-3225/? D/AdsSdk_3006.0: rewarded_video: LoadCallback: vungle_DEFAULT99486 onLoaded，加载成功
+11-06 11:22:22.048 2986-2986/? W/AdsSdk_3006.0: LoadManager LoadCallback: toutiao_901121365 onError，加载失败
+                                                message: TTRewardVideoAdapter failed with message: 没有广告
+11-06 11:22:22.051 2986-2986/? I/<ALY Android>_3200: logEvent key: _NEW_RDA_LOADNOK, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22toutiao%22%2C%22app_id%22%3A%225001121%22%2C%22slot_id%22%3A%22901121365%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __ad_id=rewarded_video, __sdk_ver=3006, __open_id=80b62288b18854cd28d2edff45ce7262, __pkg=roy.wan.inland, __sub_ver=3006.0, __sta_token=f8bad30d359540b685486a5694a8a90b}]
+11-06 11:22:22.303 2986-3225/? D/AdsSdk_3006.0: toutiao_901121365: 8000ms后重试
+11-06 11:22:23.892 2986-2986/? I/AdsSdk_3006.0: LoadManager LoadCallback: oneway onLoaded，加载成功
+11-06 11:22:23.893 2986-2986/? D/AdsSdk_3006.0: LoadCallback: oneway loadCostTimeMills is 3173
+11-06 11:22:23.896 2986-2986/? I/<ALY Android>_3200: logEvent key: _NEW_RDA_LOADOK, value: [{__req_id=d6a5cafab808bac98328bb1ba9eb475d, __gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22oneway%22%2C%22publisher_id%22%3A%22eqv30rapcjp0kq1p%22%2C%22placement_id%22%3A%222%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __load_time=3173, __ad_id=rewarded_video, __sdk_ver=3006, __open_id=80b62288b18854cd28d2edff45ce7262, __pkg=roy.wan.inland, __sub_ver=3006.0, __sta_token=f8bad30d359540b685486a5694a8a90b}]
+11-06 11:22:24.048 2986-3225/? D/AdsSdk_3006.0: rewarded_video: LoadCallback: oneway onLoaded，加载成功
+11-06 11:22:28.611 2986-3018/? I/AdsSdk_3006.0: UPInterstitialWrapper 传入的广告位: inter_aaa
+11-06 11:22:28.611 2986-3018/? I/AdsSdk_3006.0: UPInterstitialWrapper 传入的广告位: inter_aaa
+11-06 11:22:28.611 2986-3018/? I/AdsSdk_3006.0: TriggerParam mShowCount is 1
+11-06 11:22:28.611 2986-3018/? I/AdsSdk_3006.0: TriggerParam platform is null
+11-06 11:22:28.611 2986-3018/? I/AdsSdk_3006.0: UPInterstitialWrapper: inter_aaa show_order配置的展示联盟：null
+11-06 11:22:28.611 2986-3018/? I/AdsSdk_3006.0: UPInterstitialWrapper: inter_aaa peek
+11-06 11:22:28.611 2986-3018/? I/AdsSdk_3006.0: inter_aaa: ParallelRequestStrategy peek platform: null
+11-06 11:22:28.611 2986-3018/? I/AdsSdk_3006.0: inter_aaa peek, auctionOpen is false, mServerReqIds.size is 0
+11-06 11:22:28.611 2986-3018/? I/AdsSdk_3006.0: inter_aaa peek, 根据affinfo_list配置排序开始
+11-06 11:22:28.613 2986-3018/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_INTERST54803 isValid: true
+11-06 11:22:28.613 2986-3018/? I/AdsSdk_3006.0: inter_aaapeek, 根据affinfo_list配置排序成功
+11-06 11:22:28.613 2986-3018/? I/AdsSdk_3006.0: UPInterstitialWrapper: inter_aaa peek成功， 联盟: vungle
+11-06 11:22:28.613 2986-3225/? I/AdsSdk_3006.0: inter_aaa: fillup is called
+11-06 11:22:28.614 2986-3018/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_INTERST54803 isValid: true
+11-06 11:22:28.615 2986-3225/? I/AdsSdk_3006.0: inter_aaa: only_wifi：false，netType: wifi
+11-06 11:22:28.616 2986-3018/? I/AdsSdk_3006.0: inter_aaa开始判断是否达到显示条件
+11-06 11:22:28.616 2986-3018/? I/AdsSdk_3006.0: TriggerHelper canShow return: true
+11-06 11:22:28.616 2986-3018/? I/AdsSdk_3006.0: cplog: 插屏广告inter_aaa isReady return true
+11-06 11:22:28.616 2986-3018/? I/AdsSdk_3006.0: Innter ===>showInterstitial : inter_aaa, loadview: false,ready: true
+11-06 11:22:28.616 2986-3018/? I/AdsSdk_3006.0: UPInterstitialWrapper 传入的广告位: inter_aaa
+11-06 11:22:28.618 2986-3018/? I/AdsSdk_3006.0: UPInterstitialWrapper 传入的广告位: inter_aaa
+11-06 11:22:28.618 2986-3018/? I/AdsSdk_3006.0: TriggerParam mShowCount is 1
+11-06 11:22:28.618 2986-3018/? I/AdsSdk_3006.0: TriggerParam platform is null
+11-06 11:22:28.618 2986-3018/? I/AdsSdk_3006.0: UPInterstitialWrapper: inter_aaa show_order配置的展示联盟：null
+11-06 11:22:28.618 2986-3018/? I/AdsSdk_3006.0: UPInterstitialWrapper: inter_aaa peek
+11-06 11:22:28.618 2986-3018/? I/AdsSdk_3006.0: inter_aaa: ParallelRequestStrategy peek platform: null
+11-06 11:22:28.618 2986-3018/? I/AdsSdk_3006.0: inter_aaa peek, auctionOpen is false, mServerReqIds.size is 0
+11-06 11:22:28.618 2986-3018/? I/AdsSdk_3006.0: inter_aaa peek, 根据affinfo_list配置排序开始
+11-06 11:22:28.619 2986-3682/? I/AdsSdk_3006.0: inter_aaa: 开始请求联盟广告，位于加载队列中的联盟数: 6
+11-06 11:22:28.620 2986-3018/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_INTERST54803 isValid: true
+11-06 11:22:28.620 2986-3682/? D/AdsSdk_3006.0: inter_aaa: AffInfo is: {"aff_name":"gdt","aff_key":"1101152570","app_id":"8575134060152130849","placement_id":"0","open_i_b":0,"aff_ttl":1800}
+11-06 11:22:28.620 2986-3018/? I/AdsSdk_3006.0: inter_aaapeek, 根据affinfo_list配置排序成功
+11-06 11:22:28.620 2986-3018/? I/AdsSdk_3006.0: UPInterstitialWrapper: inter_aaa peek成功， 联盟: vungle
+11-06 11:22:28.620 2986-3225/? I/AdsSdk_3006.0: inter_aaa: fillup is called
+11-06 11:22:28.620 2986-3682/? D/AdsSdk_3006.0: GDT ads jars has be not improved, check please
+11-06 11:22:28.620 2986-3682/? W/AdsSdk_3006.0: LoadManager AdapterFactory return null with: gdt
+11-06 11:22:28.621 2986-3018/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_INTERST54803 isValid: true
+11-06 11:22:28.621 2986-3225/? I/AdsSdk_3006.0: inter_aaa: only_wifi：false，netType: wifi
+11-06 11:22:28.622 2986-3682/? D/AdsSdk_3006.0: inter_aaa: AffInfo is: {"aff_name":"ironsource","app_key":"6646564d","open_i_b":0,"aff_ttl":1800,"placement_id":"1111111111"}
+11-06 11:22:28.622 2986-3309/? I/AdsSdk_3006.0: inter_aaa: 开始请求联盟广告，位于加载队列中的联盟数: 6
+11-06 11:22:28.622 2986-3309/? D/AdsSdk_3006.0: inter_aaa: AffInfo is: {"aff_name":"gdt","aff_key":"1101152570","app_id":"8575134060152130849","placement_id":"0","open_i_b":0,"aff_ttl":1800}
+11-06 11:22:28.622 2986-3682/? D/AdsSdk_3006.0: Ironsource ads jars has be not improved, check please
+11-06 11:22:28.622 2986-3682/? W/AdsSdk_3006.0: LoadManager AdapterFactory return null with: ironsource
+11-06 11:22:28.623 2986-3018/? I/AdsSdk_3006.0: inter_aaa开始判断是否达到显示条件
+11-06 11:22:28.623 2986-3018/? I/AdsSdk_3006.0: TriggerHelper canShow return: true
+11-06 11:22:28.623 2986-3018/? I/AdsSdk_3006.0: cplog: 插屏广告inter_aaa isReady return true
+11-06 11:22:28.623 2986-3018/? I/AdsSdk_3006.0: Innter ===>showInterstitial show()
+11-06 11:22:28.623 2986-3018/? I/AdsSdk_3006.0: UPInterstitialWrapper 传入的广告位: inter_aaa
+11-06 11:22:28.623 2986-3018/? I/AdsSdk_3006.0: UPInterstitialWrapper 插屏广告inter_aaa展示被调用
+11-06 11:22:28.623 2986-3309/? D/AdsSdk_3006.0: GDT ads jars has be not improved, check please
+11-06 11:22:28.623 2986-3309/? W/AdsSdk_3006.0: LoadManager AdapterFactory return null with: gdt
+11-06 11:22:28.623 2986-3682/? D/AdsSdk_3006.0: inter_aaa: AffInfo is: {"aff_name":"mobvista","app_id":"90146","aff_key":"23d44b35a1b60f20f12f92498b00de9d","ad_unit_id":"18188","reward_id":"13238","open_i_b":0,"aff_ttl":1800}
+11-06 11:22:28.624 2986-3309/? D/AdsSdk_3006.0: inter_aaa: AffInfo is: {"aff_name":"ironsource","app_key":"6646564d","open_i_b":0,"aff_ttl":1800,"placement_id":"1111111111"}
+11-06 11:22:28.624 2986-3682/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO mobvista_18188 isValid: false
+11-06 11:22:28.624 2986-3682/? W/AdsSdk_3006.0: LoadManager mobvista_18188: 此联盟在loading队列中, return
+11-06 11:22:28.625 2986-3309/? D/AdsSdk_3006.0: Ironsource ads jars has be not improved, check please
+11-06 11:22:28.625 2986-3309/? W/AdsSdk_3006.0: LoadManager AdapterFactory return null with: ironsource
+11-06 11:22:28.625 2986-3682/? D/AdsSdk_3006.0: inter_aaa: AffInfo is: {"aff_name":"vungle","app_id":"58c23edde5ffdf116e0000b4","placement_id":"INTERST54803","open_i_b":0,"aff_ttl":1800,"vungle_ids":"DEFAULT99486,INTERST54803"}
+11-06 11:22:28.626 2986-3309/? D/AdsSdk_3006.0: inter_aaa: AffInfo is: {"aff_name":"mobvista","app_id":"90146","aff_key":"23d44b35a1b60f20f12f92498b00de9d","ad_unit_id":"18188","reward_id":"13238","open_i_b":0,"aff_ttl":1800}
+11-06 11:22:28.627 2986-3682/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_INTERST54803 isValid: true
+11-06 11:22:28.627 2986-3682/? W/AdsSdk_3006.0: LoadManager vungle_INTERST54803: 此联盟在loaded队列中, return
+11-06 11:22:28.627 2986-3682/? D/AdsSdk_3006.0: inter_aaa: LoadCallback: vungle_INTERST54803 onLoaded，加载成功
+11-06 11:22:28.629 2986-3309/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO mobvista_18188 isValid: false
+11-06 11:22:28.629 2986-3309/? W/AdsSdk_3006.0: LoadManager mobvista_18188: 此联盟在loading队列中, return
+11-06 11:22:28.630 2986-3309/? D/AdsSdk_3006.0: inter_aaa: AffInfo is: {"aff_name":"vungle","app_id":"58c23edde5ffdf116e0000b4","placement_id":"INTERST54803","open_i_b":0,"aff_ttl":1800,"vungle_ids":"DEFAULT99486,INTERST54803"}
+11-06 11:22:28.631 2986-3309/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_INTERST54803 isValid: true
+11-06 11:22:28.631 2986-3309/? W/AdsSdk_3006.0: LoadManager vungle_INTERST54803: 此联盟在loaded队列中, return
+11-06 11:22:28.631 2986-3309/? D/AdsSdk_3006.0: inter_aaa: LoadCallback: vungle_INTERST54803 onLoaded，加载成功
+11-06 11:22:28.632 2986-3309/? D/AdsSdk_3006.0: inter_aaa: AffInfo is: {"aff_name":"unity","aff_key":"1533672","placement_id":"video","open_i_b":0,"aff_ttl":1800}
+11-06 11:22:28.633 2986-3309/? D/AdsSdk_3006.0: Unity ads jars has be not improved, check please
+11-06 11:22:28.633 2986-3309/? W/AdsSdk_3006.0: LoadManager AdapterFactory return null with: unity
+11-06 11:22:28.634 2986-3682/? D/AdsSdk_3006.0: inter_aaa: AffInfo is: {"aff_name":"unity","aff_key":"1533672","placement_id":"video","open_i_b":0,"aff_ttl":1800}
+11-06 11:22:28.636 2986-3309/? D/AdsSdk_3006.0: inter_aaa: AffInfo is: {"aff_name":"playableads","app_key":"il-100013-1503555086979","open_i_b":0,"aff_ttl":1800}
+11-06 11:22:28.636 2986-3309/? D/AdsSdk_3006.0: Adapter: INTERSTITIAL playableads_il-100013-1503555086979 isValid: false
+11-06 11:22:28.636 2986-3309/? W/AdsSdk_3006.0: LoadManager playableads_il-100013-1503555086979: 此联盟在loading队列中, return
+11-06 11:22:28.637 2986-3682/? D/AdsSdk_3006.0: Unity ads jars has be not improved, check please
+11-06 11:22:28.637 2986-3682/? W/AdsSdk_3006.0: LoadManager AdapterFactory return null with: unity
+11-06 11:22:28.638 2986-3682/? D/AdsSdk_3006.0: inter_aaa: AffInfo is: {"aff_name":"playableads","app_key":"il-100013-1503555086979","open_i_b":0,"aff_ttl":1800}
+11-06 11:22:28.638 2986-3682/? D/AdsSdk_3006.0: Adapter: INTERSTITIAL playableads_il-100013-1503555086979 isValid: false
+11-06 11:22:28.639 2986-3682/? W/AdsSdk_3006.0: LoadManager playableads_il-100013-1503555086979: 此联盟在loading队列中, return
+11-06 11:22:28.832 2986-2986/? I/AdsSdk_3006.0: UPInterstitialWrapper 传入的广告位: inter_aaa
+11-06 11:22:28.832 2986-2986/? I/AdsSdk_3006.0: TriggerParam mShowCount is 1
+11-06 11:22:28.832 2986-2986/? I/AdsSdk_3006.0: TriggerParam platform is null
+11-06 11:22:28.833 2986-2986/? I/AdsSdk_3006.0: UPInterstitialWrapper: inter_aaa show_order配置的展示联盟：null
+11-06 11:22:28.833 2986-2986/? I/AdsSdk_3006.0: UPInterstitialWrapper: inter_aaa peek
+11-06 11:22:28.833 2986-2986/? I/AdsSdk_3006.0: inter_aaa: ParallelRequestStrategy peek platform: null
+11-06 11:22:28.833 2986-2986/? I/AdsSdk_3006.0: inter_aaa peek, auctionOpen is false, mServerReqIds.size is 0
+11-06 11:22:28.833 2986-2986/? I/AdsSdk_3006.0: inter_aaa peek, 根据affinfo_list配置排序开始
+11-06 11:22:28.833 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_INTERST54803 isValid: true
+11-06 11:22:28.833 2986-2986/? I/AdsSdk_3006.0: inter_aaapeek, 根据affinfo_list配置排序成功
+11-06 11:22:28.833 2986-2986/? I/AdsSdk_3006.0: UPInterstitialWrapper: inter_aaa peek成功， 联盟: vungle
+11-06 11:22:28.834 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_INTERST54803 isValid: true
+11-06 11:22:28.834 2986-2986/? I/AdsSdk_3006.0: cplog: 插屏广告inter_aaa isReady return true
+11-06 11:22:28.834 2986-2986/? I/AdsSdk_3006.0: UPInterstitialWrapper 插屏广告inter_aaa展示, 联盟：vungle
+11-06 11:22:28.835 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_INTERST54803 isValid: true
+11-06 11:22:28.836 2986-2986/? I/AdsSdk_3006.0: UPInterstitialWrapper: inter_aaa 加载成功联盟：vungle
+11-06 11:22:28.839 2986-2986/? I/<ALY Android>_3200: logEvent key: _NEW_IL_SHOW, value: [{__req_id=d28f214afc3098b0db78797d87a21f6b, __gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22vungle%22%2C%22app_id%22%3A%2258c23edde5ffdf116e0000b4%22%2C%22placement_id%22%3A%22INTERST54803%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%2C%22vungle_ids%22%3A%22DEFAULT99486%2CINTERST54803%22%7D, __ad_id=inter_aaa, __aff_ready=vungle, __sdk_ver=3006, __open_id=80b62288b18854cd28d2edff45ce7262, __pkg=roy.wan.inland, __sub_ver=3006.0, __sta_token=f8bad30d359540b685486a5694a8a90b}]
+11-06 11:22:28.844 2986-2986/? I/<ALY Android>_3200: logEvent key: _NEW_IL_SHOW_RES, value: [{__req_id=d28f214afc3098b0db78797d87a21f6b, __gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22vungle%22%2C%22app_id%22%3A%2258c23edde5ffdf116e0000b4%22%2C%22placement_id%22%3A%22INTERST54803%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%2C%22vungle_ids%22%3A%22DEFAULT99486%2CINTERST54803%22%7D, __sdk_ver=3006, __res_type=3, __open_id=80b62288b18854cd28d2edff45ce7262, __pkg=roy.wan.inland, __sub_ver=3006.0, __sta_token=f8bad30d359540b685486a5694a8a90b}]
+11-06 11:22:28.956 2986-3225/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_INTERST54803 isValid: true
+11-06 11:22:29.325 2986-3018/? I/AdsSdk_3006.0: banner ====>onApplicationFocus hasfocus: false
+11-06 11:22:29.376 2986-2986/? I/AdsSdk_3006.0: UPInterstitialWrapper onAdOpened: inter_aaa
+11-06 11:22:29.377 2986-2986/? I/AdsSdk_3006.0: PolyProxy ===>invokeUnitySendMessage :{"function":"interstitial_didshow","message":"Interstitial Ad onDisplayed()","cpadsid":"inter_aaa"}
+11-06 11:22:30.304 2986-3225/? D/AdsSdk_3006.0: toutiao_901121365: 重试开始
+11-06 11:22:30.305 2986-3549/? D/AdsSdk_3006.0: rewarded_video: AffInfo is: {"aff_name":"toutiao","app_id":"5001121","slot_id":"901121365","open_i_b":0,"aff_ttl":1800}
+11-06 11:22:30.305 2986-3549/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: false
+11-06 11:22:30.306 2986-3549/? D/AdsSdk_3006.0: LoadManager toutiao_901121365: load开始
+11-06 11:22:30.309 2986-3549/? I/<ALY Android>_3200: logEvent key: _NEW_RDA_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22toutiao%22%2C%22app_id%22%3A%225001121%22%2C%22slot_id%22%3A%22901121365%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __ad_id=rewarded_video, __sdk_ver=3006, __open_id=80b62288b18854cd28d2edff45ce7262, __pkg=roy.wan.inland, __sub_ver=3006.0, __sta_token=f8bad30d359540b685486a5694a8a90b}]
+11-06 11:22:31.052 2986-2986/? W/AdsSdk_3006.0: LoadManager LoadCallback: toutiao_901121365 onError，加载失败
+                                                message: TTRewardVideoAdapter failed with message: 没有广告
+11-06 11:22:31.304 2986-3225/? D/AdsSdk_3006.0: toutiao_901121365: 32000ms后重试
+11-06 11:22:37.412 2986-3018/? I/AdsSdk_3006.0: banner ====>onApplicationFocus hasfocus: true
+11-06 11:22:37.412 2986-3018/? I/AdsSdk_3006.0: banner ====>topFrameLayout    is hide:false, visibility: -100
+11-06 11:22:37.412 2986-3018/? I/AdsSdk_3006.0: banner ====>bottomFrameLayout is hide:false, visibility: -100
+11-06 11:22:37.412 2986-3018/? D/AdsSdk_3006.0: -------------------------------------------
+11-06 11:22:37.412 2986-3018/? D/AdsSdk_3006.0: |  reloadRunnable left time(ms): 33960
+11-06 11:22:37.412 2986-3018/? D/AdsSdk_3006.0: -------------------------------------------
+11-06 11:22:37.443 2986-2986/? I/AdsSdk_3006.0: UPInterstitialWrapper onAdClosed: inter_aaa
+11-06 11:22:37.444 2986-2986/? I/AdsSdk_3006.0: PolyProxy ===>invokeUnitySendMessage :{"function":"interstitial_didclose","message":"Interstitial Ad onClosed()","cpadsid":"inter_aaa"}
+11-06 11:22:37.449 2986-2986/? I/<ALY Android>_3200: logEvent key: _NEW_IL_CLOSE, value: [{__req_id=d28f214afc3098b0db78797d87a21f6b, __gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22vungle%22%2C%22app_id%22%3A%2258c23edde5ffdf116e0000b4%22%2C%22placement_id%22%3A%22INTERST54803%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%2C%22vungle_ids%22%3A%22DEFAULT99486%2CINTERST54803%22%7D, __ad_id=inter_aaa, __sdk_ver=3006, __open_id=80b62288b18854cd28d2edff45ce7262, __pkg=roy.wan.inland, __sub_ver=3006.0, __sta_token=f8bad30d359540b685486a5694a8a90b}]
+11-06 11:22:38.845 2986-3018/? I/AdsSdk_3006.0: UPRewardVideoWrapper: show_ad is true
+11-06 11:22:38.846 2986-3018/? I/AdsSdk_3006.0: TriggerParam mShowCount is 1
+11-06 11:22:38.846 2986-3018/? I/AdsSdk_3006.0: TriggerParam platform is null
+11-06 11:22:38.846 2986-3018/? I/AdsSdk_3006.0: UPRewardVideoWrapper show_order配置的展示联盟：null
+11-06 11:22:38.846 2986-3018/? I/AdsSdk_3006.0: UPRewardVideoWrapper peek
+11-06 11:22:38.846 2986-3018/? I/AdsSdk_3006.0: rewarded_video: ParallelRequestStrategy peek platform: null
+11-06 11:22:38.846 2986-3018/? I/AdsSdk_3006.0: rewarded_video peek, auctionOpen is false, mServerReqIds.size is 0
+11-06 11:22:38.846 2986-3018/? I/AdsSdk_3006.0: rewarded_video peek, 根据affinfo_list配置排序开始
+11-06 11:22:38.846 2986-3018/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:22:38.846 2986-3018/? I/AdsSdk_3006.0: rewarded_videopeek, 根据affinfo_list配置排序成功
+11-06 11:22:38.846 2986-3225/? I/AdsSdk_3006.0: rewarded_video: fillup is called
+11-06 11:22:38.846 2986-3018/? I/AdsSdk_3006.0: UPRewardVideoWrapper peek成功， 联盟: oneway
+11-06 11:22:38.846 2986-3018/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:22:38.847 2986-3018/? I/AdsSdk_3006.0: cplog: 视频广告 isReady return true
+11-06 11:22:38.847 2986-3018/? I/AdsSdk_3006.0: PolyProxy ===>invokeUnitySendMessage :{"function":"reward_didloadsuccess","message":"RewardVideo Ad onVideoAdLoadSuccess()"}
+11-06 11:22:38.847 2986-3225/? I/AdsSdk_3006.0: rewarded_video: only_wifi：false，netType: wifi
+11-06 11:22:38.848 2986-3225/? W/AdsSdk_3006.0: rewarded_video: fillup too frequently, return
+11-06 11:22:44.952 2986-3018/? I/AdsSdk_3006.0: PolyProxy ===>try to showVideoDebugActivity()
+11-06 11:22:44.952 2986-3018/? I/AdsSdk_3006.0: ParallelRequestStrategy preload is called: rewarded_video
+11-06 11:22:44.952 2986-3018/? I/AdsSdk_3006.0: rewarded_video: 根据延迟配置，0ms后开始预加载
+11-06 11:22:44.953 2986-3225/? I/AdsSdk_3006.0: rewarded_video: fillup is called
+11-06 11:22:44.954 2986-3225/? I/AdsSdk_3006.0: rewarded_video: only_wifi：false，netType: wifi
+11-06 11:22:44.954 2986-3225/? W/AdsSdk_3006.0: rewarded_video: fillup too frequently, return
+11-06 11:22:45.018 2986-3018/? I/AdsSdk_3006.0: banner ====>onApplicationFocus hasfocus: false
+11-06 11:22:45.568 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdView not found
+11-06 11:22:45.568 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.InterstitialAd not found
+11-06 11:22:45.569 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.reward.RewardedVideoAd not found
+11-06 11:22:45.570 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdRequest not found
+11-06 11:22:45.570 2986-2986/? D/AdsSdk_3006.0: Admob ads jars has not improved, check please
+11-06 11:22:45.571 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdView not found
+11-06 11:22:45.572 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.InterstitialAd not found
+11-06 11:22:45.572 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.reward.RewardedVideoAd not found
+11-06 11:22:45.573 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdRequest not found
+11-06 11:22:45.573 2986-2986/? D/AdsSdk_3006.0: Admob ads jars has not improved, check please
+11-06 11:22:45.580 2986-2986/? D/AdsSdk_3006.0: Admob_new ads jars has not improved, check please
+11-06 11:22:45.580 2986-2986/? D/AdsSdk_3006.0: Admob_new ads jars has not improved, check please
+11-06 11:22:45.588 2986-2986/? D/AdsSdk_3006.0: Adcolony ads jars has be not improved, check please
+11-06 11:22:45.589 2986-2986/? D/AdsSdk_3006.0: Adcolony ads jars has be not improved, check please
+11-06 11:22:45.602 2986-2986/? D/AdsSdk_3006.0: Unity ads jars has be not improved, check please
+11-06 11:22:45.603 2986-2986/? D/AdsSdk_3006.0: Unity ads jars has be not improved, check please
+11-06 11:22:45.615 2986-2986/? D/AdsSdk_3006.0: AppNext ads jars has not improved, check please
+11-06 11:22:45.616 2986-2986/? D/AdsSdk_3006.0: AppNext ads jars has not improved, check please
+11-06 11:22:45.623 2986-2986/? D/AdsSdk_3006.0: Applovin ads jars has not improved, check please
+11-06 11:22:45.624 2986-2986/? D/AdsSdk_3006.0: Applovin ads jars has not improved, check please
+11-06 11:22:45.631 2986-2986/? D/AdsSdk_3006.0: Chartboost ads jars has be not improved, check please
+11-06 11:22:45.632 2986-2986/? D/AdsSdk_3006.0: Chartboost ads jars has be not improved, check please
+11-06 11:22:45.637 2986-2986/? D/AdsSdk_3006.0: class com.facebook.ads.RewardedVideoAd not found
+11-06 11:22:45.637 2986-2986/? D/AdsSdk_3006.0: Facebook video ads jars has not improved, check please
+11-06 11:22:45.638 2986-2986/? D/AdsSdk_3006.0: class com.facebook.ads.RewardedVideoAd not found
+11-06 11:22:45.638 2986-2986/? D/AdsSdk_3006.0: Facebook video ads jars has not improved, check please
+11-06 11:22:45.644 2986-2986/? D/AdsSdk_3006.0: Ironsource ads jars has be not improved, check please
+11-06 11:22:45.645 2986-2986/? D/AdsSdk_3006.0: Ironsource ads jars has be not improved, check please
+11-06 11:22:45.649 2986-2986/? D/AdsSdk_3006.0: VK ads jars has be not improved, check please
+11-06 11:22:45.650 2986-2986/? D/AdsSdk_3006.0: VK ads jars has be not improved, check please
+11-06 11:22:45.655 2986-2986/? D/AdsSdk_3006.0: Dap vd ads jars has be not improved, check please
+11-06 11:22:45.656 2986-2986/? D/AdsSdk_3006.0: Dap vd ads jars has be not improved, check please
+11-06 11:22:45.664 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:22:45.664 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:22:45.667 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:22:45.668 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:22:45.959 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdView not found
+11-06 11:22:45.960 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.InterstitialAd not found
+11-06 11:22:45.961 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.reward.RewardedVideoAd not found
+11-06 11:22:45.962 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdRequest not found
+11-06 11:22:45.962 2986-2986/? D/AdsSdk_3006.0: Admob ads jars has not improved, check please
+11-06 11:22:45.964 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdView not found
+11-06 11:22:45.966 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.InterstitialAd not found
+11-06 11:22:45.967 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.reward.RewardedVideoAd not found
+11-06 11:22:45.968 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdRequest not found
+11-06 11:22:45.968 2986-2986/? D/AdsSdk_3006.0: Admob ads jars has not improved, check please
+11-06 11:22:45.969 2986-2986/? D/AdsSdk_3006.0: Admob_new ads jars has not improved, check please
+11-06 11:22:45.971 2986-2986/? D/AdsSdk_3006.0: Admob_new ads jars has not improved, check please
+11-06 11:22:45.973 2986-2986/? D/AdsSdk_3006.0: Adcolony ads jars has be not improved, check please
+11-06 11:22:45.974 2986-2986/? D/AdsSdk_3006.0: Adcolony ads jars has be not improved, check please
+11-06 11:22:45.976 2986-2986/? D/AdsSdk_3006.0: Unity ads jars has be not improved, check please
+11-06 11:22:45.977 2986-2986/? D/AdsSdk_3006.0: Unity ads jars has be not improved, check please
+11-06 11:22:45.979 2986-2986/? D/AdsSdk_3006.0: AppNext ads jars has not improved, check please
+11-06 11:22:45.980 2986-2986/? D/AdsSdk_3006.0: AppNext ads jars has not improved, check please
+11-06 11:22:45.982 2986-2986/? D/AdsSdk_3006.0: Applovin ads jars has not improved, check please
+11-06 11:22:45.983 2986-2986/? D/AdsSdk_3006.0: Applovin ads jars has not improved, check please
+11-06 11:22:45.985 2986-2986/? D/AdsSdk_3006.0: Chartboost ads jars has be not improved, check please
+11-06 11:22:45.986 2986-2986/? D/AdsSdk_3006.0: Chartboost ads jars has be not improved, check please
+11-06 11:22:45.988 2986-2986/? D/AdsSdk_3006.0: class com.facebook.ads.RewardedVideoAd not found
+11-06 11:22:45.988 2986-2986/? D/AdsSdk_3006.0: Facebook video ads jars has not improved, check please
+11-06 11:22:45.989 2986-2986/? D/AdsSdk_3006.0: class com.facebook.ads.RewardedVideoAd not found
+11-06 11:22:45.989 2986-2986/? D/AdsSdk_3006.0: Facebook video ads jars has not improved, check please
+11-06 11:22:45.990 2986-2986/? D/AdsSdk_3006.0: Ironsource ads jars has be not improved, check please
+11-06 11:22:45.991 2986-2986/? D/AdsSdk_3006.0: Ironsource ads jars has be not improved, check please
+11-06 11:22:45.993 2986-2986/? D/AdsSdk_3006.0: VK ads jars has be not improved, check please
+11-06 11:22:45.994 2986-2986/? D/AdsSdk_3006.0: VK ads jars has be not improved, check please
+11-06 11:22:45.996 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:22:45.996 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:22:45.997 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:22:46.000 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:22:48.383 2986-3018/? I/AdsSdk_3006.0: banner ====>onApplicationFocus hasfocus: true
+11-06 11:22:48.383 2986-3018/? I/AdsSdk_3006.0: banner ====>topFrameLayout    is hide:false, visibility: -100
+11-06 11:22:48.383 2986-3018/? I/AdsSdk_3006.0: banner ====>bottomFrameLayout is hide:false, visibility: -100
+11-06 11:22:48.383 2986-3018/? D/AdsSdk_3006.0: -------------------------------------------
+11-06 11:22:48.383 2986-3018/? D/AdsSdk_3006.0: |  reloadRunnable left time(ms): 44931
+11-06 11:22:48.384 2986-3018/? D/AdsSdk_3006.0: -------------------------------------------
+11-06 11:22:49.520 2986-3018/? I/AdsSdk_3006.0: PolyProxy ===>try to showVideoDebugActivity()
+11-06 11:22:49.565 2986-3018/? I/AdsSdk_3006.0: banner ====>onApplicationFocus hasfocus: false
+11-06 11:22:50.089 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdView not found
+11-06 11:22:50.089 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.InterstitialAd not found
+11-06 11:22:50.090 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.reward.RewardedVideoAd not found
+11-06 11:22:50.091 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdRequest not found
+11-06 11:22:50.092 2986-2986/? D/AdsSdk_3006.0: Admob ads jars has not improved, check please
+11-06 11:22:50.093 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdView not found
+11-06 11:22:50.093 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.InterstitialAd not found
+11-06 11:22:50.094 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.reward.RewardedVideoAd not found
+11-06 11:22:50.095 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdRequest not found
+11-06 11:22:50.095 2986-2986/? D/AdsSdk_3006.0: Admob ads jars has not improved, check please
+11-06 11:22:50.099 2986-2986/? D/AdsSdk_3006.0: Admob_new ads jars has not improved, check please
+11-06 11:22:50.100 2986-2986/? D/AdsSdk_3006.0: Admob_new ads jars has not improved, check please
+11-06 11:22:50.104 2986-2986/? D/AdsSdk_3006.0: Adcolony ads jars has be not improved, check please
+11-06 11:22:50.105 2986-2986/? D/AdsSdk_3006.0: Adcolony ads jars has be not improved, check please
+11-06 11:22:50.115 2986-2986/? D/AdsSdk_3006.0: Unity ads jars has be not improved, check please
+11-06 11:22:50.116 2986-2986/? D/AdsSdk_3006.0: Unity ads jars has be not improved, check please
+11-06 11:22:50.124 2986-2986/? D/AdsSdk_3006.0: AppNext ads jars has not improved, check please
+11-06 11:22:50.127 2986-2986/? D/AdsSdk_3006.0: AppNext ads jars has not improved, check please
+11-06 11:22:50.132 2986-2986/? D/AdsSdk_3006.0: Applovin ads jars has not improved, check please
+11-06 11:22:50.133 2986-2986/? D/AdsSdk_3006.0: Applovin ads jars has not improved, check please
+11-06 11:22:50.137 2986-2986/? D/AdsSdk_3006.0: Chartboost ads jars has be not improved, check please
+11-06 11:22:50.138 2986-2986/? D/AdsSdk_3006.0: Chartboost ads jars has be not improved, check please
+11-06 11:22:50.143 2986-2986/? D/AdsSdk_3006.0: class com.facebook.ads.RewardedVideoAd not found
+11-06 11:22:50.143 2986-2986/? D/AdsSdk_3006.0: Facebook video ads jars has not improved, check please
+11-06 11:22:50.144 2986-2986/? D/AdsSdk_3006.0: class com.facebook.ads.RewardedVideoAd not found
+11-06 11:22:50.144 2986-2986/? D/AdsSdk_3006.0: Facebook video ads jars has not improved, check please
+11-06 11:22:50.149 2986-2986/? D/AdsSdk_3006.0: Ironsource ads jars has be not improved, check please
+11-06 11:22:50.150 2986-2986/? D/AdsSdk_3006.0: Ironsource ads jars has be not improved, check please
+11-06 11:22:50.154 2986-2986/? D/AdsSdk_3006.0: VK ads jars has be not improved, check please
+11-06 11:22:50.155 2986-2986/? D/AdsSdk_3006.0: VK ads jars has be not improved, check please
+11-06 11:22:50.161 2986-2986/? D/AdsSdk_3006.0: Dap vd ads jars has be not improved, check please
+11-06 11:22:50.162 2986-2986/? D/AdsSdk_3006.0: Dap vd ads jars has be not improved, check please
+11-06 11:22:50.168 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:22:50.168 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:22:50.171 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:22:50.172 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:22:50.244 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdView not found
+11-06 11:22:50.245 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.InterstitialAd not found
+11-06 11:22:50.246 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.reward.RewardedVideoAd not found
+11-06 11:22:50.247 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdRequest not found
+11-06 11:22:50.247 2986-2986/? D/AdsSdk_3006.0: Admob ads jars has not improved, check please
+11-06 11:22:50.248 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdView not found
+11-06 11:22:50.248 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.InterstitialAd not found
+11-06 11:22:50.249 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.reward.RewardedVideoAd not found
+11-06 11:22:50.250 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdRequest not found
+11-06 11:22:50.250 2986-2986/? D/AdsSdk_3006.0: Admob ads jars has not improved, check please
+11-06 11:22:50.256 2986-2986/? D/AdsSdk_3006.0: Admob_new ads jars has not improved, check please
+11-06 11:22:50.257 2986-2986/? D/AdsSdk_3006.0: Admob_new ads jars has not improved, check please
+11-06 11:22:50.259 2986-2986/? D/AdsSdk_3006.0: Adcolony ads jars has be not improved, check please
+11-06 11:22:50.260 2986-2986/? D/AdsSdk_3006.0: Adcolony ads jars has be not improved, check please
+11-06 11:22:50.265 2986-2986/? D/AdsSdk_3006.0: Unity ads jars has be not improved, check please
+11-06 11:22:50.266 2986-2986/? D/AdsSdk_3006.0: Unity ads jars has be not improved, check please
+11-06 11:22:50.269 2986-2986/? D/AdsSdk_3006.0: AppNext ads jars has not improved, check please
+11-06 11:22:50.272 2986-2986/? D/AdsSdk_3006.0: AppNext ads jars has not improved, check please
+11-06 11:22:50.275 2986-2986/? D/AdsSdk_3006.0: Applovin ads jars has not improved, check please
+11-06 11:22:50.276 2986-2986/? D/AdsSdk_3006.0: Applovin ads jars has not improved, check please
+11-06 11:22:50.279 2986-2986/? D/AdsSdk_3006.0: Chartboost ads jars has be not improved, check please
+11-06 11:22:50.282 2986-2986/? D/AdsSdk_3006.0: Chartboost ads jars has be not improved, check please
+11-06 11:22:50.284 2986-2986/? D/AdsSdk_3006.0: class com.facebook.ads.RewardedVideoAd not found
+11-06 11:22:50.284 2986-2986/? D/AdsSdk_3006.0: Facebook video ads jars has not improved, check please
+11-06 11:22:50.285 2986-2986/? D/AdsSdk_3006.0: class com.facebook.ads.RewardedVideoAd not found
+11-06 11:22:50.285 2986-2986/? D/AdsSdk_3006.0: Facebook video ads jars has not improved, check please
+11-06 11:22:50.288 2986-2986/? D/AdsSdk_3006.0: Ironsource ads jars has be not improved, check please
+11-06 11:22:50.290 2986-2986/? D/AdsSdk_3006.0: Ironsource ads jars has be not improved, check please
+11-06 11:22:50.292 2986-2986/? D/AdsSdk_3006.0: VK ads jars has be not improved, check please
+11-06 11:22:50.293 2986-2986/? D/AdsSdk_3006.0: VK ads jars has be not improved, check please
+11-06 11:22:50.297 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:22:50.298 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:22:50.299 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:22:50.300 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:23:00.085 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:23:00.085 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:23:00.086 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:23:00.086 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:23:03.329 2986-3225/? D/AdsSdk_3006.0: toutiao_901121365: 重试开始
+11-06 11:23:03.332 2986-3573/? D/AdsSdk_3006.0: rewarded_video: AffInfo is: {"aff_name":"toutiao","app_id":"5001121","slot_id":"901121365","open_i_b":0,"aff_ttl":1800}
+11-06 11:23:03.333 2986-3573/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: false
+11-06 11:23:03.333 2986-3573/? D/AdsSdk_3006.0: LoadManager toutiao_901121365: load开始
+11-06 11:23:03.348 2986-3573/? I/<ALY Android>_3200: logEvent key: _NEW_RDA_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22toutiao%22%2C%22app_id%22%3A%225001121%22%2C%22slot_id%22%3A%22901121365%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __ad_id=rewarded_video, __sdk_ver=3006, __open_id=80b62288b18854cd28d2edff45ce7262, __pkg=roy.wan.inland, __sub_ver=3006.0, __sta_token=f8bad30d359540b685486a5694a8a90b}]
+11-06 11:23:04.177 2986-2986/? W/AdsSdk_3006.0: LoadManager LoadCallback: toutiao_901121365 onError，加载失败
+                                                message: TTRewardVideoAdapter failed with message: 没有广告
+11-06 11:23:05.626 2986-3225/? W/AdsSdk_3006.0: LoadManager mobvista_18188 removeLoading timeout
+11-06 11:23:06.815 2986-3225/? W/AdsSdk_3006.0: LoadManager playableads_il-100013-1503555086979 removeLoading timeout
+11-06 11:23:10.084 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:23:10.084 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:23:10.085 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:23:10.085 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:23:20.089 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:23:20.090 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:23:20.091 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:23:20.093 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:23:20.629 2986-3225/? W/AdsSdk_3006.0: LoadManager mobvista_11937 removeLoading timeout
+11-06 11:23:20.755 2986-3225/? W/AdsSdk_3006.0: LoadManager playable_inner_promotion removeLoading timeout
+11-06 11:23:30.072 2986-3018/? I/AdsSdk_3006.0: banner ====>onApplicationFocus hasfocus: true
+11-06 11:23:30.073 2986-3018/? I/AdsSdk_3006.0: banner ====>topFrameLayout    is hide:false, visibility: -100
+11-06 11:23:30.073 2986-3018/? I/AdsSdk_3006.0: banner ====>bottomFrameLayout is hide:false, visibility: -100
+11-06 11:23:30.073 2986-3018/? D/AdsSdk_3006.0: -------------------------------------------
+11-06 11:23:30.073 2986-3018/? D/AdsSdk_3006.0: |  reloadRunnable left time(ms): 86620
+11-06 11:23:30.073 2986-3018/? D/AdsSdk_3006.0: -------------------------------------------
+11-06 11:23:30.079 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:23:30.079 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:23:30.080 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:23:30.080 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:23:35.241 2986-3018/? I/AdsSdk_3006.0: UPRewardVideoWrapper: show_ad is true
+11-06 11:23:35.241 2986-3018/? I/AdsSdk_3006.0: TriggerParam mShowCount is 1
+11-06 11:23:35.241 2986-3018/? I/AdsSdk_3006.0: TriggerParam platform is null
+11-06 11:23:35.241 2986-3018/? I/AdsSdk_3006.0: UPRewardVideoWrapper show_order配置的展示联盟：null
+11-06 11:23:35.241 2986-3018/? I/AdsSdk_3006.0: UPRewardVideoWrapper peek
+11-06 11:23:35.242 2986-3018/? I/AdsSdk_3006.0: rewarded_video: ParallelRequestStrategy peek platform: null
+11-06 11:23:35.242 2986-3018/? I/AdsSdk_3006.0: rewarded_video peek, auctionOpen is false, mServerReqIds.size is 0
+11-06 11:23:35.242 2986-3018/? I/AdsSdk_3006.0: rewarded_video peek, 根据affinfo_list配置排序开始
+11-06 11:23:35.242 2986-3018/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:23:35.242 2986-3018/? I/AdsSdk_3006.0: rewarded_videopeek, 根据affinfo_list配置排序成功
+11-06 11:23:35.242 2986-3018/? I/AdsSdk_3006.0: UPRewardVideoWrapper peek成功， 联盟: oneway
+11-06 11:23:35.242 2986-3018/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:23:35.242 2986-3018/? I/AdsSdk_3006.0: rewarded_video开始判断是否达到显示条件
+11-06 11:23:35.242 2986-3225/? I/AdsSdk_3006.0: rewarded_video: fillup is called
+11-06 11:23:35.242 2986-3018/? I/AdsSdk_3006.0: TriggerParam mShowCount is 1 mDailyShowTimes is 50
+11-06 11:23:35.242 2986-3018/? I/AdsSdk_3006.0: TriggerHelper canShow return: true
+11-06 11:23:35.242 2986-3018/? I/AdsSdk_3006.0: cplog: 视频广告 isReady return true
+11-06 11:23:35.242 2986-3018/? I/AdsSdk_3006.0: Reward ===>showReward : aaa, loadview: false,ready: true
+11-06 11:23:35.242 2986-3018/? I/AdsSdk_3006.0: UPRewardVideoWrapper: show_ad is true
+11-06 11:23:35.242 2986-3018/? I/AdsSdk_3006.0: TriggerParam mShowCount is 1
+11-06 11:23:35.242 2986-3018/? I/AdsSdk_3006.0: TriggerParam platform is null
+11-06 11:23:35.242 2986-3018/? I/AdsSdk_3006.0: UPRewardVideoWrapper show_order配置的展示联盟：null
+11-06 11:23:35.242 2986-3018/? I/AdsSdk_3006.0: UPRewardVideoWrapper peek
+11-06 11:23:35.243 2986-3225/? I/AdsSdk_3006.0: rewarded_video: only_wifi：false，netType: wifi
+11-06 11:23:35.243 2986-3309/? I/AdsSdk_3006.0: rewarded_video: 开始请求联盟广告，位于加载队列中的联盟数: 5
+11-06 11:23:35.242 2986-3018/? I/AdsSdk_3006.0: rewarded_video: ParallelRequestStrategy peek platform: null
+11-06 11:23:35.244 2986-3018/? I/AdsSdk_3006.0: rewarded_video peek, auctionOpen is false, mServerReqIds.size is 0
+11-06 11:23:35.244 2986-3018/? I/AdsSdk_3006.0: rewarded_video peek, 根据affinfo_list配置排序开始
+11-06 11:23:35.244 2986-3018/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:23:35.244 2986-3018/? I/AdsSdk_3006.0: rewarded_videopeek, 根据affinfo_list配置排序成功
+11-06 11:23:35.244 2986-3225/? I/AdsSdk_3006.0: rewarded_video: fillup is called
+11-06 11:23:35.244 2986-3309/? D/AdsSdk_3006.0: rewarded_video: AffInfo is: {"aff_name":"mobvista","app_id":"90146","aff_key":"23d44b35a1b60f20f12f92498b00de9d","ad_unit_id":"11937","reward_id":"13238","open_i_b":0,"aff_ttl":1800}
+11-06 11:23:35.244 2986-3309/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO mobvista_11937 isValid: false
+11-06 11:23:35.244 2986-3309/? D/AdsSdk_3006.0: LoadManager mobvista_11937: load开始
+11-06 11:23:35.246 2986-3018/? I/AdsSdk_3006.0: UPRewardVideoWrapper peek成功， 联盟: oneway
+11-06 11:23:35.246 2986-3018/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:23:35.246 2986-3018/? I/AdsSdk_3006.0: rewarded_video开始判断是否达到显示条件
+11-06 11:23:35.246 2986-3018/? I/AdsSdk_3006.0: TriggerParam mShowCount is 1 mDailyShowTimes is 50
+11-06 11:23:35.246 2986-3018/? I/AdsSdk_3006.0: TriggerHelper canShow return: true
+11-06 11:23:35.246 2986-3018/? I/AdsSdk_3006.0: cplog: 视频广告 isReady return true
+11-06 11:23:35.247 2986-3018/? I/AdsSdk_3006.0: Reward ===>showReward show() : aaa
+11-06 11:23:35.247 2986-3018/? I/AdsSdk_3006.0: UPRewardVideoWrapper 传入的广告位: aaa
+11-06 11:23:35.247 2986-3225/? I/AdsSdk_3006.0: rewarded_video: only_wifi：false，netType: wifi
+11-06 11:23:35.247 2986-3225/? W/AdsSdk_3006.0: rewarded_video: fillup too frequently, return
+11-06 11:23:35.247 2986-2986/? I/AdsSdk_3006.0: UPRewardVideoWrapper: show_ad is true
+11-06 11:23:35.248 2986-2986/? I/AdsSdk_3006.0: TriggerParam mShowCount is 1
+11-06 11:23:35.248 2986-2986/? I/AdsSdk_3006.0: TriggerParam platform is null
+11-06 11:23:35.248 2986-2986/? I/AdsSdk_3006.0: UPRewardVideoWrapper show_order配置的展示联盟：null
+11-06 11:23:35.248 2986-2986/? I/AdsSdk_3006.0: UPRewardVideoWrapper peek
+11-06 11:23:35.248 2986-2986/? I/AdsSdk_3006.0: rewarded_video: ParallelRequestStrategy peek platform: null
+11-06 11:23:35.248 2986-2986/? I/AdsSdk_3006.0: rewarded_video peek, auctionOpen is false, mServerReqIds.size is 0
+11-06 11:23:35.248 2986-2986/? I/AdsSdk_3006.0: rewarded_video peek, 根据affinfo_list配置排序开始
+11-06 11:23:35.248 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:23:35.248 2986-3309/? I/<ALY Android>_3200: logEvent key: _NEW_RDA_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22mobvista%22%2C%22app_id%22%3A%2290146%22%2C%22aff_key%22%3A%2223d44b35a1b60f20f12f92498b00de9d%22%2C%22ad_unit_id%22%3A%2211937%22%2C%22reward_id%22%3A%2213238%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __ad_id=rewarded_video, __sdk_ver=3006, __open_id=80b62288b18854cd28d2edff45ce7262, __pkg=roy.wan.inland, __sub_ver=3006.0, __sta_token=f8bad30d359540b685486a5694a8a90b}]
+11-06 11:23:35.248 2986-2986/? I/AdsSdk_3006.0: rewarded_videopeek, 根据affinfo_list配置排序成功
+11-06 11:23:35.248 2986-2986/? I/AdsSdk_3006.0: UPRewardVideoWrapper peek成功， 联盟: oneway
+11-06 11:23:35.248 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:23:35.248 2986-2986/? I/AdsSdk_3006.0: cplog: 视频广告 isReady return true
+11-06 11:23:35.248 2986-2986/? I/AdsSdk_3006.0: cplog: 视频广告展示,联盟：oneway
+11-06 11:23:35.249 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:23:35.250 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:23:35.250 2986-2986/? I/AdsSdk_3006.0: UPRewardVideoWrapper: 加载成功联盟：vungle|||oneway
+11-06 11:23:35.252 2986-3309/? D/AdsSdk_3006.0: rewarded_video: AffInfo is: {"aff_name":"oneway","publisher_id":"eqv30rapcjp0kq1p","placement_id":"2","open_i_b":0,"aff_ttl":1800}
+11-06 11:23:35.252 2986-3309/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:23:35.252 2986-3309/? W/AdsSdk_3006.0: LoadManager oneway: 此联盟在loaded队列中, return
+11-06 11:23:35.252 2986-3309/? D/AdsSdk_3006.0: rewarded_video: LoadCallback: oneway onLoaded，加载成功
+11-06 11:23:35.253 2986-3309/? D/AdsSdk_3006.0: rewarded_video: AffInfo is: {"aff_name":"vungle","app_id":"58c23edde5ffdf116e0000b4","placement_id":"DEFAULT99486","open_i_b":0,"aff_ttl":1800,"vungle_ids":"DEFAULT99486,INTERST54803"}
+11-06 11:23:35.254 2986-3309/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:23:35.254 2986-3309/? W/AdsSdk_3006.0: LoadManager vungle_DEFAULT99486: 此联盟在loaded队列中, return
+11-06 11:23:35.254 2986-3309/? D/AdsSdk_3006.0: rewarded_video: LoadCallback: vungle_DEFAULT99486 onLoaded，加载成功
+11-06 11:23:35.255 2986-2986/? I/<ALY Android>_3200: logEvent key: _NEW_RDA_SHOW, value: [{__req_id=d6a5cafab808bac98328bb1ba9eb475d, __gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22oneway%22%2C%22publisher_id%22%3A%22eqv30rapcjp0kq1p%22%2C%22placement_id%22%3A%222%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __cp_ad_id=aaa, __ad_id=rewarded_video, __aff_ready=vungle|||oneway, __sdk_ver=3006, __open_id=80b62288b18854cd28d2edff45ce7262, __pkg=roy.wan.inland, __sub_ver=3006.0, __sta_token=f8bad30d359540b685486a5694a8a90b}]
+11-06 11:23:35.255 2986-3309/? D/AdsSdk_3006.0: rewarded_video: AffInfo is: {"aff_name":"playable_inner_promotion","app_key":"il-100013-1503555086955dd","open_i_b":0,"aff_ttl":1800}
+11-06 11:23:35.255 2986-3309/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO playable_inner_promotion isValid: false
+11-06 11:23:35.256 2986-3309/? D/AdsSdk_3006.0: LoadManager playable_inner_promotion: load开始
+11-06 11:23:35.258 2986-2986/? I/<ALY Android>_3200: logEvent key: _NEW_RDA_SHOW_RES, value: [{__req_id=d6a5cafab808bac98328bb1ba9eb475d, __gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22oneway%22%2C%22publisher_id%22%3A%22eqv30rapcjp0kq1p%22%2C%22placement_id%22%3A%222%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __sdk_ver=3006, __res_type=3, __open_id=80b62288b18854cd28d2edff45ce7262, __pkg=roy.wan.inland, __sub_ver=3006.0, __sta_token=f8bad30d359540b685486a5694a8a90b}]
+11-06 11:23:35.259 2986-3309/? I/<ALY Android>_3200: logEvent key: _NEW_RDA_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22playable_inner_promotion%22%2C%22app_key%22%3A%22il-100013-1503555086955dd%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __ad_id=rewarded_video, __sdk_ver=3006, __open_id=80b62288b18854cd28d2edff45ce7262, __pkg=roy.wan.inland, __sub_ver=3006.0, __sta_token=f8bad30d359540b685486a5694a8a90b}]
+11-06 11:23:35.261 2986-3225/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:23:35.267 2986-3309/? D/AdsSdk_3006.0: rewarded_video: AffInfo is: {"aff_name":"toutiao","app_id":"5001121","slot_id":"901121365","open_i_b":0,"aff_ttl":1800}
+11-06 11:23:35.269 2986-3309/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: false
+11-06 11:23:35.269 2986-3309/? D/AdsSdk_3006.0: LoadManager toutiao_901121365: load开始
+11-06 11:23:35.272 2986-3309/? I/<ALY Android>_3200: logEvent key: _NEW_RDA_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22toutiao%22%2C%22app_id%22%3A%225001121%22%2C%22slot_id%22%3A%22901121365%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __ad_id=rewarded_video, __sdk_ver=3006, __open_id=80b62288b18854cd28d2edff45ce7262, __pkg=roy.wan.inland, __sub_ver=3006.0, __sta_token=f8bad30d359540b685486a5694a8a90b}]
+11-06 11:23:35.468 2986-3018/? I/AdsSdk_3006.0: banner ====>onApplicationFocus hasfocus: false
+11-06 11:23:36.797 2986-2986/? I/AdsSdk_3006.0: UPRewardVideoWrapper onAdOpened
+11-06 11:23:36.797 2986-2986/? E/AdsSdk_3006.0: cplog: 请先使用gameAccountId调用initAbtConfigJson方法进行初始化
+11-06 11:23:36.800 2986-2986/? I/AdsSdk_3006.0: PolyProxy ===>invokeUnitySendMessage :{"function":"reward_didopen","message":"RewardVideo Ad onVideoAdDisplayed()","cpadsid":"aaa"}
+11-06 11:23:36.802 2986-2986/? I/<ALY Android>_3200: logEvent key: _NEW_RDA_SHOWOK, value: [{__req_id=d6a5cafab808bac98328bb1ba9eb475d, __gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22oneway%22%2C%22publisher_id%22%3A%22eqv30rapcjp0kq1p%22%2C%22placement_id%22%3A%222%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __cp_ad_id=aaa, __ad_id=rewarded_video, __sdk_ver=3006, __open_id=80b62288b18854cd28d2edff45ce7262, __pkg=roy.wan.inland, __sub_ver=3006.0, __sta_token=f8bad30d359540b685486a5694a8a90b}]
+11-06 11:23:36.883 2986-2986/? I/AdsSdk_3006.0: LoadManager LoadCallback: toutiao_901121365 onLoaded，加载成功
+11-06 11:23:36.884 2986-2986/? D/AdsSdk_3006.0: LoadCallback: toutiao_901121365 loadCostTimeMills is 1609
+11-06 11:23:36.887 2986-2986/? I/<ALY Android>_3200: logEvent key: _NEW_RDA_LOADOK, value: [{__req_id=0c2e175fcf00bf4d67088e7ade8e943e, __gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22toutiao%22%2C%22app_id%22%3A%225001121%22%2C%22slot_id%22%3A%22901121365%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __load_time=1609, __ad_id=rewarded_video, __sdk_ver=3006, __open_id=80b62288b18854cd28d2edff45ce7262, __pkg=roy.wan.inland, __sub_ver=3006.0, __sta_token=f8bad30d359540b685486a5694a8a90b}]
+11-06 11:23:37.038 2986-3225/? D/AdsSdk_3006.0: rewarded_video: LoadCallback: toutiao_901121365 onLoaded，加载成功
+11-06 11:23:37.479 2986-3225/? I/AdsSdk_3006.0: ParallelRequestStrategy load is called: inter_aaa
+11-06 11:23:37.479 2986-3225/? I/AdsSdk_3006.0: inter_aaa: fillup is called
+11-06 11:23:37.480 2986-3225/? I/AdsSdk_3006.0: inter_aaa: only_wifi：false，netType: wifi
+11-06 11:23:37.481 2986-3682/? I/AdsSdk_3006.0: inter_aaa: 开始请求联盟广告，位于加载队列中的联盟数: 6
+11-06 11:23:37.482 2986-3682/? D/AdsSdk_3006.0: inter_aaa: AffInfo is: {"aff_name":"gdt","aff_key":"1101152570","app_id":"8575134060152130849","placement_id":"0","open_i_b":0,"aff_ttl":1800}
+11-06 11:23:37.483 2986-3682/? D/AdsSdk_3006.0: GDT ads jars has be not improved, check please
+11-06 11:23:37.483 2986-3682/? W/AdsSdk_3006.0: LoadManager AdapterFactory return null with: gdt
+11-06 11:23:37.484 2986-3682/? D/AdsSdk_3006.0: inter_aaa: AffInfo is: {"aff_name":"ironsource","app_key":"6646564d","open_i_b":0,"aff_ttl":1800,"placement_id":"1111111111"}
+11-06 11:23:37.484 2986-3682/? D/AdsSdk_3006.0: Ironsource ads jars has be not improved, check please
+11-06 11:23:37.484 2986-3682/? W/AdsSdk_3006.0: LoadManager AdapterFactory return null with: ironsource
+11-06 11:23:37.485 2986-3682/? D/AdsSdk_3006.0: inter_aaa: AffInfo is: {"aff_name":"mobvista","app_id":"90146","aff_key":"23d44b35a1b60f20f12f92498b00de9d","ad_unit_id":"18188","reward_id":"13238","open_i_b":0,"aff_ttl":1800}
+11-06 11:23:37.485 2986-3682/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO mobvista_18188 isValid: false
+11-06 11:23:37.485 2986-3682/? D/AdsSdk_3006.0: LoadManager mobvista_18188: load开始
+11-06 11:23:37.487 2986-3682/? I/<ALY Android>_3200: logEvent key: _NEW_IL_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22mobvista%22%2C%22app_id%22%3A%2290146%22%2C%22aff_key%22%3A%2223d44b35a1b60f20f12f92498b00de9d%22%2C%22ad_unit_id%22%3A%2218188%22%2C%22reward_id%22%3A%2213238%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __ad_id=inter_aaa, __sdk_ver=3006, __open_id=80b62288b18854cd28d2edff45ce7262, __pkg=roy.wan.inland, __sub_ver=3006.0, __sta_token=f8bad30d359540b685486a5694a8a90b}]
+11-06 11:23:37.490 2986-3682/? D/AdsSdk_3006.0: inter_aaa: AffInfo is: {"aff_name":"vungle","app_id":"58c23edde5ffdf116e0000b4","placement_id":"INTERST54803","open_i_b":0,"aff_ttl":1800,"vungle_ids":"DEFAULT99486,INTERST54803"}
+11-06 11:23:37.490 2986-3682/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_INTERST54803 isValid: false
+11-06 11:23:37.490 2986-3682/? D/AdsSdk_3006.0: LoadManager vungle_INTERST54803: load开始
+11-06 11:23:37.493 2986-3682/? I/<ALY Android>_3200: logEvent key: _NEW_IL_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22vungle%22%2C%22app_id%22%3A%2258c23edde5ffdf116e0000b4%22%2C%22placement_id%22%3A%22INTERST54803%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%2C%22vungle_ids%22%3A%22DEFAULT99486%2CINTERST54803%22%7D, __ad_id=inter_aaa, __sdk_ver=3006, __open_id=80b62288b18854cd28d2edff45ce7262, __pkg=roy.wan.inland, __sub_ver=3006.0, __sta_token=f8bad30d359540b685486a5694a8a90b}]
+11-06 11:23:37.600 2986-3682/? D/AdsSdk_3006.0: inter_aaa: AffInfo is: {"aff_name":"unity","aff_key":"1533672","placement_id":"video","open_i_b":0,"aff_ttl":1800}
+11-06 11:23:37.601 2986-3682/? D/AdsSdk_3006.0: Unity ads jars has be not improved, check please
+11-06 11:23:37.601 2986-3682/? W/AdsSdk_3006.0: LoadManager AdapterFactory return null with: unity
+11-06 11:23:37.601 2986-3682/? D/AdsSdk_3006.0: inter_aaa: AffInfo is: {"aff_name":"playableads","app_key":"il-100013-1503555086979","open_i_b":0,"aff_ttl":1800}
+11-06 11:23:37.602 2986-3682/? D/AdsSdk_3006.0: Adapter: INTERSTITIAL playableads_il-100013-1503555086979 isValid: false
+11-06 11:23:37.602 2986-3682/? D/AdsSdk_3006.0: LoadManager playableads_il-100013-1503555086979: load开始
+11-06 11:23:37.604 2986-3682/? I/<ALY Android>_3200: logEvent key: _NEW_IL_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22playableads%22%2C%22app_key%22%3A%22il-100013-1503555086979%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __ad_id=inter_aaa, __sdk_ver=3006, __open_id=80b62288b18854cd28d2edff45ce7262, __pkg=roy.wan.inland, __sub_ver=3006.0, __sta_token=f8bad30d359540b685486a5694a8a90b}]
+11-06 11:23:45.415 2986-2986/? I/AdsSdk_3006.0: LoadManager LoadCallback: vungle_INTERST54803 onLoaded，加载成功
+11-06 11:23:45.420 2986-2986/? I/<ALY Android>_3200: logEvent key: _NEW_IL_LOADOK, value: [{__req_id=398f4e448cbabbb546c09a57ba5c697b, __gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22vungle%22%2C%22app_id%22%3A%2258c23edde5ffdf116e0000b4%22%2C%22placement_id%22%3A%22INTERST54803%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%2C%22vungle_ids%22%3A%22DEFAULT99486%2CINTERST54803%22%7D, __ad_id=inter_aaa, __sdk_ver=3006, __open_id=80b62288b18854cd28d2edff45ce7262, __pkg=roy.wan.inland, __sub_ver=3006.0, __sta_token=f8bad30d359540b685486a5694a8a90b}]
+11-06 11:23:45.571 2986-3225/? D/AdsSdk_3006.0: inter_aaa: LoadCallback: vungle_INTERST54803 onLoaded，加载成功
+11-06 11:24:02.233 2986-2986/? I/AdsSdk_3006.0: UPRewardVideoWrapper onAdClosed
+11-06 11:24:02.322 2986-2986/? I/AdsSdk_3006.0: UPRewardVideoWrapper 观看时间：25, 发奖励的最小观看时间：5
+11-06 11:24:02.322 2986-2986/? I/AdsSdk_3006.0: UPRewardVideoWrapper 发奖励, 联盟：oneway
+11-06 11:24:02.324 2986-2986/? I/AdsSdk_3006.0: PolyProxy ===>invokeUnitySendMessage :{"function":"reward_didgiven","message":"RewardVideo Ad onVideoAdReward()","cpadsid":"aaa"}
+11-06 11:24:02.328 2986-2986/? I/<ALY Android>_3200: logEvent key: _NEW_RDA_REWARDOK, value: [{__req_id=d6a5cafab808bac98328bb1ba9eb475d, __gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22oneway%22%2C%22publisher_id%22%3A%22eqv30rapcjp0kq1p%22%2C%22placement_id%22%3A%222%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __cp_ad_id=aaa, __ad_id=rewarded_video, __sdk_ver=3006, __open_id=80b62288b18854cd28d2edff45ce7262, __pkg=roy.wan.inland, __sub_ver=3006.0, __sta_token=f8bad30d359540b685486a5694a8a90b}]
+11-06 11:24:02.329 2986-2986/? I/AdsSdk_3006.0: PolyProxy ===>invokeUnitySendMessage :{"function":"reward_didclose","message":"RewardVideo Ad onVideoAdClosed()","cpadsid":"aaa"}
+11-06 11:24:02.332 2986-2986/? I/<ALY Android>_3200: logEvent key: _NEW_RDA_CLOSE, value: [{__req_id=d6a5cafab808bac98328bb1ba9eb475d, __gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22oneway%22%2C%22publisher_id%22%3A%22eqv30rapcjp0kq1p%22%2C%22placement_id%22%3A%222%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __cp_ad_id=aaa, __ad_id=rewarded_video, __sdk_ver=3006, __open_id=80b62288b18854cd28d2edff45ce7262, __pkg=roy.wan.inland, __sub_ver=3006.0, __sta_token=f8bad30d359540b685486a5694a8a90b}]
+11-06 11:24:02.363 2986-3018/? I/AdsSdk_3006.0: banner ====>onApplicationFocus hasfocus: true
+11-06 11:24:02.363 2986-3018/? I/AdsSdk_3006.0: banner ====>topFrameLayout    is hide:false, visibility: -100
+11-06 11:24:02.363 2986-3018/? I/AdsSdk_3006.0: banner ====>bottomFrameLayout is hide:false, visibility: -100
+11-06 11:24:02.363 2986-3018/? D/AdsSdk_3006.0: -------------------------------------------
+11-06 11:24:02.363 2986-3018/? D/AdsSdk_3006.0: |  reloadRunnable left time(ms): 118911
+11-06 11:24:02.363 2986-3018/? D/AdsSdk_3006.0: -------------------------------------------
+11-06 11:24:02.586 2986-2986/? I/AdsSdk_3006.0: LoadManager LoadCallback: oneway onLoaded，加载成功
+11-06 11:24:02.586 2986-2986/? D/AdsSdk_3006.0: LoadCallback: oneway loadCostTimeMills is 101867
+11-06 11:24:02.593 2986-2986/? I/<ALY Android>_3200: logEvent key: _NEW_RDA_LOADOK, value: [{__req_id=690ac0b10d870d94aca6eb64390f73d6, __gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22oneway%22%2C%22publisher_id%22%3A%22eqv30rapcjp0kq1p%22%2C%22placement_id%22%3A%222%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __load_time=101867, __ad_id=rewarded_video, __sdk_ver=3006, __open_id=80b62288b18854cd28d2edff45ce7262, __pkg=roy.wan.inland, __sub_ver=3006.0, __sta_token=f8bad30d359540b685486a5694a8a90b}]
+11-06 11:24:02.745 2986-3225/? D/AdsSdk_3006.0: rewarded_video: LoadCallback: oneway onLoaded，加载成功
+11-06 11:24:09.717 2986-3018/? I/AdsSdk_3006.0: PolyProxy ===>try to showVideoDebugActivity()
+11-06 11:24:09.776 2986-3018/? I/AdsSdk_3006.0: banner ====>onApplicationFocus hasfocus: false
+11-06 11:24:09.851 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdView not found
+11-06 11:24:09.851 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.InterstitialAd not found
+11-06 11:24:09.852 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.reward.RewardedVideoAd not found
+11-06 11:24:09.855 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdRequest not found
+11-06 11:24:09.855 2986-2986/? D/AdsSdk_3006.0: Admob ads jars has not improved, check please
+11-06 11:24:09.857 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdView not found
+11-06 11:24:09.859 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.InterstitialAd not found
+11-06 11:24:09.860 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.reward.RewardedVideoAd not found
+11-06 11:24:09.861 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdRequest not found
+11-06 11:24:09.861 2986-2986/? D/AdsSdk_3006.0: Admob ads jars has not improved, check please
+11-06 11:24:09.866 2986-2986/? D/AdsSdk_3006.0: Admob_new ads jars has not improved, check please
+11-06 11:24:09.867 2986-2986/? D/AdsSdk_3006.0: Admob_new ads jars has not improved, check please
+11-06 11:24:09.874 2986-2986/? D/AdsSdk_3006.0: Adcolony ads jars has be not improved, check please
+11-06 11:24:09.875 2986-2986/? D/AdsSdk_3006.0: Adcolony ads jars has be not improved, check please
+11-06 11:24:09.885 2986-2986/? D/AdsSdk_3006.0: Unity ads jars has be not improved, check please
+11-06 11:24:09.885 2986-2986/? D/AdsSdk_3006.0: Unity ads jars has be not improved, check please
+11-06 11:24:09.896 2986-2986/? D/AdsSdk_3006.0: AppNext ads jars has not improved, check please
+11-06 11:24:09.897 2986-2986/? D/AdsSdk_3006.0: AppNext ads jars has not improved, check please
+11-06 11:24:09.902 2986-2986/? D/AdsSdk_3006.0: Applovin ads jars has not improved, check please
+11-06 11:24:09.903 2986-2986/? D/AdsSdk_3006.0: Applovin ads jars has not improved, check please
+11-06 11:24:09.910 2986-2986/? D/AdsSdk_3006.0: Chartboost ads jars has be not improved, check please
+11-06 11:24:09.911 2986-2986/? D/AdsSdk_3006.0: Chartboost ads jars has be not improved, check please
+11-06 11:24:09.916 2986-2986/? D/AdsSdk_3006.0: class com.facebook.ads.RewardedVideoAd not found
+11-06 11:24:09.916 2986-2986/? D/AdsSdk_3006.0: Facebook video ads jars has not improved, check please
+11-06 11:24:09.917 2986-2986/? D/AdsSdk_3006.0: class com.facebook.ads.RewardedVideoAd not found
+11-06 11:24:09.917 2986-2986/? D/AdsSdk_3006.0: Facebook video ads jars has not improved, check please
+11-06 11:24:09.922 2986-2986/? D/AdsSdk_3006.0: Ironsource ads jars has be not improved, check please
+11-06 11:24:09.922 2986-2986/? D/AdsSdk_3006.0: Ironsource ads jars has be not improved, check please
+11-06 11:24:09.929 2986-2986/? D/AdsSdk_3006.0: VK ads jars has be not improved, check please
+11-06 11:24:09.930 2986-2986/? D/AdsSdk_3006.0: VK ads jars has be not improved, check please
+11-06 11:24:09.935 2986-2986/? D/AdsSdk_3006.0: Dap vd ads jars has be not improved, check please
+11-06 11:24:09.935 2986-2986/? D/AdsSdk_3006.0: Dap vd ads jars has be not improved, check please
+11-06 11:24:09.947 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:24:09.947 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:24:09.951 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:24:09.952 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:24:09.959 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: true
+11-06 11:24:09.959 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: true
+11-06 11:24:10.042 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdView not found
+11-06 11:24:10.043 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.InterstitialAd not found
+11-06 11:24:10.044 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.reward.RewardedVideoAd not found
+11-06 11:24:10.045 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdRequest not found
+11-06 11:24:10.045 2986-2986/? D/AdsSdk_3006.0: Admob ads jars has not improved, check please
+11-06 11:24:10.046 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdView not found
+11-06 11:24:10.047 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.InterstitialAd not found
+11-06 11:24:10.048 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.reward.RewardedVideoAd not found
+11-06 11:24:10.049 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdRequest not found
+11-06 11:24:10.050 2986-2986/? D/AdsSdk_3006.0: Admob ads jars has not improved, check please
+11-06 11:24:10.052 2986-2986/? D/AdsSdk_3006.0: Admob_new ads jars has not improved, check please
+11-06 11:24:10.053 2986-2986/? D/AdsSdk_3006.0: Admob_new ads jars has not improved, check please
+11-06 11:24:10.055 2986-2986/? D/AdsSdk_3006.0: Adcolony ads jars has be not improved, check please
+11-06 11:24:10.059 2986-2986/? D/AdsSdk_3006.0: Adcolony ads jars has be not improved, check please
+11-06 11:24:10.064 2986-2986/? D/AdsSdk_3006.0: Unity ads jars has be not improved, check please
+11-06 11:24:10.065 2986-2986/? D/AdsSdk_3006.0: Unity ads jars has be not improved, check please
+11-06 11:24:10.068 2986-2986/? D/AdsSdk_3006.0: AppNext ads jars has not improved, check please
+11-06 11:24:10.068 2986-2986/? D/AdsSdk_3006.0: AppNext ads jars has not improved, check please
+11-06 11:24:10.071 2986-2986/? D/AdsSdk_3006.0: Applovin ads jars has not improved, check please
+11-06 11:24:10.074 2986-2986/? D/AdsSdk_3006.0: Applovin ads jars has not improved, check please
+11-06 11:24:10.076 2986-2986/? D/AdsSdk_3006.0: Chartboost ads jars has be not improved, check please
+11-06 11:24:10.083 2986-2986/? D/AdsSdk_3006.0: Chartboost ads jars has be not improved, check please
+11-06 11:24:10.088 2986-2986/? D/AdsSdk_3006.0: class com.facebook.ads.RewardedVideoAd not found
+11-06 11:24:10.088 2986-2986/? D/AdsSdk_3006.0: Facebook video ads jars has not improved, check please
+11-06 11:24:10.099 2986-2986/? D/AdsSdk_3006.0: class com.facebook.ads.RewardedVideoAd not found
+11-06 11:24:10.100 2986-2986/? D/AdsSdk_3006.0: Facebook video ads jars has not improved, check please
+11-06 11:24:10.105 2986-2986/? D/AdsSdk_3006.0: Ironsource ads jars has be not improved, check please
+11-06 11:24:10.113 2986-2986/? D/AdsSdk_3006.0: Ironsource ads jars has be not improved, check please
+11-06 11:24:10.115 2986-2986/? D/AdsSdk_3006.0: VK ads jars has be not improved, check please
+11-06 11:24:10.116 2986-2986/? D/AdsSdk_3006.0: VK ads jars has be not improved, check please
+11-06 11:24:10.118 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:24:10.118 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:24:10.120 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:24:10.121 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:24:10.123 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: true
+11-06 11:24:10.123 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: true
+11-06 11:24:15.236 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: true
+11-06 11:24:15.487 2986-2986/? I/AdsSdk_3006.0: toutiao_901121365 onDebugAdOpened
+11-06 11:24:15.487 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: false
+11-06 11:24:15.615 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:24:15.615 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:24:15.616 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:24:15.617 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:24:15.618 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: false
+11-06 11:24:15.618 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: false
+11-06 11:24:35.262 2986-3225/? W/AdsSdk_3006.0: LoadManager mobvista_11937 removeLoading timeout
+11-06 11:24:35.262 2986-3225/? W/AdsSdk_3006.0: LoadManager playable_inner_promotion removeLoading timeout
+11-06 11:24:37.487 2986-3225/? W/AdsSdk_3006.0: LoadManager mobvista_18188 removeLoading timeout
+11-06 11:24:37.602 2986-3225/? W/AdsSdk_3006.0: LoadManager playableads_il-100013-1503555086979 removeLoading timeout
+11-06 11:24:48.601 2986-2986/? I/AdsSdk_3006.0: toutiao_901121365 onDebugAdClosed
+11-06 11:24:48.935 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdView not found
+11-06 11:24:48.936 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.InterstitialAd not found
+11-06 11:24:48.936 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.reward.RewardedVideoAd not found
+11-06 11:24:48.938 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdRequest not found
+11-06 11:24:48.938 2986-2986/? D/AdsSdk_3006.0: Admob ads jars has not improved, check please
+11-06 11:24:48.939 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdView not found
+11-06 11:24:48.940 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.InterstitialAd not found
+11-06 11:24:48.941 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.reward.RewardedVideoAd not found
+11-06 11:24:48.942 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdRequest not found
+11-06 11:24:48.942 2986-2986/? D/AdsSdk_3006.0: Admob ads jars has not improved, check please
+11-06 11:24:48.944 2986-2986/? D/AdsSdk_3006.0: Admob_new ads jars has not improved, check please
+11-06 11:24:48.945 2986-2986/? D/AdsSdk_3006.0: Admob_new ads jars has not improved, check please
+11-06 11:24:48.946 2986-2986/? D/AdsSdk_3006.0: Adcolony ads jars has be not improved, check please
+11-06 11:24:48.947 2986-2986/? D/AdsSdk_3006.0: Adcolony ads jars has be not improved, check please
+11-06 11:24:48.950 2986-2986/? D/AdsSdk_3006.0: Unity ads jars has be not improved, check please
+11-06 11:24:48.952 2986-2986/? D/AdsSdk_3006.0: Unity ads jars has be not improved, check please
+11-06 11:24:48.956 2986-2986/? D/AdsSdk_3006.0: AppNext ads jars has not improved, check please
+11-06 11:24:48.957 2986-2986/? D/AdsSdk_3006.0: AppNext ads jars has not improved, check please
+11-06 11:24:48.959 2986-2986/? D/AdsSdk_3006.0: Applovin ads jars has not improved, check please
+11-06 11:24:48.960 2986-2986/? D/AdsSdk_3006.0: Applovin ads jars has not improved, check please
+11-06 11:24:48.962 2986-2986/? D/AdsSdk_3006.0: Chartboost ads jars has be not improved, check please
+11-06 11:24:48.963 2986-2986/? D/AdsSdk_3006.0: Chartboost ads jars has be not improved, check please
+11-06 11:24:48.965 2986-2986/? D/AdsSdk_3006.0: class com.facebook.ads.RewardedVideoAd not found
+11-06 11:24:48.965 2986-2986/? D/AdsSdk_3006.0: Facebook video ads jars has not improved, check please
+11-06 11:24:48.966 2986-2986/? D/AdsSdk_3006.0: class com.facebook.ads.RewardedVideoAd not found
+11-06 11:24:48.966 2986-2986/? D/AdsSdk_3006.0: Facebook video ads jars has not improved, check please
+11-06 11:24:48.968 2986-2986/? D/AdsSdk_3006.0: Ironsource ads jars has be not improved, check please
+11-06 11:24:48.972 2986-2986/? D/AdsSdk_3006.0: Ironsource ads jars has be not improved, check please
+11-06 11:24:48.973 2986-2986/? D/AdsSdk_3006.0: VK ads jars has be not improved, check please
+11-06 11:24:48.974 2986-2986/? D/AdsSdk_3006.0: VK ads jars has be not improved, check please
+11-06 11:24:48.975 2986-2986/? D/AdsSdk_3006.0: Dap vd ads jars has be not improved, check please
+11-06 11:24:48.977 2986-2986/? D/AdsSdk_3006.0: Dap vd ads jars has be not improved, check please
+11-06 11:24:48.978 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:24:48.979 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:24:48.980 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:24:48.981 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:24:48.982 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: false
+11-06 11:24:48.982 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: false
+11-06 11:24:49.394 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdView not found
+11-06 11:24:49.397 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.InterstitialAd not found
+11-06 11:24:49.398 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.reward.RewardedVideoAd not found
+11-06 11:24:49.399 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdRequest not found
+11-06 11:24:49.399 2986-2986/? D/AdsSdk_3006.0: Admob ads jars has not improved, check please
+11-06 11:24:49.400 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdView not found
+11-06 11:24:49.401 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.InterstitialAd not found
+11-06 11:24:49.401 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.reward.RewardedVideoAd not found
+11-06 11:24:49.402 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdRequest not found
+11-06 11:24:49.402 2986-2986/? D/AdsSdk_3006.0: Admob ads jars has not improved, check please
+11-06 11:24:49.404 2986-2986/? D/AdsSdk_3006.0: Admob_new ads jars has not improved, check please
+11-06 11:24:49.405 2986-2986/? D/AdsSdk_3006.0: Admob_new ads jars has not improved, check please
+11-06 11:24:49.406 2986-2986/? D/AdsSdk_3006.0: Adcolony ads jars has be not improved, check please
+11-06 11:24:49.408 2986-2986/? D/AdsSdk_3006.0: Adcolony ads jars has be not improved, check please
+11-06 11:24:49.411 2986-2986/? D/AdsSdk_3006.0: Unity ads jars has be not improved, check please
+11-06 11:24:49.412 2986-2986/? D/AdsSdk_3006.0: Unity ads jars has be not improved, check please
+11-06 11:24:49.414 2986-2986/? D/AdsSdk_3006.0: AppNext ads jars has not improved, check please
+11-06 11:24:49.415 2986-2986/? D/AdsSdk_3006.0: AppNext ads jars has not improved, check please
+11-06 11:24:49.422 2986-2986/? D/AdsSdk_3006.0: Applovin ads jars has not improved, check please
+11-06 11:24:49.424 2986-2986/? D/AdsSdk_3006.0: Applovin ads jars has not improved, check please
+11-06 11:24:49.427 2986-2986/? D/AdsSdk_3006.0: Chartboost ads jars has be not improved, check please
+11-06 11:24:49.428 2986-2986/? D/AdsSdk_3006.0: Chartboost ads jars has be not improved, check please
+11-06 11:24:49.430 2986-2986/? D/AdsSdk_3006.0: class com.facebook.ads.RewardedVideoAd not found
+11-06 11:24:49.430 2986-2986/? D/AdsSdk_3006.0: Facebook video ads jars has not improved, check please
+11-06 11:24:49.431 2986-2986/? D/AdsSdk_3006.0: class com.facebook.ads.RewardedVideoAd not found
+11-06 11:24:49.431 2986-2986/? D/AdsSdk_3006.0: Facebook video ads jars has not improved, check please
+11-06 11:24:49.432 2986-2986/? D/AdsSdk_3006.0: Ironsource ads jars has be not improved, check please
+11-06 11:24:49.433 2986-2986/? D/AdsSdk_3006.0: Ironsource ads jars has be not improved, check please
+11-06 11:24:49.435 2986-2986/? D/AdsSdk_3006.0: VK ads jars has be not improved, check please
+11-06 11:24:49.437 2986-2986/? D/AdsSdk_3006.0: VK ads jars has be not improved, check please
+11-06 11:24:49.439 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:24:49.439 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:24:49.441 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:24:49.442 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:24:49.443 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: false
+11-06 11:24:49.444 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: false
+11-06 11:24:50.221 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:24:50.221 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:24:50.223 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:24:50.224 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:24:50.225 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: false
+11-06 11:24:50.225 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: false
+11-06 11:24:53.485 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:24:53.897 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdView not found
+11-06 11:24:53.897 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.InterstitialAd not found
+11-06 11:24:53.898 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.reward.RewardedVideoAd not found
+11-06 11:24:53.899 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdRequest not found
+11-06 11:24:53.899 2986-2986/? D/AdsSdk_3006.0: Admob ads jars has not improved, check please
+11-06 11:24:53.907 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdView not found
+11-06 11:24:53.908 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.InterstitialAd not found
+11-06 11:24:53.909 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.reward.RewardedVideoAd not found
+11-06 11:24:53.910 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdRequest not found
+11-06 11:24:53.910 2986-2986/? D/AdsSdk_3006.0: Admob ads jars has not improved, check please
+11-06 11:24:53.911 2986-2986/? D/AdsSdk_3006.0: Admob_new ads jars has not improved, check please
+11-06 11:24:53.912 2986-2986/? D/AdsSdk_3006.0: Admob_new ads jars has not improved, check please
+11-06 11:24:53.914 2986-2986/? D/AdsSdk_3006.0: Adcolony ads jars has be not improved, check please
+11-06 11:24:53.914 2986-2986/? D/AdsSdk_3006.0: Adcolony ads jars has be not improved, check please
+11-06 11:24:53.917 2986-2986/? D/AdsSdk_3006.0: Unity ads jars has be not improved, check please
+11-06 11:24:53.918 2986-2986/? D/AdsSdk_3006.0: Unity ads jars has be not improved, check please
+11-06 11:24:53.921 2986-2986/? D/AdsSdk_3006.0: AppNext ads jars has not improved, check please
+11-06 11:24:53.922 2986-2986/? D/AdsSdk_3006.0: AppNext ads jars has not improved, check please
+11-06 11:24:53.924 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: false
+11-06 11:24:53.924 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: false
+11-06 11:24:53.925 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:24:53.926 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:24:53.927 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: false
+11-06 11:24:53.927 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: false
+11-06 11:24:54.441 2986-2986/? I/AdsSdk_3006.0: oneway onDebugAdOpened
+11-06 11:24:54.441 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: false
+11-06 11:24:54.446 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: false
+11-06 11:24:54.446 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: false
+11-06 11:24:54.447 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:24:54.447 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:24:54.448 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: false
+11-06 11:24:54.448 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: false
+11-06 11:25:02.251 2986-3225/? I/AdsSdk_3006.0: ParallelRequestStrategy load is called: rewarded_video
+11-06 11:25:02.251 2986-3225/? I/AdsSdk_3006.0: rewarded_video: fillup is called
+11-06 11:25:02.252 2986-3225/? I/AdsSdk_3006.0: rewarded_video: only_wifi：false，netType: wifi
+11-06 11:25:02.252 2986-3549/? I/AdsSdk_3006.0: rewarded_video: 开始请求联盟广告，位于加载队列中的联盟数: 5
+11-06 11:25:02.253 2986-3549/? D/AdsSdk_3006.0: rewarded_video: AffInfo is: {"aff_name":"mobvista","app_id":"90146","aff_key":"23d44b35a1b60f20f12f92498b00de9d","ad_unit_id":"11937","reward_id":"13238","open_i_b":0,"aff_ttl":1800}
+11-06 11:25:02.253 2986-3549/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO mobvista_11937 isValid: false
+11-06 11:25:02.253 2986-3549/? D/AdsSdk_3006.0: LoadManager mobvista_11937: load开始
+11-06 11:25:02.258 2986-3549/? I/<ALY Android>_3200: logEvent key: _NEW_RDA_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22mobvista%22%2C%22app_id%22%3A%2290146%22%2C%22aff_key%22%3A%2223d44b35a1b60f20f12f92498b00de9d%22%2C%22ad_unit_id%22%3A%2211937%22%2C%22reward_id%22%3A%2213238%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __ad_id=rewarded_video, __sdk_ver=3006, __open_id=80b62288b18854cd28d2edff45ce7262, __pkg=roy.wan.inland, __sub_ver=3006.0, __sta_token=f8bad30d359540b685486a5694a8a90b}]
+11-06 11:25:02.261 2986-3549/? D/AdsSdk_3006.0: rewarded_video: AffInfo is: {"aff_name":"oneway","publisher_id":"eqv30rapcjp0kq1p","placement_id":"2","open_i_b":0,"aff_ttl":1800}
+11-06 11:25:02.261 2986-3549/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: false
+11-06 11:25:02.261 2986-3549/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: false
+11-06 11:25:02.261 2986-3549/? D/AdsSdk_3006.0: LoadManager oneway: load开始
+11-06 11:25:02.272 2986-3549/? I/<ALY Android>_3200: logEvent key: _NEW_RDA_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22oneway%22%2C%22publisher_id%22%3A%22eqv30rapcjp0kq1p%22%2C%22placement_id%22%3A%222%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __ad_id=rewarded_video, __sdk_ver=3006, __open_id=80b62288b18854cd28d2edff45ce7262, __pkg=roy.wan.inland, __sub_ver=3006.0, __sta_token=f8bad30d359540b685486a5694a8a90b}]
+11-06 11:25:02.273 2986-3549/? W/AdsSdk_3006.0: OnewayRewardVideoAdapter 已经初始化，不需要重复调用
+11-06 11:25:02.275 2986-3549/? D/AdsSdk_3006.0: rewarded_video: AffInfo is: {"aff_name":"vungle","app_id":"58c23edde5ffdf116e0000b4","placement_id":"DEFAULT99486","open_i_b":0,"aff_ttl":1800,"vungle_ids":"DEFAULT99486,INTERST54803"}
+11-06 11:25:02.276 2986-3549/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:25:02.276 2986-3549/? W/AdsSdk_3006.0: LoadManager vungle_DEFAULT99486: 此联盟在loaded队列中, return
+11-06 11:25:02.276 2986-3549/? D/AdsSdk_3006.0: rewarded_video: LoadCallback: vungle_DEFAULT99486 onLoaded，加载成功
+11-06 11:25:02.277 2986-3549/? D/AdsSdk_3006.0: rewarded_video: AffInfo is: {"aff_name":"playable_inner_promotion","app_key":"il-100013-1503555086955dd","open_i_b":0,"aff_ttl":1800}
+11-06 11:25:02.278 2986-3549/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO playable_inner_promotion isValid: false
+11-06 11:25:02.278 2986-3549/? D/AdsSdk_3006.0: LoadManager playable_inner_promotion: load开始
+11-06 11:25:02.288 2986-3549/? I/<ALY Android>_3200: logEvent key: _NEW_RDA_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22playable_inner_promotion%22%2C%22app_key%22%3A%22il-100013-1503555086955dd%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __ad_id=rewarded_video, __sdk_ver=3006, __open_id=80b62288b18854cd28d2edff45ce7262, __pkg=roy.wan.inland, __sub_ver=3006.0, __sta_token=f8bad30d359540b685486a5694a8a90b}]
+11-06 11:25:02.293 2986-3549/? D/AdsSdk_3006.0: rewarded_video: AffInfo is: {"aff_name":"toutiao","app_id":"5001121","slot_id":"901121365","open_i_b":0,"aff_ttl":1800}
+11-06 11:25:02.293 2986-3549/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: false
+11-06 11:25:02.293 2986-3549/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: false
+11-06 11:25:02.293 2986-3549/? D/AdsSdk_3006.0: LoadManager toutiao_901121365: load开始
+11-06 11:25:02.312 2986-3549/? I/<ALY Android>_3200: logEvent key: _NEW_RDA_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22toutiao%22%2C%22app_id%22%3A%225001121%22%2C%22slot_id%22%3A%22901121365%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __ad_id=rewarded_video, __sdk_ver=3006, __open_id=80b62288b18854cd28d2edff45ce7262, __pkg=roy.wan.inland, __sub_ver=3006.0, __sta_token=f8bad30d359540b685486a5694a8a90b}]
+11-06 11:25:03.090 2986-2986/? W/AdsSdk_3006.0: LoadManager LoadCallback: toutiao_901121365 onError，加载失败
+                                                message: TTRewardVideoAdapter failed with message: 没有广告
+11-06 11:25:03.097 2986-2986/? I/<ALY Android>_3200: logEvent key: _NEW_RDA_LOADNOK, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22toutiao%22%2C%22app_id%22%3A%225001121%22%2C%22slot_id%22%3A%22901121365%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __ad_id=rewarded_video, __sdk_ver=3006, __open_id=80b62288b18854cd28d2edff45ce7262, __pkg=roy.wan.inland, __sub_ver=3006.0, __sta_token=f8bad30d359540b685486a5694a8a90b}]
+11-06 11:25:03.349 2986-3225/? D/AdsSdk_3006.0: toutiao_901121365: 8000ms后重试
+11-06 11:25:11.355 2986-3225/? D/AdsSdk_3006.0: toutiao_901121365: 重试开始
+11-06 11:25:11.358 2986-3573/? D/AdsSdk_3006.0: rewarded_video: AffInfo is: {"aff_name":"toutiao","app_id":"5001121","slot_id":"901121365","open_i_b":0,"aff_ttl":1800}
+11-06 11:25:11.359 2986-3573/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: false
+11-06 11:25:11.359 2986-3573/? D/AdsSdk_3006.0: LoadManager toutiao_901121365: load开始
+11-06 11:25:11.362 2986-3573/? I/<ALY Android>_3200: logEvent key: _NEW_RDA_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22toutiao%22%2C%22app_id%22%3A%225001121%22%2C%22slot_id%22%3A%22901121365%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __ad_id=rewarded_video, __sdk_ver=3006, __open_id=80b62288b18854cd28d2edff45ce7262, __pkg=roy.wan.inland, __sub_ver=3006.0, __sta_token=f8bad30d359540b685486a5694a8a90b}]
+11-06 11:25:12.655 2986-2986/? I/AdsSdk_3006.0: LoadManager LoadCallback: toutiao_901121365 onLoaded，加载成功
+11-06 11:25:12.655 2986-2986/? D/AdsSdk_3006.0: LoadCallback: toutiao_901121365 loadCostTimeMills is 1282
+11-06 11:25:12.659 2986-2986/? I/<ALY Android>_3200: logEvent key: _NEW_RDA_LOADOK, value: [{__req_id=e09003ca549835acf0f0da37568709af, __gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22toutiao%22%2C%22app_id%22%3A%225001121%22%2C%22slot_id%22%3A%22901121365%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __load_time=1282, __ad_id=rewarded_video, __sdk_ver=3006, __open_id=80b62288b18854cd28d2edff45ce7262, __pkg=roy.wan.inland, __sub_ver=3006.0, __sta_token=f8bad30d359540b685486a5694a8a90b}]
+11-06 11:25:12.810 2986-3225/? D/AdsSdk_3006.0: rewarded_video: LoadCallback: toutiao_901121365 onLoaded，加载成功
+11-06 11:25:15.118 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdView not found
+11-06 11:25:15.119 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.InterstitialAd not found
+11-06 11:25:15.120 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.reward.RewardedVideoAd not found
+11-06 11:25:15.123 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdRequest not found
+11-06 11:25:15.123 2986-2986/? D/AdsSdk_3006.0: Admob ads jars has not improved, check please
+11-06 11:25:15.124 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdView not found
+11-06 11:25:15.125 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.InterstitialAd not found
+11-06 11:25:15.126 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.reward.RewardedVideoAd not found
+11-06 11:25:15.127 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdRequest not found
+11-06 11:25:15.127 2986-2986/? D/AdsSdk_3006.0: Admob ads jars has not improved, check please
+11-06 11:25:15.129 2986-2986/? D/AdsSdk_3006.0: Admob_new ads jars has not improved, check please
+11-06 11:25:15.130 2986-2986/? D/AdsSdk_3006.0: Admob_new ads jars has not improved, check please
+11-06 11:25:15.132 2986-2986/? D/AdsSdk_3006.0: Adcolony ads jars has be not improved, check please
+11-06 11:25:15.137 2986-2986/? D/AdsSdk_3006.0: Adcolony ads jars has be not improved, check please
+11-06 11:25:15.144 2986-2986/? D/AdsSdk_3006.0: Unity ads jars has be not improved, check please
+11-06 11:25:15.145 2986-2986/? D/AdsSdk_3006.0: Unity ads jars has be not improved, check please
+11-06 11:25:15.149 2986-2986/? D/AdsSdk_3006.0: AppNext ads jars has not improved, check please
+11-06 11:25:15.151 2986-2986/? D/AdsSdk_3006.0: AppNext ads jars has not improved, check please
+11-06 11:25:15.154 2986-2986/? D/AdsSdk_3006.0: Applovin ads jars has not improved, check please
+11-06 11:25:15.155 2986-2986/? D/AdsSdk_3006.0: Applovin ads jars has not improved, check please
+11-06 11:25:15.157 2986-2986/? D/AdsSdk_3006.0: Chartboost ads jars has be not improved, check please
+11-06 11:25:15.158 2986-2986/? D/AdsSdk_3006.0: Chartboost ads jars has be not improved, check please
+11-06 11:25:15.161 2986-2986/? D/AdsSdk_3006.0: class com.facebook.ads.RewardedVideoAd not found
+11-06 11:25:15.161 2986-2986/? D/AdsSdk_3006.0: Facebook video ads jars has not improved, check please
+11-06 11:25:15.163 2986-2986/? D/AdsSdk_3006.0: class com.facebook.ads.RewardedVideoAd not found
+11-06 11:25:15.163 2986-2986/? D/AdsSdk_3006.0: Facebook video ads jars has not improved, check please
+11-06 11:25:15.165 2986-2986/? D/AdsSdk_3006.0: Ironsource ads jars has be not improved, check please
+11-06 11:25:15.166 2986-2986/? D/AdsSdk_3006.0: Ironsource ads jars has be not improved, check please
+11-06 11:25:15.167 2986-2986/? D/AdsSdk_3006.0: VK ads jars has be not improved, check please
+11-06 11:25:15.168 2986-2986/? D/AdsSdk_3006.0: VK ads jars has be not improved, check please
+11-06 11:25:15.170 2986-2986/? D/AdsSdk_3006.0: Dap vd ads jars has be not improved, check please
+11-06 11:25:15.173 2986-2986/? D/AdsSdk_3006.0: Dap vd ads jars has be not improved, check please
+11-06 11:25:15.178 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:25:15.179 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:25:15.181 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: true
+11-06 11:25:15.181 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: true
+11-06 11:25:15.214 2986-2986/? I/AdsSdk_3006.0: oneway onDebugAdClosed
+11-06 11:25:15.298 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdView not found
+11-06 11:25:15.298 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.InterstitialAd not found
+11-06 11:25:15.299 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.reward.RewardedVideoAd not found
+11-06 11:25:15.300 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdRequest not found
+11-06 11:25:15.300 2986-2986/? D/AdsSdk_3006.0: Admob ads jars has not improved, check please
+11-06 11:25:15.302 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdView not found
+11-06 11:25:15.302 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.InterstitialAd not found
+11-06 11:25:15.306 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.reward.RewardedVideoAd not found
+11-06 11:25:15.308 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdRequest not found
+11-06 11:25:15.308 2986-2986/? D/AdsSdk_3006.0: Admob ads jars has not improved, check please
+11-06 11:25:15.310 2986-2986/? D/AdsSdk_3006.0: Admob_new ads jars has not improved, check please
+11-06 11:25:15.311 2986-2986/? D/AdsSdk_3006.0: Admob_new ads jars has not improved, check please
+11-06 11:25:15.312 2986-2986/? D/AdsSdk_3006.0: Adcolony ads jars has be not improved, check please
+11-06 11:25:15.313 2986-2986/? D/AdsSdk_3006.0: Adcolony ads jars has be not improved, check please
+11-06 11:25:15.319 2986-2986/? D/AdsSdk_3006.0: Unity ads jars has be not improved, check please
+11-06 11:25:15.321 2986-2986/? D/AdsSdk_3006.0: Unity ads jars has be not improved, check please
+11-06 11:25:15.324 2986-2986/? D/AdsSdk_3006.0: AppNext ads jars has not improved, check please
+11-06 11:25:15.325 2986-2986/? D/AdsSdk_3006.0: AppNext ads jars has not improved, check please
+11-06 11:25:15.331 2986-2986/? D/AdsSdk_3006.0: Applovin ads jars has not improved, check please
+11-06 11:25:15.333 2986-2986/? D/AdsSdk_3006.0: Applovin ads jars has not improved, check please
+11-06 11:25:15.335 2986-2986/? D/AdsSdk_3006.0: Chartboost ads jars has be not improved, check please
+11-06 11:25:15.336 2986-2986/? D/AdsSdk_3006.0: Chartboost ads jars has be not improved, check please
+11-06 11:25:15.338 2986-2986/? D/AdsSdk_3006.0: class com.facebook.ads.RewardedVideoAd not found
+11-06 11:25:15.338 2986-2986/? D/AdsSdk_3006.0: Facebook video ads jars has not improved, check please
+11-06 11:25:15.339 2986-2986/? D/AdsSdk_3006.0: class com.facebook.ads.RewardedVideoAd not found
+11-06 11:25:15.339 2986-2986/? D/AdsSdk_3006.0: Facebook video ads jars has not improved, check please
+11-06 11:25:15.341 2986-2986/? D/AdsSdk_3006.0: Ironsource ads jars has be not improved, check please
+11-06 11:25:15.343 2986-2986/? D/AdsSdk_3006.0: Ironsource ads jars has be not improved, check please
+11-06 11:25:15.351 2986-2986/? D/AdsSdk_3006.0: VK ads jars has be not improved, check please
+11-06 11:25:15.352 2986-2986/? D/AdsSdk_3006.0: VK ads jars has be not improved, check please
+11-06 11:25:15.359 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:25:15.360 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:25:15.362 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: true
+11-06 11:25:15.362 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: true
+11-06 11:25:15.569 2986-2986/? I/AdsSdk_3006.0: LoadManager LoadCallback: oneway onLoaded，加载成功
+11-06 11:25:15.570 2986-2986/? D/AdsSdk_3006.0: LoadCallback: oneway loadCostTimeMills is 174850
+11-06 11:25:15.574 2986-2986/? I/<ALY Android>_3200: logEvent key: _NEW_RDA_LOADOK, value: [{__req_id=ddb9c0ae7d8787525e3ae7d0d9409c36, __gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22oneway%22%2C%22publisher_id%22%3A%22eqv30rapcjp0kq1p%22%2C%22placement_id%22%3A%222%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __load_time=174850, __ad_id=rewarded_video, __sdk_ver=3006, __open_id=80b62288b18854cd28d2edff45ce7262, __pkg=roy.wan.inland, __sub_ver=3006.0, __sta_token=f8bad30d359540b685486a5694a8a90b}]
+11-06 11:25:15.726 2986-3225/? D/AdsSdk_3006.0: rewarded_video: LoadCallback: oneway onLoaded，加载成功
+11-06 11:25:18.628 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:25:19.095 2986-2986/? I/AdsSdk_3006.0: vungle_DEFAULT99486 onDebugAdOpened
+11-06 11:25:19.095 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: false
+11-06 11:25:19.191 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:25:19.192 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:25:19.192 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: false
+11-06 11:25:19.192 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: false
+11-06 11:25:19.193 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: true
+11-06 11:25:19.193 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: true
+11-06 11:25:19.320 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdView not found
+11-06 11:25:19.321 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.InterstitialAd not found
+11-06 11:25:19.322 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.reward.RewardedVideoAd not found
+11-06 11:25:19.323 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdRequest not found
+11-06 11:25:19.323 2986-2986/? D/AdsSdk_3006.0: Admob ads jars has not improved, check please
+11-06 11:25:19.323 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdView not found
+11-06 11:25:19.324 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.InterstitialAd not found
+11-06 11:25:19.325 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.reward.RewardedVideoAd not found
+11-06 11:25:19.326 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdRequest not found
+11-06 11:25:19.326 2986-2986/? D/AdsSdk_3006.0: Admob ads jars has not improved, check please
+11-06 11:25:19.327 2986-2986/? D/AdsSdk_3006.0: Admob_new ads jars has not improved, check please
+11-06 11:25:19.328 2986-2986/? D/AdsSdk_3006.0: Admob_new ads jars has not improved, check please
+11-06 11:25:19.329 2986-2986/? D/AdsSdk_3006.0: Adcolony ads jars has be not improved, check please
+11-06 11:25:19.330 2986-2986/? D/AdsSdk_3006.0: Adcolony ads jars has be not improved, check please
+11-06 11:25:19.333 2986-2986/? D/AdsSdk_3006.0: Unity ads jars has be not improved, check please
+11-06 11:25:19.334 2986-2986/? D/AdsSdk_3006.0: Unity ads jars has be not improved, check please
+11-06 11:25:19.337 2986-2986/? D/AdsSdk_3006.0: AppNext ads jars has not improved, check please
+11-06 11:25:19.338 2986-2986/? D/AdsSdk_3006.0: AppNext ads jars has not improved, check please
+11-06 11:25:19.340 2986-2986/? D/AdsSdk_3006.0: Applovin ads jars has not improved, check please
+11-06 11:25:19.341 2986-2986/? D/AdsSdk_3006.0: Applovin ads jars has not improved, check please
+11-06 11:25:19.342 2986-2986/? D/AdsSdk_3006.0: Chartboost ads jars has be not improved, check please
+11-06 11:25:19.343 2986-2986/? D/AdsSdk_3006.0: Chartboost ads jars has be not improved, check please
+11-06 11:25:19.345 2986-2986/? D/AdsSdk_3006.0: class com.facebook.ads.RewardedVideoAd not found
+11-06 11:25:19.345 2986-2986/? D/AdsSdk_3006.0: Facebook video ads jars has not improved, check please
+11-06 11:25:19.346 2986-2986/? D/AdsSdk_3006.0: class com.facebook.ads.RewardedVideoAd not found
+11-06 11:25:19.346 2986-2986/? D/AdsSdk_3006.0: Facebook video ads jars has not improved, check please
+11-06 11:25:19.347 2986-2986/? D/AdsSdk_3006.0: Ironsource ads jars has be not improved, check please
+11-06 11:25:19.348 2986-2986/? D/AdsSdk_3006.0: Ironsource ads jars has be not improved, check please
+11-06 11:25:19.349 2986-2986/? D/AdsSdk_3006.0: VK ads jars has be not improved, check please
+11-06 11:25:19.350 2986-2986/? D/AdsSdk_3006.0: VK ads jars has be not improved, check please
+11-06 11:25:19.353 2986-2986/? D/AdsSdk_3006.0: Dap vd ads jars has be not improved, check please
+11-06 11:25:19.354 2986-2986/? D/AdsSdk_3006.0: Dap vd ads jars has be not improved, check please
+11-06 11:25:19.359 2986-2986/? D/AdsSdk_3006.0: Maio ads jars has be not improved, check please
+11-06 11:25:19.360 2986-2986/? D/AdsSdk_3006.0: Maio ads jars has be not improved, check please
+11-06 11:25:19.362 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:25:19.362 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:25:19.362 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: false
+11-06 11:25:19.362 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: false
+11-06 11:25:19.363 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: true
+11-06 11:25:19.364 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: true
+11-06 11:25:19.635 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdView not found
+11-06 11:25:19.635 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.InterstitialAd not found
+11-06 11:25:19.636 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.reward.RewardedVideoAd not found
+11-06 11:25:19.638 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdRequest not found
+11-06 11:25:19.638 2986-2986/? D/AdsSdk_3006.0: Admob ads jars has not improved, check please
+11-06 11:25:19.640 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdView not found
+11-06 11:25:19.641 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.InterstitialAd not found
+11-06 11:25:19.643 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.reward.RewardedVideoAd not found
+11-06 11:25:19.645 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdRequest not found
+11-06 11:25:19.645 2986-2986/? D/AdsSdk_3006.0: Admob ads jars has not improved, check please
+11-06 11:25:19.646 2986-2986/? D/AdsSdk_3006.0: Admob_new ads jars has not improved, check please
+11-06 11:25:19.647 2986-2986/? D/AdsSdk_3006.0: Admob_new ads jars has not improved, check please
+11-06 11:25:19.649 2986-2986/? D/AdsSdk_3006.0: Adcolony ads jars has be not improved, check please
+11-06 11:25:19.650 2986-2986/? D/AdsSdk_3006.0: Adcolony ads jars has be not improved, check please
+11-06 11:25:19.653 2986-2986/? D/AdsSdk_3006.0: Unity ads jars has be not improved, check please
+11-06 11:25:19.655 2986-2986/? D/AdsSdk_3006.0: Unity ads jars has be not improved, check please
+11-06 11:25:19.658 2986-2986/? D/AdsSdk_3006.0: AppNext ads jars has not improved, check please
+11-06 11:25:19.658 2986-2986/? D/AdsSdk_3006.0: AppNext ads jars has not improved, check please
+11-06 11:25:19.661 2986-2986/? D/AdsSdk_3006.0: Applovin ads jars has not improved, check please
+11-06 11:25:19.662 2986-2986/? D/AdsSdk_3006.0: Applovin ads jars has not improved, check please
+11-06 11:25:19.664 2986-2986/? D/AdsSdk_3006.0: Chartboost ads jars has be not improved, check please
+11-06 11:25:19.664 2986-2986/? D/AdsSdk_3006.0: Chartboost ads jars has be not improved, check please
+11-06 11:25:19.667 2986-2986/? D/AdsSdk_3006.0: class com.facebook.ads.RewardedVideoAd not found
+11-06 11:25:19.667 2986-2986/? D/AdsSdk_3006.0: Facebook video ads jars has not improved, check please
+11-06 11:25:19.668 2986-2986/? D/AdsSdk_3006.0: class com.facebook.ads.RewardedVideoAd not found
+11-06 11:25:19.668 2986-2986/? D/AdsSdk_3006.0: Facebook video ads jars has not improved, check please
+11-06 11:25:19.669 2986-2986/? D/AdsSdk_3006.0: Ironsource ads jars has be not improved, check please
+11-06 11:25:19.670 2986-2986/? D/AdsSdk_3006.0: Ironsource ads jars has be not improved, check please
+11-06 11:25:19.672 2986-2986/? D/AdsSdk_3006.0: VK ads jars has be not improved, check please
+11-06 11:25:19.673 2986-2986/? D/AdsSdk_3006.0: VK ads jars has be not improved, check please
+11-06 11:25:19.675 2986-2986/? D/AdsSdk_3006.0: Dap vd ads jars has be not improved, check please
+11-06 11:25:19.676 2986-2986/? D/AdsSdk_3006.0: Dap vd ads jars has be not improved, check please
+11-06 11:25:19.677 2986-2986/? D/AdsSdk_3006.0: Maio ads jars has be not improved, check please
+11-06 11:25:19.678 2986-2986/? D/AdsSdk_3006.0: Maio ads jars has be not improved, check please
+11-06 11:25:19.680 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:25:19.680 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:25:19.681 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: false
+11-06 11:25:19.681 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: false
+11-06 11:25:19.682 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: true
+11-06 11:25:19.682 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: true
+11-06 11:25:20.265 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:25:20.265 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:25:20.265 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: false
+11-06 11:25:20.266 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: false
+11-06 11:25:20.266 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: true
+11-06 11:25:20.266 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: true
+11-06 11:25:30.247 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:25:30.248 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:25:30.253 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:25:30.255 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:25:30.255 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: true
+11-06 11:25:30.256 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: true
+11-06 11:25:40.238 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:25:40.238 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:25:40.240 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:25:40.241 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:25:40.242 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: true
+11-06 11:25:40.242 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: true
+11-06 11:25:50.253 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:25:50.253 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:25:50.255 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:25:50.255 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:25:50.256 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: true
+11-06 11:25:50.256 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: true
+11-06 11:25:52.180 2986-2986/? I/AdsSdk_3006.0: vungle_DEFAULT99486 onDebugAdClosed
+11-06 11:25:52.239 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdView not found
+11-06 11:25:52.239 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.InterstitialAd not found
+11-06 11:25:52.240 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.reward.RewardedVideoAd not found
+11-06 11:25:52.242 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdRequest not found
+11-06 11:25:52.242 2986-2986/? D/AdsSdk_3006.0: Admob ads jars has not improved, check please
+11-06 11:25:52.244 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdView not found
+11-06 11:25:52.245 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.InterstitialAd not found
+11-06 11:25:52.246 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.reward.RewardedVideoAd not found
+11-06 11:25:52.248 2986-2986/? D/AdsSdk_3006.0: class com.google.android.gms.ads.AdRequest not found
+11-06 11:25:52.248 2986-2986/? D/AdsSdk_3006.0: Admob ads jars has not improved, check please
+11-06 11:25:52.250 2986-2986/? D/AdsSdk_3006.0: Admob_new ads jars has not improved, check please
+11-06 11:25:52.252 2986-2986/? D/AdsSdk_3006.0: Admob_new ads jars has not improved, check please
+11-06 11:25:52.254 2986-2986/? D/AdsSdk_3006.0: Adcolony ads jars has be not improved, check please
+11-06 11:25:52.255 2986-2986/? D/AdsSdk_3006.0: Adcolony ads jars has be not improved, check please
+11-06 11:25:52.263 2986-2986/? D/AdsSdk_3006.0: Unity ads jars has be not improved, check please
+11-06 11:25:52.265 2986-2986/? D/AdsSdk_3006.0: Unity ads jars has be not improved, check please
+11-06 11:25:52.275 2986-2986/? D/AdsSdk_3006.0: AppNext ads jars has not improved, check please
+11-06 11:25:52.276 2986-2986/? D/AdsSdk_3006.0: AppNext ads jars has not improved, check please
+11-06 11:25:52.280 2986-2986/? D/AdsSdk_3006.0: Applovin ads jars has not improved, check please
+11-06 11:25:52.281 2986-2986/? D/AdsSdk_3006.0: Applovin ads jars has not improved, check please
+11-06 11:25:52.283 2986-2986/? D/AdsSdk_3006.0: Chartboost ads jars has be not improved, check please
+11-06 11:25:52.283 2986-2986/? D/AdsSdk_3006.0: Chartboost ads jars has be not improved, check please
+11-06 11:25:52.285 2986-2986/? D/AdsSdk_3006.0: class com.facebook.ads.RewardedVideoAd not found
+11-06 11:25:52.285 2986-2986/? D/AdsSdk_3006.0: Facebook video ads jars has not improved, check please
+11-06 11:25:52.286 2986-2986/? D/AdsSdk_3006.0: class com.facebook.ads.RewardedVideoAd not found
+11-06 11:25:52.286 2986-2986/? D/AdsSdk_3006.0: Facebook video ads jars has not improved, check please
+11-06 11:25:52.288 2986-2986/? D/AdsSdk_3006.0: Ironsource ads jars has be not improved, check please
+11-06 11:25:52.289 2986-2986/? D/AdsSdk_3006.0: Ironsource ads jars has be not improved, check please
+11-06 11:25:52.291 2986-2986/? D/AdsSdk_3006.0: VK ads jars has be not improved, check please
+11-06 11:25:52.292 2986-2986/? D/AdsSdk_3006.0: VK ads jars has be not improved, check please
+11-06 11:25:52.294 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:25:52.295 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:25:52.296 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:25:52.297 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:25:52.298 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: true
+11-06 11:25:52.298 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: true
+11-06 11:26:00.254 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:26:00.254 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:26:00.256 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:26:00.256 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:26:00.257 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: true
+11-06 11:26:00.257 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: true
+11-06 11:26:02.301 2986-3225/? W/AdsSdk_3006.0: LoadManager mobvista_11937 removeLoading timeout
+11-06 11:26:02.301 2986-3225/? W/AdsSdk_3006.0: LoadManager playable_inner_promotion removeLoading timeout
+11-06 11:26:10.257 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:26:10.258 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:26:10.258 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:26:10.259 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:26:10.259 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: true
+11-06 11:26:10.260 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: true
+11-06 11:26:20.266 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:26:20.267 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:26:20.269 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:26:20.284 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:26:20.286 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: true
+11-06 11:26:20.287 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: true
+11-06 11:26:30.267 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:26:30.268 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:26:30.272 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:26:30.275 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:26:30.282 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: true
+11-06 11:26:30.282 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: true
+11-06 11:26:40.268 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:26:40.268 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:26:40.278 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:26:40.287 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:26:40.289 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: true
+11-06 11:26:40.289 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: true
+11-06 11:26:50.274 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:26:50.275 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:26:50.277 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:26:50.286 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:26:50.287 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: true
+11-06 11:26:50.292 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: true
+11-06 11:27:00.272 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:27:00.272 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:27:00.272 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:27:00.273 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:27:00.273 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: true
+11-06 11:27:00.273 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: true
+11-06 11:27:10.277 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:27:10.278 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:27:10.279 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:27:10.284 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:27:10.284 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: true
+11-06 11:27:10.285 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: true
+11-06 11:27:20.294 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:27:20.295 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:27:20.302 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:27:20.306 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:27:20.309 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: true
+11-06 11:27:20.309 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: true
+11-06 11:27:30.280 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:27:30.280 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:27:30.285 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:27:30.288 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:27:30.295 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: true
+11-06 11:27:30.295 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: true
+11-06 11:27:40.293 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:27:40.293 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO oneway isValid: true
+11-06 11:27:40.295 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:27:40.297 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO vungle_DEFAULT99486 isValid: true
+11-06 11:27:40.316 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: true
+11-06 11:27:40.317 2986-2986/? D/AdsSdk_3006.0: Adapter: REWARDVIDEO toutiao_901121365 isValid: true

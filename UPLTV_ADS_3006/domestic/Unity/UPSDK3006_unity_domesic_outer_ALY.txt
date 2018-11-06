@@ -1,0 +1,178 @@
+11-06 16:58:19.389 3514-3534/? I/<ALY Android>_3200: UPProxy ===>iniSDK, sGameObjectName :UPTraceSDK_Callback_Object
+11-06 16:58:19.390 3514-3534/? I/<ALY Android>_3200: UPProxy ===>iniSDK, sGameFunctionName :onTargetCallback
+11-06 16:58:19.390 3514-3534/? I/<ALY Android>_3200: UPProxy ===>try to load UnityPlayer
+11-06 16:58:19.390 3514-3534/? I/<ALY Android>_3200: UPProxy ===>try to get currentActivity
+11-06 16:58:19.391 3514-3534/? I/<ALY Android>_3200: UPProxy ===>find the currentActivity
+11-06 16:58:19.391 3514-3534/? I/<ALY Android>_3200: UPProxy ===>will find the avail unityplayer object.
+11-06 16:58:19.391 3514-3534/? I/<ALY Android>_3200: UPProxy ===>has found the unityplayer object: com.unity3d.player.UnityPlayer{f4afe10 V.E...... ......I. 0,0-1080,1920}
+11-06 16:58:19.392 3514-3534/? I/<ALY Android>_3200: UPProxy ===>try to find the unityplayer UnitySendMessage method
+11-06 16:58:19.395 3514-3534/? I/<ALY Android>_3200: UPProxy ===>has found the unityplayer UnitySendMessage method:public static void com.unity3d.player.UnityPlayer.UnitySendMessage(java.lang.String,java.lang.String,java.lang.String)
+11-06 16:58:19.407 3514-3534/? I/Unity: ==> initOuterAnalyse_Click:
+                                         
+                                        (Filename: /Users/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+11-06 16:58:19.412 3514-3834/? I/<ALY Android>_3200: xxx ==> dataDir: /sdcard/Android/data/roy.wan.inland/files
+11-06 16:58:19.413 3514-3834/? I/<ALY Android>_3200: xxx ==> dataDir exist: false
+11-06 16:58:33.113 3514-3979/? I/<ALY Android>_3200: logEvent key: _NEW_IL_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22mobvista%22%2C%22app_id%22%3A%2290146%22%2C%22aff_key%22%3A%2223d44b35a1b60f20f12f92498b00de9d%22%2C%22ad_unit_id%22%3A%2218188%22%2C%22reward_id%22%3A%2213238%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __ad_id=inter_aaa, __sdk_ver=3006, __open_id=7a511efa4eabd7f32f80c8a6717fc565, __pkg=roy.wan.inland, __sub_ver=3006.0, __sta_token=eadee61de3a34fed97c2dbbc6240030b}]
+11-06 16:58:33.127 3514-3979/? I/<ALY Android>_3200: logEvent key: _NEW_IL_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22vungle%22%2C%22app_id%22%3A%2258c23edde5ffdf116e0000b4%22%2C%22placement_id%22%3A%22INTERST54803%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%2C%22vungle_ids%22%3A%22DEFAULT99486%2CINTERST54803%22%7D, __ad_id=inter_aaa, __sdk_ver=3006, __open_id=7a511efa4eabd7f32f80c8a6717fc565, __pkg=roy.wan.inland, __sub_ver=3006.0, __sta_token=eadee61de3a34fed97c2dbbc6240030b}]
+11-06 16:58:33.166 3514-3838/? I/<ALY Android>_3200: 开始插入数据：2
+11-06 16:58:33.225 3514-3838/? I/<ALY Android>_3200: 完成插入数据：2
+11-06 16:58:33.225 3514-3838/? I/<ALY Android>_3200: ====数据插入运行完成===
+11-06 16:58:33.258 3514-3932/? I/<ALY Android>_3200: logEvent key: _NEW_CFG_DLDOK, value: [{__language=en_US, __location=CN, __brand=google, __system_version=23, __sdk_ver=3006, __os=android, __model=Nexus 5, __h=1776, __android_id=68cfc7bb674f7b7f, __env=1, __pkg=roy.wan.inland, __orientation=p, __sta_token=eadee61de3a34fed97c2dbbc6240030b, __ver_code=1, __gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __w=1080, __install_fb=1, __config_ver=52, __open_id=7a511efa4eabd7f32f80c8a6717fc565, __ver_name=1.0, __device_id=352136064190941, __count=0, __sub_ver=3006.0}]
+11-06 16:58:33.287 3514-3838/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 2
+11-06 16:58:33.313 3514-3838/? I/<ALY Android>_3200: 开始插入数据：1
+11-06 16:58:33.348 3514-3838/? I/<ALY Android>_3200: 完成插入数据：1
+11-06 16:58:33.348 3514-3838/? I/<ALY Android>_3200: ====数据插入运行完成===
+11-06 16:58:33.410 3514-3838/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 1
+11-06 16:58:33.714 3514-3838/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+11-06 16:58:34.421 3514-3979/? I/<ALY Android>_3200: logEvent key: _NEW_IL_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22playableads%22%2C%22app_key%22%3A%22il-100013-1503555086979%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __ad_id=inter_aaa, __sdk_ver=3006, __open_id=7a511efa4eabd7f32f80c8a6717fc565, __pkg=roy.wan.inland, __sub_ver=3006.0, __sta_token=eadee61de3a34fed97c2dbbc6240030b}]
+11-06 16:58:34.472 3514-3838/? I/<ALY Android>_3200: 开始插入数据：1
+11-06 16:58:34.497 3514-3838/? I/<ALY Android>_3200: 完成插入数据：1
+11-06 16:58:34.497 3514-3838/? I/<ALY Android>_3200: ====数据插入运行完成===
+11-06 16:58:34.558 3514-3838/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 1
+11-06 16:58:34.805 3514-3838/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+11-06 16:58:41.769 3514-3534/? I/Unity: ==> reportWithAnalyse_Click:0
+                                         
+                                        (Filename: /Users/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+11-06 16:58:41.787 3514-3534/? I/<ALY Android>_3200: logEvent key: KEY_PLAYER_DIC, value: [{name=player-001, appid=com.test.demo, level=1}]
+11-06 16:58:41.791 3514-3534/? I/<ALY Android>_3200: logEvent key: KEY_PLAYER_STRING, value: Hello, this is a testing data.
+11-06 16:58:41.793 3514-3534/? I/<ALY Android>_3200: logEvent key: KEY_PLAYER_ONLY
+11-06 16:58:41.838 3514-3838/? I/<ALY Android>_3200: 开始插入数据：4
+11-06 16:58:41.864 3514-3838/? I/<ALY Android>_3200: 完成插入数据：4
+11-06 16:58:41.864 3514-3838/? I/<ALY Android>_3200: ====数据插入运行完成===
+11-06 16:58:41.927 3514-3838/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 4
+11-06 16:58:42.164 3514-3838/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+11-06 16:58:43.125 3514-3534/? I/Unity: ==> reportWithAnalyse_Click:1
+                                         
+                                        (Filename: /Users/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+11-06 16:58:43.126 3514-3534/? I/<ALY Android>_3200: logEvent key: KEY_PLAYER_DIC, value: [{name=player-001, appid=com.test.demo, level=1}]
+11-06 16:58:43.128 3514-3534/? I/<ALY Android>_3200: logEvent key: KEY_PLAYER_STRING, value: Hello, this is a testing data.
+11-06 16:58:43.130 3514-3534/? I/<ALY Android>_3200: logEvent key: KEY_PLAYER_ONLY
+11-06 16:58:43.178 3514-3838/? I/<ALY Android>_3200: 开始插入数据：4
+11-06 16:58:43.195 3514-3838/? I/<ALY Android>_3200: 完成插入数据：4
+11-06 16:58:43.195 3514-3838/? I/<ALY Android>_3200: ====数据插入运行完成===
+11-06 16:58:43.257 3514-3838/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 4
+11-06 16:58:43.518 3514-3838/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+11-06 16:58:43.803 3514-3534/? I/Unity: ==> reportWithAnalyse_Click:2
+                                         
+                                        (Filename: /Users/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+11-06 16:58:43.804 3514-3534/? I/<ALY Android>_3200: logEvent key: KEY_PLAYER_DIC, value: [{name=player-001, appid=com.test.demo, level=1}]
+11-06 16:58:43.807 3514-3534/? I/<ALY Android>_3200: logEvent key: KEY_PLAYER_STRING, value: Hello, this is a testing data.
+11-06 16:58:43.808 3514-3534/? I/<ALY Android>_3200: logEvent key: KEY_PLAYER_ONLY
+11-06 16:58:43.857 3514-3838/? I/<ALY Android>_3200: 开始插入数据：4
+11-06 16:58:43.872 3514-3838/? I/<ALY Android>_3200: 完成插入数据：4
+11-06 16:58:43.873 3514-3838/? I/<ALY Android>_3200: ====数据插入运行完成===
+11-06 16:58:43.934 3514-3838/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 4
+11-06 16:58:44.167 3514-3838/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+11-06 16:58:44.577 3514-3534/? I/Unity: ==> reportWithAnalyse_Click:3
+                                         
+                                        (Filename: /Users/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+11-06 16:58:44.579 3514-3534/? I/<ALY Android>_3200: logEvent key: KEY_PLAYER_DIC, value: [{name=player-001, appid=com.test.demo, level=1}]
+11-06 16:58:44.581 3514-3534/? I/<ALY Android>_3200: logEvent key: KEY_PLAYER_STRING, value: Hello, this is a testing data.
+11-06 16:58:44.582 3514-3534/? I/<ALY Android>_3200: logEvent key: KEY_PLAYER_ONLY
+11-06 16:58:44.630 3514-3838/? I/<ALY Android>_3200: 开始插入数据：4
+11-06 16:58:44.641 3514-3838/? I/<ALY Android>_3200: 完成插入数据：4
+11-06 16:58:44.641 3514-3838/? I/<ALY Android>_3200: ====数据插入运行完成===
+11-06 16:58:44.702 3514-3838/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 4
+11-06 16:58:44.937 3514-3838/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+11-06 16:58:45.689 3514-3534/? I/Unity: ==> reportWithAnalyse_Click:4
+                                         
+                                        (Filename: /Users/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+11-06 16:58:45.690 3514-3534/? I/<ALY Android>_3200: logEvent key: KEY_PLAYER_DIC, value: [{name=player-001, appid=com.test.demo, level=1}]
+11-06 16:58:45.692 3514-3534/? I/<ALY Android>_3200: logEvent key: KEY_PLAYER_STRING, value: Hello, this is a testing data.
+11-06 16:58:45.692 3514-3534/? I/<ALY Android>_3200: logEvent key: KEY_PLAYER_ONLY
+11-06 16:58:45.742 3514-3838/? I/<ALY Android>_3200: 开始插入数据：4
+11-06 16:58:45.769 3514-3838/? I/<ALY Android>_3200: 完成插入数据：4
+11-06 16:58:45.769 3514-3838/? I/<ALY Android>_3200: ====数据插入运行完成===
+11-06 16:58:45.831 3514-3838/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 4
+11-06 16:58:46.070 3514-3838/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+11-06 16:58:46.788 3514-3534/? I/Unity: ==> reportWithAnalyse_Click:5
+                                         
+                                        (Filename: /Users/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+11-06 16:58:46.789 3514-3534/? I/<ALY Android>_3200: logEvent key: KEY_PLAYER_DIC, value: [{name=player-001, appid=com.test.demo, level=1}]
+11-06 16:58:46.792 3514-3534/? I/<ALY Android>_3200: logEvent key: KEY_PLAYER_STRING, value: Hello, this is a testing data.
+11-06 16:58:46.792 3514-3534/? I/<ALY Android>_3200: logEvent key: KEY_PLAYER_ONLY
+11-06 16:58:46.840 3514-3838/? I/<ALY Android>_3200: 开始插入数据：4
+11-06 16:58:46.849 3514-4225/? I/<ALY Android>_3200: logEvent key: _NEW_RDA_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22mobvista%22%2C%22app_id%22%3A%2290146%22%2C%22aff_key%22%3A%2223d44b35a1b60f20f12f92498b00de9d%22%2C%22ad_unit_id%22%3A%2211937%22%2C%22reward_id%22%3A%2213238%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __ad_id=rewarded_video, __sdk_ver=3006, __open_id=7a511efa4eabd7f32f80c8a6717fc565, __pkg=roy.wan.inland, __sub_ver=3006.0, __sta_token=eadee61de3a34fed97c2dbbc6240030b}]
+11-06 16:58:46.866 3514-4225/? I/<ALY Android>_3200: logEvent key: _NEW_RDA_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22oneway%22%2C%22publisher_id%22%3A%22eqv30rapcjp0kq1p%22%2C%22placement_id%22%3A%222%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __ad_id=rewarded_video, __sdk_ver=3006, __open_id=7a511efa4eabd7f32f80c8a6717fc565, __pkg=roy.wan.inland, __sub_ver=3006.0, __sta_token=eadee61de3a34fed97c2dbbc6240030b}]
+11-06 16:58:46.872 3514-3838/? I/<ALY Android>_3200: 完成插入数据：4
+11-06 16:58:46.872 3514-3838/? I/<ALY Android>_3200: ====数据插入运行完成===
+11-06 16:58:46.877 3514-3838/? I/<ALY Android>_3200: 开始插入数据：2
+11-06 16:58:46.902 3514-3838/? I/<ALY Android>_3200: 完成插入数据：2
+11-06 16:58:46.902 3514-3838/? I/<ALY Android>_3200: ====数据插入运行完成===
+11-06 16:58:46.904 3514-3838/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 6
+11-06 16:58:46.919 3514-3838/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+11-06 16:58:46.921 3514-4225/? I/<ALY Android>_3200: logEvent key: _NEW_RDA_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22vungle%22%2C%22app_id%22%3A%2258c23edde5ffdf116e0000b4%22%2C%22placement_id%22%3A%22DEFAULT99486%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%2C%22vungle_ids%22%3A%22DEFAULT99486%2CINTERST54803%22%7D, __ad_id=rewarded_video, __sdk_ver=3006, __open_id=7a511efa4eabd7f32f80c8a6717fc565, __pkg=roy.wan.inland, __sub_ver=3006.0, __sta_token=eadee61de3a34fed97c2dbbc6240030b}]
+11-06 16:58:46.930 3514-4225/? I/<ALY Android>_3200: logEvent key: _NEW_RDA_LOADNOK, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22vungle%22%2C%22app_id%22%3A%2258c23edde5ffdf116e0000b4%22%2C%22placement_id%22%3A%22DEFAULT99486%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%2C%22vungle_ids%22%3A%22DEFAULT99486%2CINTERST54803%22%7D, __ad_id=rewarded_video, __sdk_ver=3006, __open_id=7a511efa4eabd7f32f80c8a6717fc565, __pkg=roy.wan.inland, __sub_ver=3006.0, __sta_token=eadee61de3a34fed97c2dbbc6240030b}]
+11-06 16:58:46.934 3514-4225/? I/<ALY Android>_3200: logEvent key: _NEW_RDA_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22playable_inner_promotion%22%2C%22app_key%22%3A%22il-100013-1503555086955dd%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __ad_id=rewarded_video, __sdk_ver=3006, __open_id=7a511efa4eabd7f32f80c8a6717fc565, __pkg=roy.wan.inland, __sub_ver=3006.0, __sta_token=eadee61de3a34fed97c2dbbc6240030b}]
+11-06 16:58:46.948 3514-4225/? I/<ALY Android>_3200: logEvent key: _NEW_RDA_LOAD, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22toutiao%22%2C%22app_id%22%3A%225001121%22%2C%22slot_id%22%3A%22901121365%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __ad_id=rewarded_video, __sdk_ver=3006, __open_id=7a511efa4eabd7f32f80c8a6717fc565, __pkg=roy.wan.inland, __sub_ver=3006.0, __sta_token=eadee61de3a34fed97c2dbbc6240030b}]
+11-06 16:58:46.975 3514-3838/? I/<ALY Android>_3200: 开始插入数据：4
+11-06 16:58:47.012 3514-3838/? I/<ALY Android>_3200: 完成插入数据：4
+11-06 16:58:47.014 3514-3838/? I/<ALY Android>_3200: ====数据插入运行完成===
+11-06 16:58:47.074 3514-3838/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 4
+11-06 16:58:47.112 3514-3838/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+11-06 16:58:47.349 3514-3838/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+11-06 16:58:48.039 3514-3534/? I/Unity: ==> reportWithAnalyse_Click:6
+                                         
+                                        (Filename: /Users/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+11-06 16:58:48.041 3514-3534/? I/<ALY Android>_3200: logEvent key: KEY_PLAYER_DIC, value: [{name=player-001, appid=com.test.demo, level=1}]
+11-06 16:58:48.043 3514-3534/? I/<ALY Android>_3200: logEvent key: KEY_PLAYER_STRING, value: Hello, this is a testing data.
+11-06 16:58:48.045 3514-3534/? I/<ALY Android>_3200: logEvent key: KEY_PLAYER_ONLY
+11-06 16:58:48.093 3514-3838/? I/<ALY Android>_3200: 开始插入数据：4
+11-06 16:58:48.141 3514-3838/? I/<ALY Android>_3200: 完成插入数据：4
+11-06 16:58:48.141 3514-3838/? I/<ALY Android>_3200: ====数据插入运行完成===
+11-06 16:58:48.197 3514-3514/? I/<ALY Android>_3200: logEvent key: _NEW_RDA_LOADNOK, value: [{__gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22toutiao%22%2C%22app_id%22%3A%225001121%22%2C%22slot_id%22%3A%22901121365%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __ad_id=rewarded_video, __sdk_ver=3006, __open_id=7a511efa4eabd7f32f80c8a6717fc565, __pkg=roy.wan.inland, __sub_ver=3006.0, __sta_token=eadee61de3a34fed97c2dbbc6240030b}]
+11-06 16:58:48.202 3514-3838/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 4
+11-06 16:58:48.223 3514-3838/? I/<ALY Android>_3200: 开始插入数据：1
+11-06 16:58:48.241 3514-3838/? I/<ALY Android>_3200: 完成插入数据：1
+11-06 16:58:48.242 3514-3838/? I/<ALY Android>_3200: ====数据插入运行完成===
+11-06 16:58:48.303 3514-3838/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 1
+11-06 16:58:48.572 3514-3838/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+11-06 16:58:48.784 3514-3534/? I/Unity: ==> reportWithAnalyse_Click:7
+                                         
+                                        (Filename: /Users/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+11-06 16:58:48.789 3514-3534/? I/<ALY Android>_3200: logEvent key: KEY_PLAYER_DIC, value: [{name=player-001, appid=com.test.demo, level=1}]
+11-06 16:58:48.792 3514-3534/? I/<ALY Android>_3200: logEvent key: KEY_PLAYER_STRING, value: Hello, this is a testing data.
+11-06 16:58:48.793 3514-3534/? I/<ALY Android>_3200: logEvent key: KEY_PLAYER_ONLY
+11-06 16:58:48.841 3514-3838/? I/<ALY Android>_3200: 开始插入数据：4
+11-06 16:58:48.856 3514-3838/? I/<ALY Android>_3200: 完成插入数据：4
+11-06 16:58:48.856 3514-3838/? I/<ALY Android>_3200: ====数据插入运行完成===
+11-06 16:58:48.918 3514-3838/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 4
+11-06 16:58:49.161 3514-3838/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+11-06 16:58:49.586 3514-3534/? I/Unity: ==> reportWithAnalyse_Click:8
+                                         
+                                        (Filename: /Users/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+11-06 16:58:49.588 3514-3534/? I/<ALY Android>_3200: logEvent key: KEY_PLAYER_DIC, value: [{name=player-001, appid=com.test.demo, level=1}]
+11-06 16:58:49.591 3514-3534/? I/<ALY Android>_3200: logEvent key: KEY_PLAYER_STRING, value: Hello, this is a testing data.
+11-06 16:58:49.594 3514-3534/? I/<ALY Android>_3200: logEvent key: KEY_PLAYER_ONLY
+11-06 16:58:49.641 3514-3838/? I/<ALY Android>_3200: 开始插入数据：4
+11-06 16:58:49.661 3514-3838/? I/<ALY Android>_3200: 完成插入数据：4
+11-06 16:58:49.661 3514-3838/? I/<ALY Android>_3200: ====数据插入运行完成===
+11-06 16:58:49.722 3514-3838/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 4
+11-06 16:58:49.968 3514-3838/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+11-06 16:58:50.413 3514-3534/? I/Unity: ==> reportWithAnalyse_Click:9
+                                         
+                                        (Filename: /Users/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+11-06 16:58:50.415 3514-3534/? I/<ALY Android>_3200: logEvent key: KEY_PLAYER_DIC, value: [{name=player-001, appid=com.test.demo, level=1}]
+11-06 16:58:50.419 3514-3534/? I/<ALY Android>_3200: logEvent key: KEY_PLAYER_STRING, value: Hello, this is a testing data.
+11-06 16:58:50.420 3514-3534/? I/<ALY Android>_3200: logEvent key: KEY_PLAYER_ONLY
+11-06 16:58:50.468 3514-3838/? I/<ALY Android>_3200: 开始插入数据：4
+11-06 16:58:50.502 3514-3838/? I/<ALY Android>_3200: 完成插入数据：4
+11-06 16:58:50.502 3514-3838/? I/<ALY Android>_3200: ====数据插入运行完成===
+11-06 16:58:50.565 3514-3838/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 4
+11-06 16:58:50.824 3514-3838/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
+11-06 16:58:51.073 3514-3534/? I/Unity: ==> reportWithAnalyse_Click:10
+                                         
+                                        (Filename: /Users/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+11-06 16:58:51.074 3514-3534/? I/<ALY Android>_3200: logEvent key: KEY_PLAYER_DIC, value: [{name=player-001, appid=com.test.demo, level=1}]
+11-06 16:58:51.077 3514-3534/? I/<ALY Android>_3200: logEvent key: KEY_PLAYER_STRING, value: Hello, this is a testing data.
+11-06 16:58:51.078 3514-3534/? I/<ALY Android>_3200: logEvent key: KEY_PLAYER_ONLY
+11-06 16:58:51.127 3514-3838/? I/<ALY Android>_3200: 开始插入数据：4
+11-06 16:58:51.144 3514-3838/? I/<ALY Android>_3200: 完成插入数据：4
+11-06 16:58:51.144 3514-3838/? I/<ALY Android>_3200: ====数据插入运行完成===
+11-06 16:58:51.206 3514-3838/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 4
+11-06 16:58:51.271 3514-3514/? I/<ALY Android>_3200: logEvent key: _NEW_RDA_LOADOK, value: [{__req_id=a059c3b677f6d78b2ee27891a3ce6500, __gaid=5a862c88-d254-45bc-be40-20af7d04b1b9, __aff_info=%7B%22aff_name%22%3A%22oneway%22%2C%22publisher_id%22%3A%22eqv30rapcjp0kq1p%22%2C%22placement_id%22%3A%222%22%2C%22open_i_b%22%3A0%2C%22aff_ttl%22%3A1800%7D, __load_time=4351, __ad_id=rewarded_video, __sdk_ver=3006, __open_id=7a511efa4eabd7f32f80c8a6717fc565, __pkg=roy.wan.inland, __sub_ver=3006.0, __sta_token=eadee61de3a34fed97c2dbbc6240030b}]
+11-06 16:58:51.324 3514-3838/? I/<ALY Android>_3200: 开始插入数据：1
+11-06 16:58:51.337 3514-3838/? I/<ALY Android>_3200: 完成插入数据：1
+11-06 16:58:51.337 3514-3838/? I/<ALY Android>_3200: ====数据插入运行完成===
+11-06 16:58:51.351 3514-3838/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 1
+11-06 16:58:51.598 3514-3838/? I/<ALY Android>_3200: doQueryEventInDBGcd, 当前表中总可发送的数据: 0
